@@ -1429,8 +1429,8 @@
       ]
     },
     {
-      "name": "five--year-decision-filter",
-      "source": "./skills/founder-decision-support-strategy/five--year-decision-filter",
+      "name": "five-year-decision-filter",
+      "source": "./skills/founder-decision-support-strategy/five-year-decision-filter",
       "description": "Evaluates critical founder decisions through a rigorous 5-year consequence lens, stress-testing strategic choices against long-term business trajectory, opportunity cost, and irreversibility.",
       "version": "1.0.0",
       "keywords": [
