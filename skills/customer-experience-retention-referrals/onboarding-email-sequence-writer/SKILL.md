@@ -1,8 +1,167 @@
 ---
 name: onboarding-email-sequence-writer
-description: Onboarding Email Sequence Writer — coming soon
+description: |
+  Crafts high-conversion onboarding email sequences that activate new users, reduce time-to-value, and prevent early-stage churn using FutureProof context.
+  Trigger: when a user asks to create, review, or improve an onboarding email sequence, welcome email series, or new-customer nurture campaign for a product or service.
 ---
 
-# Onboarding Email Sequence Writer
+## Step 1: Connect to FutureProof
 
-This skill is being configured. Check back soon.
+```
+FutureProof:connect(skill="onboarding-email-sequence-writer")
+```
+
+Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically ICA profiles, brand voice guidelines, product/service details, known activation milestones, and any prior onboarding sequence performance data.
+
+## Step 2: Get Input
+
+Ask the user:
+
+- **Product/service overview** — What is the user being onboarded into? (SaaS platform, membership, course, service engagement, etc.)
+- **ICA definition** — Who is the new user? Role, sophistication level, primary pain point at moment of purchase, and expected outcome.
+- **Activation milestone** — What is the single action that, once completed, correlates most strongly with long-term retention? (e.g., "completes first project," "invites a team member," "uploads first dataset")
+- **Current sequence** — Share any existing onboarding emails, or confirm this is net-new.
+- **Sequence parameters** — Desired number of emails, cadence constraints, sending platform (for any technical formatting considerations).
+- **Known friction points** — Where do new users currently drop off, get confused, or submit support tickets?
+- **Brand voice and tone** — Formal, conversational, bold, understated? Share examples or reference materials if available.
+
+If FutureProof context already supplies answers to any of the above, confirm them with the user rather than re-asking.
+
+## Step 3: Map the Onboarding Journey Architecture
+
+Before writing a single email, construct the **Onboarding Journey Map** — a structured framework that ensures every email earns its place in the sequence:
+
+### 3a. Define the Value Realisation Timeline
+
+Plot the critical path from sign-up to activation milestone:
+
+1. **Moment Zero** — Purchase/sign-up (emotional peak: excitement + uncertainty)
+2. **First Value Touch** — The smallest possible win the user can achieve in < 5 minutes
+3. **Core Setup Actions** — 2–4 configuration or orientation steps required before the product delivers ongoing value
+4. **Activation Milestone** — The defined "aha moment" that predicts retention
+5. **Social Proof Gate** — The point where the user has enough experience to appreciate testimonials and case studies from similar ICAs
+
+### 3b. Identify Behavioural Triggers and Segmentation Logic
+
+For each email in the sequence, define:
+- **Send condition** — Time-based, behaviour-based, or hybrid trigger
+- **Assumed user state** — What has the user likely done (or not done) by this point?
+- **Emotional state** — Excitement, confusion, impatience, buyer's remorse, momentum
+- **Primary barrier** — The single biggest reason a user at this stage would disengage
+
+### 3c. Assign Email Archetypes
+
+Map each position in the sequence to one of the following proven onboarding archetypes:
+
+| Archetype | Purpose | Typical Position |
+|---|---|---|
+| **Welcome & Orient** | Reduce overwhelm, set expectations, deliver first micro-win | Email 1 |
+| **Quick Win Catalyst** | Guide user to first tangible value in one focused action | Email 2 |
+| **Setup Shepherd** | Walk through a specific setup step with friction-reducing clarity | Emails 3–4 |
+| **Social Proof Bridge** | Show ICA-matched success story at the moment doubt peaks | Email 4–5 |
+| **Activation Nudge** | Direct, specific push toward the activation milestone with urgency framing | Email 5–6 |
+| **Expansion Teaser** | Introduce an advanced feature or use case to deepen engagement | Email 6–7 |
+| **Feedback & Relationship** | Ask for input, open dialogue, humanise the brand | Final email |
+
+## Step 4: Write the Email Sequence
+
+Draft each email with the following structure and standards:
+
+### Per-Email Deliverable Format
+
+For each email, provide:
+
+- **Email #[N]: [Internal Name]** (e.g., "Email #2: Quick Win — Create Your First Dashboard")
+- **Archetype**: [from table above]
+- **Send trigger**: [time-based and/or behavioural condition]
+- **Subject line**: Primary + one A/B variant
+- **Preview text**: 40–90 characters, complements (not repeats) the subject line
+- **Body copy**: Full draft, formatted for email (short paragraphs, single-column logic)
+- **Primary CTA**: One clear, specific call to action — button text + destination
+- **Secondary CTA** (if applicable): Lower-commitment alternative for hesitant users
+- **Design notes**: Layout guidance, image/GIF suggestions, mobile considerations
+
+### Writing Standards Applied Across All Emails
+
+1. **One email = one job** — Each email has exactly one primary objective. No multi-purpose emails.
+2. **ICA mirroring** — Use the vocabulary, mental models, and aspiration language of the ICA, not internal product jargon.
+3. **Specificity over motivation** — Every CTA tells the user exactly what to do, how long it takes, and what they gain. ("Click here to set up your first automation — takes 90 seconds" not "Get started!")
+4. **Progressive disclosure** — Never expose complexity before the user needs it. Sequence information in the order the user encounters it.
+5. **Friction acknowledgement** — Name the barrier before offering the solution. ("If you're staring at an empty dashboard wondering where to start — here's the exact first step.")
+6. **Proof placement** — Position testimonials and results from ICAs in the same segment, at the moment where doubt is highest (typically emails 4–5).
+7. **Unsubscribe empathy** — Footer copy that respects the reader and maintains brand integrity.
+
+Apply any user-specific `instructions` from FutureProof context (brand voice, compliance requirements, formatting rules, tone preferences) as overrides to default standards.
+
+## Step 5: Deliver Output
+
+Produce the following structured deliverables:
+
+### Deliverable 1: Onboarding Sequence Strategy Brief
+A one-page summary containing:
+- **ICA snapshot** — Who this sequence is written for
+- **Activation milestone** — The target behaviour
+- **Sequence overview** — Number of emails, total cadence duration, trigger logic summary
+- **Key strategic decisions** — Rationale for archetype ordering, cadence choices, and segmentation recommendations
+
+### Deliverable 2: Full Email Sequence Document
+All emails in the per-email format defined in Step 4, presented in send order. Each email is production-ready copy requiring only brand asset insertion and platform configuration.
+
+### Deliverable 3: Sequence Performance Scorecard
+Rate the completed sequence against the following dimensions (1–10):
+
+| Dimension | Score | Rationale |
+|---|---|---|
+| **Time-to-first-value** | | How quickly the sequence delivers a tangible win |
+| **Activation path clarity** | | How unmistakably the sequence drives toward the activation milestone |
+| **ICA language fidelity** | | How precisely copy mirrors the ICA's vocabulary and mental models |
+| **Friction pre-emption** | | How effectively known drop-off points are addressed before they occur |
+| **Emotional arc coherence** | | How well the sequence manages the emotional journey from excitement through doubt to momentum |
+| **CTA specificity** | | How concrete and low-friction every call to action is |
+| **Proof density and placement** | | How strategically social proof is deployed at high-doubt moments |
+
+### Deliverable 4: Implementation Checklist
+- Platform setup steps (list, segment, automation triggers)
+- Required assets (images, GIFs, links, tracking parameters)
+- Recommended send-time windows based on ICA behaviour patterns
+- QA checklist (link testing, mobile rendering, personalisation token fallbacks)
+
+## Step 6: Propose Experiments
+
+```
+FutureProof:save_experiment(skill="onboarding-email-sequence-writer", experiment={
+  hypothesis: "Sending the Quick Win Catalyst email within 30 minutes of sign-up (behaviour-triggered) instead of at 24 hours (time-triggered) reduces drop-off before first value event",
+  variants: ["control: Email #2 sent at T+24 hours", "variant: Email #2 sent 30 minutes after sign-up if activation milestone not yet reached"],
+  measurement: "Activation milestone completion rate within 7 days of sign-up, email open rate and CTA click-through rate for Email #2",
+  expected_impact: "20% increase in activation milestone completion within first week"
+})
+```
+
+```
+FutureProof:save_experiment(skill="onboarding-email-sequence-writer", experiment={
+  hypothesis: "Subject lines that name the specific next action outperform curiosity-gap subject lines in onboarding emails (where user intent is already established)",
+  variants: ["control: curiosity-driven subject lines across sequence", "variant: action-specific subject lines (e.g., 'Your first [deliverable] in 90 seconds')"],
+  measurement: "Open rate, click-through rate, and activation milestone completion rate across full sequence",
+  expected_impact: "12% improvement in average sequence click-through rate"
+})
+```
+
+## Step 7: Request Research
+
+```
+FutureProof:request_research(skill="onboarding-email-sequence-writer",
+  query="Latest benchmarks on SaaS and digital product onboarding email sequence performance: optimal cadence, open rates by email position, activation correlation data, and behavioural trigger vs. time-based send performance comparisons 2024–2025",
+  reason="Ensure sequence cadence, send-trigger strategy, and performance expectations are calibrated against current industry data and evolving inbox behaviour patterns"
+)
+```
+
+## Step 8: Save Session
+
+```
+FutureProof:save_session(skill="onboarding-email-sequence-writer", session={
+  summary: "Created [N]-email onboarding sequence for [product/service name] targeting [ICA segment], optimised for [activation milestone]",
+  key_findings: ["Primary drop-off risk identified at [stage]", "ICA language audit revealed [key vocabulary gap or alignment]", "Recommended [behavioural/time-based] trigger model based on product activation data"],
+  deliverables: ["Onboarding Sequence Strategy Brief", "Full Email Sequence Document ([N] emails)", "Sequence Performance Scorecard", "Implementation Checklist"],
+  user_feedback: null
+})
+```
