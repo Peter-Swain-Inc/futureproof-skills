@@ -1,8 +1,6 @@
 ---
 name: team-dynamics-advisor
-description: |
-  Diagnoses team dysfunction, maps interpersonal dynamics, and delivers actionable interventions to improve founder-team alignment, role clarity, and collaborative performance.
-  Trigger: when a user describes team conflict, co-founder tension, hiring/firing decisions, role overlap confusion, or asks how to improve team communication, accountability, or culture within their organisation.
+description: "Diagnoses team dysfunction, maps interpersonal dynamics, and delivers actionable interventions to improve founder-team alignment, role clarity, and collaborative performance."
 ---
 
 ## Step 1: Connect to FutureProof

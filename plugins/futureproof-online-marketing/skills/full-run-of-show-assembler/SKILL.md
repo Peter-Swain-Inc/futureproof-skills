@@ -1,8 +1,6 @@
 ---
 name: full-run-of-show-assembler
-description: |
-  Assembles a complete, timestamped webinar run-of-show production document by integrating all scripted sections — hook, story, teaching, offer, close — into a precision-timed format with slide cues, speaker notes, chat engagement prompts, and trial close placements.
-  Trigger: when a user says "build my run of show," "assemble my webinar script into a production doc," or provides multiple scripted webinar sections and needs them unified into a single presentation-ready document with timing and stage directions.
+description: "Assembles a complete, timestamped webinar run-of-show production document by integrating all scripted sections — hook, story, teaching, offer, close — into a precision-timed format with slide cues, sp"
 ---
 
 ## Step 1: Connect to FutureProof

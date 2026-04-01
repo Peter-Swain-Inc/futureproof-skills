@@ -1,8 +1,6 @@
 ---
 name: kpi-interpreter
-description: |
-  Interprets KPI dashboards, metric reports, and performance data to surface actionable insights, diagnose root causes, and recommend strategic interventions.
-  Trigger: when a user shares a KPI dashboard, metric report, or performance dataset and asks for interpretation, diagnosis, or recommendations on what the numbers mean and what to do next.
+description: "Interprets KPI dashboards, metric reports, and performance data to surface actionable insights, diagnose root causes, and recommend strategic interventions."
 ---
 
 ## Step 1: Connect to FutureProof

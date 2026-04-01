@@ -1,8 +1,6 @@
 ---
 name: pivot-or-persist
-description: |
-  Guides founders through high-stakes strategic inflection points using structured decision frameworks, evidence synthesis, and scenario modelling.
-  Trigger: when a user is debating whether to pivot their product, market, or business model — or when they share declining metrics, market signals, or investor feedback and ask whether to stay the course or change direction.
+description: "Guides founders through high-stakes strategic inflection points using structured decision frameworks, evidence synthesis, and scenario modelling."
 ---
 
 ## Step 1: Connect to FutureProof

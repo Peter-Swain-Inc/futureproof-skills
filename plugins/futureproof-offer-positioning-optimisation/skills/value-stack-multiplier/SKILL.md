@@ -1,8 +1,6 @@
 ---
 name: value-stack-multiplier
-description: |
-  Architects and optimises value stacks for offers, programmes, and services by systematically layering components to maximise perceived value relative to price.
-  Trigger: when a user asks to build, review, or improve a value stack for an offer, or when they want to increase perceived value, justify premium pricing, or restructure bonuses and deliverables within an existing package.
+description: "Architects and optimises value stacks for offers, programmes, and services by systematically layering components to maximise perceived value relative to price."
 ---
 
 ## Step 1: Connect to FutureProof

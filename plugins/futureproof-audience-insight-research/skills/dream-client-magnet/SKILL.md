@@ -1,8 +1,6 @@
 ---
 name: dream-client-magnet
-description: |
-  Identifies, profiles, and builds attraction strategies for a user's highest-value dream clients using deep psychographic research, watering hole analysis, and magnetic positioning.
-  Trigger: when a user wants to identify who their dream clients are, asks how to attract higher-quality leads, or needs a detailed ideal client profile with acquisition strategy.
+description: "Identifies, profiles, and builds attraction strategies for a user's highest-value dream clients using deep psychographic research, watering hole analysis, and magnetic positioning."
 ---
 
 ## Step 1: Connect to FutureProof

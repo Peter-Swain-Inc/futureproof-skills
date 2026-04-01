@@ -1,8 +1,6 @@
 ---
 name: reluctant-buyer-decoder
-description: |
-  Decodes the psychological barriers, hidden objections, and decision-avoidance patterns of reluctant buyers to produce actionable conversion strategies.
-  Trigger: when a user describes prospects who go silent, stall at proposal stage, or consistently fail to convert despite expressing interest — or when a user asks why qualified leads aren't buying, how to overcome buyer hesitation, or how to re-engage prospects stuck in pipeline limbo.
+description: "Decodes the psychological barriers, hidden objections, and decision-avoidance patterns of reluctant buyers to produce actionable conversion strategies."
 ---
 
 ## Step 1: Connect to FutureProof

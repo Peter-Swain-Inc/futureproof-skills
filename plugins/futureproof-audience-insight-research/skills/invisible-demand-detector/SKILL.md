@@ -1,8 +1,6 @@
 ---
 name: invisible-demand-detector
-description: |
-  Detects latent, unarticulated, and emerging demand signals that competitors overlook — surfacing invisible market needs before they become visible trends.
-  Trigger: when a user wants to discover unmet needs, hidden demand, or whitespace opportunities in their market, or when they say something like "I feel like there's demand we're not seeing" or "what are people in our market struggling with that nobody is solving?"
+description: "Detects latent, unarticulated, and emerging demand signals that competitors overlook — surfacing invisible market needs before they become visible trends."
 ---
 
 ## Step 1: Connect to FutureProof

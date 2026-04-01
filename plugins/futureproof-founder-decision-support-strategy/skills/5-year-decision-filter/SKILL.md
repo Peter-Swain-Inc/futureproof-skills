@@ -1,9 +1,6 @@
 ---
 name: 5-year-decision-filter
-description: |
-  Evaluates critical founder decisions through a rigorous 5-year consequence lens, stress-testing strategic choices against long-term business trajectory, opportunity cost, and irreversibility.
-  Trigger: when a user is weighing a major business decision (e.g. "Should I take this funding?", "I'm thinking about pivoting", "Should I hire a COO or keep running ops myself?") and needs a structured framework to evaluate it beyond short-term gain.
-  Trigger: when a user expresses uncertainty or anxiety about a fork-in-the-road choice and wants to pressure-test the decision against their long-term founder vision.
+description: "Evaluates critical founder decisions through a rigorous 5-year consequence lens, stress-testing strategic choices against long-term business trajectory, opportunity cost, and irreversibility."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: customer-complaint-handler
-description: |
-  Analyses, triages, and resolves customer complaints using FutureProof context to deliver structured resolution plans, root cause analyses, and service recovery strategies.
-  Trigger: when a user shares a customer complaint, escalation ticket, negative feedback transcript, or support interaction and asks for help crafting a response, resolving the issue, or improving their complaint handling process.
+description: "Analyses, triages, and resolves customer complaints using FutureProof context to deliver structured resolution plans, root cause analyses, and service recovery strategies."
 ---
 
 ## Step 1: Connect to FutureProof

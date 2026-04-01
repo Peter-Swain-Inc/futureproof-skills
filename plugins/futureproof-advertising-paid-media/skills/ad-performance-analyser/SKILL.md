@@ -1,8 +1,6 @@
 ---
 name: ad-performance-analyser
-description: |
-  Analyses paid media campaign performance across platforms and delivers actionable optimisation recommendations using FutureProof context.
-  Trigger: when a user shares ad campaign data, platform screenshots, media buying reports, or asks for help diagnosing underperforming ads, improving ROAS, or optimising ad spend allocation across channels.
+description: "Analyses paid media campaign performance across platforms and delivers actionable optimisation recommendations using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: email-analytics-interpreter
-description: |
-  Interprets email marketing analytics data and translates raw metrics into actionable strategic recommendations using FutureProof context.
-  Trigger: when a user shares email campaign performance data, ESP export reports, or asks for help understanding email metrics such as open rates, click-through rates, deliverability scores, or cohort engagement trends.
+description: "Interprets email marketing analytics data and translates raw metrics into actionable strategic recommendations using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

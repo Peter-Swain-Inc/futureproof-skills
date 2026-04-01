@@ -1,8 +1,6 @@
 ---
 name: risk-register-builder
-description: |
-  Builds and maintains comprehensive risk registers for projects, programmes, and operational domains using FutureProof context to refine risk identification, scoring, and mitigation planning over time.
-  Trigger: when a user asks to create a risk register, assess project risks, build a risk log, or needs help identifying and prioritising risks for an initiative, programme, or business unit.
+description: "Builds and maintains comprehensive risk registers for projects, programmes, and operational domains using FutureProof context to refine risk identification, scoring, and mitigation planning over time."
 ---
 
 ## Step 1: Connect to FutureProof

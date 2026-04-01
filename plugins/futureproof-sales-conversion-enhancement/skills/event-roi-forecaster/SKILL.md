@@ -1,8 +1,6 @@
 ---
 name: event-roi-forecaster
-description: |
-  Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attribution, and FutureProof context.
-  Trigger: when a user is evaluating whether to sponsor, attend, or host an event and needs an ROI projection; or when a user wants to build a post-event ROI analysis comparing forecasted vs. actual returns.
+description: "Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attributi"
 ---
 
 ## Step 1: Connect to FutureProof

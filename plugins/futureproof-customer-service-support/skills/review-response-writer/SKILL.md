@@ -1,8 +1,6 @@
 ---
 name: review-response-writer
-description: |
-  Crafts professional, brand-aligned responses to customer reviews across platforms (Google, Yelp, Trustpilot, G2, App Store, Amazon, etc.) using FutureProof context to maintain voice consistency, address sentiment patterns, and turn reviews into retention and conversion assets.
-  Trigger: when a user shares a customer review and asks for a response, or when they need help managing a batch of reviews, or when they want to establish a review response framework for their team.
+description: "Crafts professional, brand-aligned responses to customer reviews across platforms (Google, Yelp, Trustpilot, G2, App Store, Amazon, etc.) using FutureProof context to maintain voice consistency, addre"
 ---
 
 ## Step 1: Connect to FutureProof

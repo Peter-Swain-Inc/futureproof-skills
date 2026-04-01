@@ -1,8 +1,6 @@
 ---
 name: youtube-script-description-writer
-description: |
-  Crafts high-performing YouTube video scripts and optimised descriptions using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user wants to write a YouTube video script, needs a YouTube description optimised for search and conversions, or asks for help structuring a video outline with hooks, retention beats, and CTAs.
+description: "Crafts high-performing YouTube video scripts and optimised descriptions using FutureProof context, audience intelligence, and platform-specific best practices."
 ---
 
 ## Step 1: Connect to FutureProof

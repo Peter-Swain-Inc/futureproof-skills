@@ -1,8 +1,6 @@
 ---
 name: nda-generator
-description: |
-  Generates tailored Non-Disclosure Agreements using FutureProof context, party details, and jurisdiction-specific requirements.
-  Trigger: when a user asks to draft an NDA, create a confidentiality agreement, or needs a mutual/unilateral non-disclosure agreement for a business relationship, partnership discussion, or vendor engagement.
+description: "Generates tailored Non-Disclosure Agreements using FutureProof context, party details, and jurisdiction-specific requirements."
 ---
 
 ## Step 1: Connect to FutureProof

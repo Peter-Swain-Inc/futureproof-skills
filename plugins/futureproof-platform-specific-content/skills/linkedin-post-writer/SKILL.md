@@ -1,8 +1,6 @@
 ---
 name: linkedin-post-writer
-description: |
-  Crafts high-performing LinkedIn posts using FutureProof context, audience intelligence, and platform-native best practices.
-  Trigger: when a user asks to write, draft, or improve a LinkedIn post, or when they share a topic, idea, article, or experience and want it turned into LinkedIn content.
+description: "Crafts high-performing LinkedIn posts using FutureProof context, audience intelligence, and platform-native best practices."
 ---
 
 ## Step 1: Connect to FutureProof

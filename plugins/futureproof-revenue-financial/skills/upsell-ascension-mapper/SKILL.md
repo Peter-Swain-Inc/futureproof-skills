@@ -1,8 +1,6 @@
 ---
 name: upsell-ascension-mapper
-description: |
-  Maps and optimises the full upsell and ascension pathway across a product or service portfolio, identifying revenue gaps, pricing leverage points, and high-conversion upgrade triggers.
-  Trigger: when a user wants to design or improve their upsell strategy, map customer ascension paths across their offer suite, or asks how to increase average customer lifetime value through strategic offer sequencing.
+description: "Maps and optimises the full upsell and ascension pathway across a product or service portfolio, identifying revenue gaps, pricing leverage points, and high-conversion upgrade triggers."
 ---
 
 ## Step 1: Connect to FutureProof

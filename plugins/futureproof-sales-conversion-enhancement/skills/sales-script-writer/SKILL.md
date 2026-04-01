@@ -1,8 +1,6 @@
 ---
 name: sales-script-writer
-description: |
-  Writes high-converting sales scripts from scratch using FutureProof context, ICA intelligence, and proven persuasion frameworks.
-  Trigger: when a user asks to create a new sales script, write cold call talking points, build an outbound call framework, or draft a discovery/demo/closing script for a specific offer or ICA segment.
+description: "Writes high-converting sales scripts from scratch using FutureProof context, ICA intelligence, and proven persuasion frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

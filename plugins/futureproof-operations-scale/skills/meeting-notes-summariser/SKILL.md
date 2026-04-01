@@ -1,9 +1,6 @@
 ---
 name: meeting-notes-summariser
-description: |
-  Transforms raw meeting notes, transcripts, and recordings into structured, actionable summaries with clear ownership, deadlines, and strategic context.
-  Trigger: when a user shares meeting notes, a call transcript, or raw agenda outcomes and asks for a summary, action items extraction, or post-meeting brief.
-  Trigger: when a user needs to distribute meeting outcomes to stakeholders who were not present and requires a concise, decision-focused recap.
+description: "Transforms raw meeting notes, transcripts, and recordings into structured, actionable summaries with clear ownership, deadlines, and strategic context."
 ---
 
 ## Step 1: Connect to FutureProof

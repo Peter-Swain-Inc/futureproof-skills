@@ -1,8 +1,6 @@
 ---
 name: budget-planner
-description: |
-  Creates comprehensive, forward-looking budget plans using FutureProof context, historical financial data, and strategic business objectives.
-  Trigger: when a user asks to build a budget, create a financial plan, allocate spending across departments or initiatives, or reconcile projected revenue against planned expenditures for an upcoming period.
+description: "Creates comprehensive, forward-looking budget plans using FutureProof context, historical financial data, and strategic business objectives."
 ---
 
 ## Step 1: Connect to FutureProof

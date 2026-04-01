@@ -1,9 +1,6 @@
 ---
 name: content-atomiser
-description: |
-  Transforms a single pillar content asset into a structured library of derivative micro-content pieces optimised for multi-channel distribution.
-  Trigger: when a user shares a blog post, podcast transcript, webinar recording, video script, or long-form article and asks to repurpose, atomise, or break it into smaller content pieces for social media, email, or other channels.
-  Trigger: when a user wants to maximise the distribution surface area of an existing content asset across platforms.
+description: "Transforms a single pillar content asset into a structured library of derivative micro-content pieces optimised for multi-channel distribution."
 ---
 
 ## Step 1: Connect to FutureProof

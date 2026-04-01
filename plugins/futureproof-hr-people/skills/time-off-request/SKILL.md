@@ -1,8 +1,6 @@
 ---
 name: time-off-request
-description: |
-  Guides employees and managers through the complete time-off request lifecycle — drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation.
-  Trigger: when a user wants to request time off, needs help drafting a leave request, asks about PTO/vacation policy implications, or needs to evaluate a team member's time-off request for approval.
+description: "Guides employees and managers through the complete time-off request lifecycle — drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation"
 ---
 
 ## Step 1: Connect to FutureProof

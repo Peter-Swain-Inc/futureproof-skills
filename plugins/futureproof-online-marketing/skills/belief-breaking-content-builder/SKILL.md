@@ -1,8 +1,6 @@
 ---
 name: belief-breaking-content-builder
-description: |
-  Builds the Three Secrets teaching segments for webinars and long-form selling presentations, systematically dismantling vehicle, internal, and external false beliefs while delivering genuine transformational value.
-  Trigger: when a user is building webinar content, designing the teaching portion of a Perfect Webinar, or asks how to structure their three secrets / belief-breaking segments to sell through education.
+description: "Builds the Three Secrets teaching segments for webinars and long-form selling presentations, systematically dismantling vehicle, internal, and external false beliefs while delivering genuine transform"
 ---
 
 ## Step 1: Connect to FutureProof

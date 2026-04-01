@@ -1,8 +1,6 @@
 ---
 name: twitter-x-writer
-description: |
-  Crafts high-performing Twitter/X content — threads, single posts, reply strategies, and content calendars — using FutureProof context to align with audience psychology, platform algorithm mechanics, and brand voice.
-  Trigger: when a user asks to write a tweet, draft a Twitter/X thread, build an X content calendar, or improve their Twitter/X engagement and reach.
+description: "Crafts high-performing Twitter/X content — threads, single posts, reply strategies, and content calendars — using FutureProof context to align with audience psychology, platform algorithm mechanics, a"
 ---
 
 ## Step 1: Connect to FutureProof

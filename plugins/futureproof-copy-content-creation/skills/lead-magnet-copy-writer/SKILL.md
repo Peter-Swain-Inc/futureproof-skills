@@ -1,8 +1,6 @@
 ---
 name: lead-magnet-copy-writer
-description: |
-  Writes high-converting lead magnet copy using FutureProof context, ICA research, and proven direct-response frameworks.
-  Trigger: when a user asks to create, write, or improve copy for a lead magnet — such as a PDF guide, checklist, cheat sheet, email course, quiz, or gated resource — or when a user wants to increase opt-in conversion rates on an existing lead magnet.
+description: "Writes high-converting lead magnet copy using FutureProof context, ICA research, and proven direct-response frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

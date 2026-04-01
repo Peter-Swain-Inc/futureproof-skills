@@ -1,9 +1,8 @@
 {
   "name": "futureproof-operations-scale",
   "version": "1.0.0",
-  "description": "FutureProof — Operations & Scale (12 skills)",
+  "description": "FutureProof \u2014 Operations & Scale (12 skills)",
   "author": {
     "name": "FutureProof"
-  },
-  "skills": "./skills/"
+  }
 }

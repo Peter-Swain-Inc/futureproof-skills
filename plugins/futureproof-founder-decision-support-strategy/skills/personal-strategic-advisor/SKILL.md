@@ -1,8 +1,6 @@
 ---
 name: personal-strategic-advisor
-description: |
-  Serves as a seasoned strategic advisor for founders navigating high-stakes decisions — investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation trade-offs.
-  Trigger: when a user describes a major business decision they're weighing, asks "should I…" about a strategic fork in the road, or presents competing options with significant downside risk and needs a structured thinking partner to pressure-test their reasoning.
+description: "Serves as a seasoned strategic advisor for founders navigating high-stakes decisions — investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation"
 ---
 
 ## Step 1: Connect to FutureProof

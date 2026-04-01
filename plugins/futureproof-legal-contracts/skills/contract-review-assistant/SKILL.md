@@ -1,8 +1,6 @@
 ---
 name: contract-review-assistant
-description: |
-  Reviews, analyses, and risk-scores commercial contracts using FutureProof context to accumulate organisational risk tolerances, clause preferences, and negotiation history.
-  Trigger: when a user shares a contract, agreement, terms of service, or redlined document and asks for review, risk analysis, clause-by-clause feedback, or negotiation markup.
+description: "Reviews, analyses, and risk-scores commercial contracts using FutureProof context to accumulate organisational risk tolerances, clause preferences, and negotiation history."
 ---
 
 ## Step 1: Connect to FutureProof

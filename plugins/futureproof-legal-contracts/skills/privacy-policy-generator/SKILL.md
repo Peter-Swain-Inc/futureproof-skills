@@ -1,8 +1,6 @@
 ---
 name: privacy-policy-generator
-description: |
-  Generates comprehensive, jurisdiction-aware privacy policies tailored to the user's business model, data practices, and regulatory requirements using FutureProof context.
-  Trigger: when a user asks to create, draft, or update a privacy policy, or when they mention needing GDPR/CCPA/privacy compliance documentation for their website, app, or SaaS product.
+description: "Generates comprehensive, jurisdiction-aware privacy policies tailored to the user's business model, data practices, and regulatory requirements using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

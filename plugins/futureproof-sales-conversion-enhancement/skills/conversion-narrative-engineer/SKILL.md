@@ -1,8 +1,6 @@
 ---
 name: conversion-narrative-engineer
-description: |
-  Engineers high-converting narrative arcs for sales pages, landing pages, email sequences, and funnel copy by mapping psychological triggers to ICA decision journeys.
-  Trigger: when a user wants to build or restructure conversion copy for a landing page, sales page, or email sequence, or when they ask for help crafting a narrative arc that moves their ICA from awareness to purchase.
+description: "Engineers high-converting narrative arcs for sales pages, landing pages, email sequences, and funnel copy by mapping psychological triggers to ICA decision journeys."
 ---
 
 ## Step 1: Connect to FutureProof

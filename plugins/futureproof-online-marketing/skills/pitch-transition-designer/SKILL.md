@@ -1,8 +1,6 @@
 ---
 name: pitch-transition-designer
-description: |
-  Engineers the critical pivot moment where a webinar, masterclass, or live presentation shifts from teaching to selling — ensuring the offer feels like an inevitable next step rather than an awkward gear change.
-  Trigger: when a user says they need help transitioning from content to pitch in a webinar, or when a user shares a webinar script and asks how to bridge the teaching section into the offer without losing the audience.
+description: "Engineers the critical pivot moment where a webinar, masterclass, or live presentation shifts from teaching to selling — ensuring the offer feels like an inevitable next step rather than an awkward ge"
 ---
 
 ## Step 1: Connect to FutureProof

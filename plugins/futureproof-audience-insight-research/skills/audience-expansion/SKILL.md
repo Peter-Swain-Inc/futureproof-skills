@@ -1,9 +1,6 @@
 ---
 name: audience-expansion
-description: |
-  Identifies and validates adjacent audience segments beyond a user's current ICA to unlock new growth vectors without diluting positioning.
-  Trigger: when a user asks how to reach new audiences, expand into adjacent markets, or find untapped customer segments beyond their current ICA.
-  Trigger: when a user has saturated their primary ICA and needs a structured framework to evaluate which new audience segments to pursue next.
+description: "Identifies and validates adjacent audience segments beyond a user's current ICA to unlock new growth vectors without diluting positioning."
 ---
 
 ## Step 1: Connect to FutureProof

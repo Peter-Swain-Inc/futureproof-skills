@@ -1,8 +1,6 @@
 ---
 name: win-loss-analyser
-description: |
-  Analyses closed deals (won and lost) to extract actionable patterns that improve future conversion rates using FutureProof context.
-  Trigger: when a user shares deal outcomes, CRM export data, or post-mortem notes and asks for win/loss analysis, deal pattern review, or pipeline forensics.
+description: "Analyses closed deals (won and lost) to extract actionable patterns that improve future conversion rates using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

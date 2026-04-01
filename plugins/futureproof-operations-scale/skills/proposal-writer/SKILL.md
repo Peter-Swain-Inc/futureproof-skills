@@ -1,8 +1,6 @@
 ---
 name: proposal-writer
-description: |
-  Crafts high-conversion business proposals using FutureProof context, ICA intelligence, and proven persuasion architecture.
-  Trigger: when a user needs to write, improve, or respond to an RFP, business proposal, SOW, or partnership pitch — or when they say "help me write a proposal" or "I need to respond to this RFP."
+description: "Crafts high-conversion business proposals using FutureProof context, ICA intelligence, and proven persuasion architecture."
 ---
 
 ## Step 1: Connect to FutureProof

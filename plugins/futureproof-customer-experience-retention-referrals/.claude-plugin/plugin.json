@@ -1,9 +1,8 @@
 {
   "name": "futureproof-customer-experience-retention-referrals",
   "version": "1.0.0",
-  "description": "FutureProof — Customer Experience & Retention (6 skills)",
+  "description": "FutureProof \u2014 Customer Experience & Retention (6 skills)",
   "author": {
     "name": "FutureProof"
-  },
-  "skills": "./skills/"
+  }
 }

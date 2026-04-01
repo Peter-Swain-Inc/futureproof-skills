@@ -1,8 +1,6 @@
 ---
 name: project-brief-generator
-description: |
-  Generates comprehensive, stakeholder-ready project briefs using FutureProof context, organisational history, and consulting-grade frameworks.
-  Trigger: when a user needs to create a project brief, project charter, or initiative scope document for a new workstream, engagement, or internal initiative and asks for help structuring, drafting, or refining it.
+description: "Generates comprehensive, stakeholder-ready project briefs using FutureProof context, organisational history, and consulting-grade frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

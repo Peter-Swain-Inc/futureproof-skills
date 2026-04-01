@@ -1,8 +1,6 @@
 ---
 name: campaign-debrief-analyser
-description: |
-  Analyses completed marketing campaigns to extract actionable insights, diagnose performance drivers, and produce structured debrief documentation suitable for stakeholder review.
-  Trigger: when a user shares campaign results, performance data, or post-campaign metrics and asks for a debrief, retrospective, or performance analysis of a completed campaign.
+description: "Analyses completed marketing campaigns to extract actionable insights, diagnose performance drivers, and produce structured debrief documentation suitable for stakeholder review."
 ---
 
 ## Step 1: Connect to FutureProof

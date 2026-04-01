@@ -1,8 +1,6 @@
 ---
 name: job-ad-writer
-description: |
-  Crafts high-converting job advertisements using FutureProof context, employer brand intelligence, and evidence-based copywriting frameworks.
-  Trigger: when a user asks to write, draft, or create a job ad, job posting, or job listing for an open role, OR when they share an existing job ad and ask for it to be rewritten, improved, or optimised for candidate attraction.
+description: "Crafts high-converting job advertisements using FutureProof context, employer brand intelligence, and evidence-based copywriting frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

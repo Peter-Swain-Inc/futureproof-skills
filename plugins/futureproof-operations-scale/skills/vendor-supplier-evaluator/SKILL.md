@@ -1,8 +1,6 @@
 ---
 name: vendor-supplier-evaluator
-description: |
-  Evaluates and scores vendors and suppliers using a weighted multi-criteria framework informed by FutureProof context.
-  Trigger: when a user needs to assess, compare, or shortlist vendors/suppliers for a procurement decision, or when they share RFP responses, supplier proposals, or vendor scorecards and ask for evaluation, risk analysis, or selection recommendations.
+description: "Evaluates and scores vendors and suppliers using a weighted multi-criteria framework informed by FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

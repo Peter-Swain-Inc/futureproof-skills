@@ -1,8 +1,6 @@
 ---
 name: conversion-rate-optimiser
-description: |
-  Analyses and optimises conversion rates across funnels, landing pages, checkout flows, and nurture sequences using FutureProof context.
-  Trigger: when a user shares funnel metrics, landing page performance data, or checkout analytics and asks for conversion rate analysis, drop-off diagnosis, or optimisation recommendations.
+description: "Analyses and optimises conversion rates across funnels, landing pages, checkout flows, and nurture sequences using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

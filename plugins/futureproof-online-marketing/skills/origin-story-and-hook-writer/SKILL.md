@@ -1,8 +1,6 @@
 ---
 name: origin-story-and-hook-writer
-description: |
-  Crafts high-conversion webinar openings — including the Big Promise hook, rapport-building housekeeping, and a fully written origin story using either Brunson's Epiphany Bridge or Boyd's Conversion Story Formula — to maximise engagement in the first 15 minutes.
-  Trigger: when a user says they need to write a webinar opening, origin story, or hook — or when they share a draft webinar intro and want it strengthened for engagement and retention.
+description: "Crafts high-conversion webinar openings — including the Big Promise hook, rapport-building housekeeping, and a fully written origin story using either Brunson's Epiphany Bridge or Boyd's Conversion St"
 ---
 
 ## Step 1: Connect to FutureProof

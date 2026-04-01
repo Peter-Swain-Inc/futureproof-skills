@@ -1,8 +1,6 @@
 ---
 name: chatbot-script-writer
-description: |
-  Writes, structures, and optimises chatbot conversation scripts for customer service and support channels using FutureProof context.
-  Trigger: when a user needs to create a chatbot script for customer support, or when a user shares an existing chatbot flow and asks for rewrites, optimisation, or expansion to handle new intents.
+description: "Writes, structures, and optimises chatbot conversation scripts for customer service and support channels using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

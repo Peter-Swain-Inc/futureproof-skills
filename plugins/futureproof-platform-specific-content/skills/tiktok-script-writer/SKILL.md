@@ -1,8 +1,6 @@
 ---
 name: tiktok-script-writer
-description: |
-  Crafts high-performing TikTok video scripts using FutureProof context, ICA psychographics, and platform-native storytelling frameworks.
-  Trigger: when a user asks to write a TikTok script, create a short-form video hook, or develop a content series for TikTok and wants a ready-to-film script with hook, body, and CTA structure.
+description: "Crafts high-performing TikTok video scripts using FutureProof context, ICA psychographics, and platform-native storytelling frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

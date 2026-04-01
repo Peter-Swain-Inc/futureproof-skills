@@ -1,8 +1,6 @@
 ---
 name: quarterly-review-generator
-description: |
-  Generates comprehensive quarterly performance reviews using FutureProof context, employee data, and organisational competency frameworks.
-  Trigger: when a user needs to write a quarterly performance review for a direct report, or asks for help drafting review feedback, ratings, or development plans for an upcoming review cycle.
+description: "Generates comprehensive quarterly performance reviews using FutureProof context, employee data, and organisational competency frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

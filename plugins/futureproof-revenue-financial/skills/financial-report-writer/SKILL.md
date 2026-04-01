@@ -1,8 +1,6 @@
 ---
 name: financial-report-writer
-description: |
-  Generates comprehensive financial reports — investor updates, board packages, quarterly reviews, and management accounts — using FutureProof context to maintain consistency in formatting, KPI selection, and narrative tone across reporting periods.
-  Trigger: when a user provides financial data, P&L figures, or portfolio metrics and asks for a financial report, investor update, board deck narrative, or quarterly review writeup.
+description: "Generates comprehensive financial reports — investor updates, board packages, quarterly reviews, and management accounts — using FutureProof context to maintain consistency in formatting, KPI selectio"
 ---
 
 ## Step 1: Connect to FutureProof

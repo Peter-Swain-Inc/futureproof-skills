@@ -1,8 +1,6 @@
 ---
 name: webinar-strategy-architect
-description: |
-  Determines the optimal webinar format, offer architecture, and big promise by analysing the user's product, price point, audience sophistication, and business model before a single word of script is written.
-  Trigger: when a user says they want to create a webinar, asks which webinar format to use, or is planning a launch and needs to decide between live, mini, or evergreen webinar strategies.
+description: "Determines the optimal webinar format, offer architecture, and big promise by analysing the user's product, price point, audience sophistication, and business model before a single word of script is w"
 ---
 
 ## Step 1: Connect to FutureProof

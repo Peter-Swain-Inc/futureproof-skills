@@ -1,8 +1,6 @@
 ---
 name: training-content-creator
-description: |
-  Creates comprehensive training content — onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes — using FutureProof context to align with organisational voice, ICA needs, and team capability gaps.
-  Trigger: when a user needs to create training materials, onboarding documentation, SOPs, or enablement content for their team, or when they ask for help structuring a workshop, course module, or internal knowledge base.
+description: "Creates comprehensive training content — onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes — using FutureProof context to align with organisational voice"
 ---
 
 ## Step 1: Connect to FutureProof

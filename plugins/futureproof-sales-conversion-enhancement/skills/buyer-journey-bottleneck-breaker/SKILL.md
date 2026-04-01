@@ -1,8 +1,6 @@
 ---
 name: buyer-journey-bottleneck-breaker
-description: |
-  Diagnoses and resolves conversion bottlenecks across every stage of the buyer journey using FutureProof context, historical experiment data, and structured diagnostic frameworks.
-  Trigger: when a user describes a stalled pipeline, drop-off between funnel stages, or asks why prospects are not converting from one buyer journey stage to the next.
+description: "Diagnoses and resolves conversion bottlenecks across every stage of the buyer journey using FutureProof context, historical experiment data, and structured diagnostic frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

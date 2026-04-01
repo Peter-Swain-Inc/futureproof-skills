@@ -1,8 +1,6 @@
 ---
 name: webinar-event-scriptwriter
-description: |
-  Crafts high-conversion webinar and virtual event scripts using FutureProof context, audience intelligence, and proven engagement frameworks.
-  Trigger: when a user needs to write, structure, or refine a webinar script, virtual event run-of-show, or live presentation narrative and asks for a full script, talking points, or engagement plan.
+description: "Crafts high-conversion webinar and virtual event scripts using FutureProof context, audience intelligence, and proven engagement frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

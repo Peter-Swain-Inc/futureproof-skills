@@ -1,8 +1,6 @@
 ---
 name: video-script-writer
-description: |
-  Writes, structures, and refines video scripts using FutureProof context to align messaging with audience psychology, brand voice, and platform-specific best practices.
-  Trigger: when a user asks to write a video script, draft a script for a talking-head video, explainer, ad, or testimonial, or requests help structuring video content for a specific platform or ICA segment.
+description: "Writes, structures, and refines video scripts using FutureProof context to align messaging with audience psychology, brand voice, and platform-specific best practices."
 ---
 
 ## Step 1: Connect to FutureProof

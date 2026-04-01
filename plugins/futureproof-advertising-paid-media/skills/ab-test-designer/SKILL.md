@@ -1,8 +1,6 @@
 ---
 name: ab-test-designer
-description: |
-  Designs statistically rigorous A/B test plans for paid media campaigns using FutureProof context.
-  Trigger: when a user wants to set up an A/B test for ads, landing pages, or campaign elements and needs a structured test plan; or when a user asks how to determine a winner between two or more creative variants, audiences, or bidding strategies in paid media.
+description: "Designs statistically rigorous A/B test plans for paid media campaigns using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: instagram-caption-writer
-description: |
-  Crafts high-performing Instagram captions using FutureProof context, ICA psychographics, and platform-specific engagement frameworks.
-  Trigger: when a user asks for help writing an Instagram caption, wants to improve an existing Instagram post caption, or needs a batch of captions for an upcoming content calendar.
+description: "Crafts high-performing Instagram captions using FutureProof context, ICA psychographics, and platform-specific engagement frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

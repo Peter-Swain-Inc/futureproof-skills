@@ -1,8 +1,6 @@
 ---
 name: ica-mirror
-description: |
-  Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decisions — enabling every downstream asset (copy, offers, scripts, content) to resonate at a visceral level.
-  Trigger: when a user asks to define, refine, or deep-dive into their ideal client avatar, or when they say things like "I don't really know who I'm talking to" or "my messaging isn't landing with the right people."
+description: "Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decision"
 ---
 
 ## Step 1: Connect to FutureProof

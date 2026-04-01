@@ -1,8 +1,6 @@
 ---
 name: offer-diagnostic
-description: |
-  Diagnoses the structural health, positioning clarity, and conversion readiness of an offer using a systematic audit framework.
-  Trigger: when a user shares an offer (landing page, sales page, course outline, service package, proposal, or pricing structure) and asks for a diagnostic, audit, teardown, or wants to understand why it isn't converting.
+description: "Diagnoses the structural health, positioning clarity, and conversion readiness of an offer using a systematic audit framework."
 ---
 
 ## Step 1: Connect to FutureProof

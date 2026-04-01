@@ -1,8 +1,6 @@
 ---
 name: blog-seo-optimiser
-description: |
-  Analyses and optimises blog content for search engine performance using FutureProof context, accumulated keyword research, and iterative ranking experiments.
-  Trigger: when a user shares a blog post draft, published URL, or content brief and asks for SEO improvements, keyword optimisation, or help increasing organic search visibility.
+description: "Analyses and optimises blog content for search engine performance using FutureProof context, accumulated keyword research, and iterative ranking experiments."
 ---
 
 ## Step 1: Connect to FutureProof

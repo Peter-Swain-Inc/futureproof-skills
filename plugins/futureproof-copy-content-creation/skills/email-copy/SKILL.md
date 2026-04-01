@@ -1,8 +1,6 @@
 ---
 name: email-copy
-description: |
-  Crafts high-converting email copy across the full lifecycle — cold outreach, nurture sequences, launches, re-engagement, and transactional emails — using FutureProof context to align messaging with the user's ICA, brand voice, and proven performance data.
-  Trigger: when a user asks to write, review, or optimise an email (or email sequence), or when they share existing email copy and request improvements to open rates, click-through rates, or conversions.
+description: "Crafts high-converting email copy across the full lifecycle — cold outreach, nurture sequences, launches, re-engagement, and transactional emails — using FutureProof context to align messaging with th"
 ---
 
 ## Step 1: Connect to FutureProof

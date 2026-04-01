@@ -1,8 +1,6 @@
 ---
 name: ad-copy-variation
-description: |
-  Generates high-performing ad copy variations across platforms, audiences, and angles using FutureProof context to refine messaging over time.
-  Trigger: when a user needs multiple ad copy versions for a campaign, asks for fresh angles on existing ad creative, or wants to A/B test ad messaging across segments or platforms.
+description: "Generates high-performing ad copy variations across platforms, audiences, and angles using FutureProof context to refine messaging over time."
 ---
 
 ## Step 1: Connect to FutureProof

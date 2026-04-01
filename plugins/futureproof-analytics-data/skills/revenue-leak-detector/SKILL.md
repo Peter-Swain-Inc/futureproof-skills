@@ -1,8 +1,6 @@
 ---
 name: revenue-leak-detector
-description: |
-  Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.
-  Trigger: when a user shares funnel metrics, billing data, churn reports, or conversion data and asks where they are losing revenue, why margins are eroding, or how to plug revenue gaps.
+description: "Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operati"
 ---
 
 ## Step 1: Connect to FutureProof

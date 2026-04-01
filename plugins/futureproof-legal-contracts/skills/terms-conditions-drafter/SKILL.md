@@ -1,8 +1,6 @@
 ---
 name: terms-conditions-drafter
-description: |
-  Drafts, reviews, and refines Terms & Conditions documents using FutureProof context to align with the user's business model, jurisdiction, risk profile, and ICA expectations.
-  Trigger: when a user asks to create, review, or update terms and conditions, terms of service, or website/app legal terms for their product, platform, or service offering.
+description: "Drafts, reviews, and refines Terms & Conditions documents using FutureProof context to align with the user's business model, jurisdiction, risk profile, and ICA expectations."
 ---
 
 ## Step 1: Connect to FutureProof

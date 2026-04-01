@@ -1,8 +1,6 @@
 ---
 name: blog-post-writer
-description: |
-  Crafts high-performing blog posts using FutureProof context, ICA research, and proven content frameworks.
-  Trigger: when a user asks to write, draft, or outline a blog post, article, or long-form content piece for their website or content marketing strategy.
+description: "Crafts high-performing blog posts using FutureProof context, ICA research, and proven content frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

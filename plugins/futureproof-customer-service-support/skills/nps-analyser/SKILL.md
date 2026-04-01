@@ -1,8 +1,6 @@
 ---
 name: nps-analyser
-description: |
-  Analyses Net Promoter Score data, verbatim responses, and trend patterns to surface actionable drivers of loyalty and churn risk using FutureProof context.
-  Trigger: when a user shares NPS survey results, verbatim feedback exports, or score distributions and asks for analysis, driver identification, or improvement recommendations.
+description: "Analyses Net Promoter Score data, verbatim responses, and trend patterns to surface actionable drivers of loyalty and churn risk using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

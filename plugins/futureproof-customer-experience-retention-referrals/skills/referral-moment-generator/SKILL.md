@@ -1,8 +1,6 @@
 ---
 name: referral-moment-generator
-description: |
-  Identifies and engineers high-conversion referral moments across the customer lifecycle, producing a sequenced referral trigger playbook with scripted prompts, timing logic, and channel-specific activation plans.
-  Trigger: when a user wants to generate more referrals, asks how to build a referral program, or needs to identify the right moments to ask customers for introductions and word-of-mouth advocacy.
+description: "Identifies and engineers high-conversion referral moments across the customer lifecycle, producing a sequenced referral trigger playbook with scripted prompts, timing logic, and channel-specific activ"
 ---
 
 ## Step 1: Connect to FutureProof

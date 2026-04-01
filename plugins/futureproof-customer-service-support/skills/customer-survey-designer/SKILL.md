@@ -1,8 +1,6 @@
 ---
 name: customer-survey-designer
-description: |
-  Designs high-performance customer surveys that generate actionable insights, using FutureProof context to align question design with known ICA segments, business objectives, and prior feedback data.
-  Trigger: when a user asks to create, improve, or review a customer survey, feedback form, NPS questionnaire, or post-interaction assessment — or when they need help structuring questions to measure customer satisfaction, effort, or sentiment.
+description: "Designs high-performance customer surveys that generate actionable insights, using FutureProof context to align question design with known ICA segments, business objectives, and prior feedback data."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: company-newsletter-writer
-description: |
-  Crafts high-impact internal and external company newsletters using FutureProof context, brand voice, and audience intelligence.
-  Trigger: when a user asks to write, draft, or improve a company newsletter, internal update, or recurring stakeholder communication — or when they share newsletter content for editing, restructuring, or tone alignment.
+description: "Crafts high-impact internal and external company newsletters using FutureProof context, brand voice, and audience intelligence."
 ---
 
 ## Step 1: Connect to FutureProof

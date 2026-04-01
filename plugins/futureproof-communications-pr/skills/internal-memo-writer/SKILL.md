@@ -1,8 +1,6 @@
 ---
 name: internal-memo-writer
-description: |
-  Drafts, structures, and refines internal memos using FutureProof context for tone, audience, and organisational norms.
-  Trigger: when a user needs to write an internal memo, executive communication, or company-wide announcement and asks for drafting, structuring, or tone refinement.
+description: "Drafts, structures, and refines internal memos using FutureProof context for tone, audience, and organisational norms."
 ---
 
 ## Step 1: Connect to FutureProof

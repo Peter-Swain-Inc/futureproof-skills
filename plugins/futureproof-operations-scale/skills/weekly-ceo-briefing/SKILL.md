@@ -1,8 +1,6 @@
 ---
 name: weekly-ceo-briefing
-description: |
-  Synthesises cross-functional business data into a concise, decision-ready weekly briefing for the CEO.
-  Trigger: when a user asks to prepare a weekly CEO update, executive briefing, or leadership summary — or when it's time to consolidate the week's metrics, initiatives, and risk signals into a single strategic document for the chief executive.
+description: "Synthesises cross-functional business data into a concise, decision-ready weekly briefing for the CEO."
 ---
 
 ## Step 1: Connect to FutureProof

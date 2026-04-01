@@ -1,9 +1,6 @@
 ---
 name: landing-page-writer
-description: |
-  Writes high-converting landing pages using FutureProof context, ICA research, and proven direct-response frameworks.
-  Trigger: when a user asks to create, write, or draft a landing page, sales page, opt-in page, or squeeze page for a product, service, offer, or campaign.
-  Trigger: when a user shares an existing landing page URL or copy and asks for a rewrite, conversion uplift, or full rebuild.
+description: "Writes high-converting landing pages using FutureProof context, ICA research, and proven direct-response frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

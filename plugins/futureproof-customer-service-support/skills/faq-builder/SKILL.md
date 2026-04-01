@@ -1,8 +1,6 @@
 ---
 name: faq-builder
-description: |
-  Builds comprehensive, strategically structured FAQ documents from product knowledge, support tickets, and user research using FutureProof context.
-  Trigger: when a user asks to create, build, or generate an FAQ page, knowledge base, or help centre content from their product or service information; or when a user shares support tickets, customer questions, or community threads and wants them organised into a structured FAQ deliverable.
+description: "Builds comprehensive, strategically structured FAQ documents from product knowledge, support tickets, and user research using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

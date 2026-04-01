@@ -1,8 +1,6 @@
 ---
 name: competitor-content-spotter
-description: |
-  Identifies, deconstructs, and maps competitor content strategies to reveal positioning gaps, messaging vulnerabilities, and audience capture opportunities.
-  Trigger: when a user asks to analyse what competitors are publishing, wants to understand competitor content strategy, or requests a competitive content audit to find gaps and opportunities for their own content positioning.
+description: "Identifies, deconstructs, and maps competitor content strategies to reveal positioning gaps, messaging vulnerabilities, and audience capture opportunities."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: process-improvement-analyser
-description: |
-  Analyses business processes for inefficiencies, bottlenecks, and waste using structured improvement methodologies (Lean Six Sigma, TOC, BPR) enriched by FutureProof context.
-  Trigger: when a user describes a broken, slow, or costly process and asks for improvement recommendations — or when they share a process map, SOP, workflow diagram, or operational data and request optimisation analysis.
+description: "Analyses business processes for inefficiencies, bottlenecks, and waste using structured improvement methodologies (Lean Six Sigma, TOC, BPR) enriched by FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

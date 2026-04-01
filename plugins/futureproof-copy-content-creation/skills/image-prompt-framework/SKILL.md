@@ -1,8 +1,6 @@
 ---
 name: image-prompt-framework
-description: |
-  Crafts high-performance image generation prompts using structured frameworks, style systems, and iterative refinement informed by FutureProof context.
-  Trigger: when a user wants to create an image prompt for AI image generators (Midjourney, DALL·E, Stable Diffusion, Flux, Ideogram), asks for help describing a visual concept, or needs to refine/improve an existing image prompt that isn't producing the desired output.
+description: "Crafts high-performance image generation prompts using structured frameworks, style systems, and iterative refinement informed by FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

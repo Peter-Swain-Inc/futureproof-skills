@@ -1,8 +1,6 @@
 ---
 name: revenue-compounding-map
-description: |
-  Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.
-  Trigger: when a user asks to map their revenue compounding layers, wants to understand which revenue loops are compounding vs. leaking, or requests a strategic breakdown of how their recurring revenue compounds across retention, expansion, and referral motions.
+description: "Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear reven"
 ---
 
 ## Step 1: Connect to FutureProof

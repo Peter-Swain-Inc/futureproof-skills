@@ -1,8 +1,6 @@
 ---
 name: micro-offer-builder
-description: |
-  Architects high-conversion micro offers — low-risk, high-specificity entry points that convert cold audiences into paying clients by solving one acute problem with one clear deliverable at one irresistible price point.
-  Trigger: when a user wants to create a small paid offer, tripwire, or low-ticket entry product to acquire new clients; or when a user says they need a front-end offer, self-liquidating offer, or wants to "build a micro offer" for a specific ICA segment.
+description: "Architects high-conversion micro offers — low-risk, high-specificity entry points that convert cold audiences into paying clients by solving one acute problem with one clear deliverable at one irresis"
 ---
 
 ## Step 1: Connect to FutureProof

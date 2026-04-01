@@ -1,8 +1,6 @@
 ---
 name: onboarding-email-sequence-writer
-description: |
-  Crafts high-conversion onboarding email sequences that activate new users, reduce time-to-value, and prevent early-stage churn using FutureProof context.
-  Trigger: when a user asks to create, review, or improve an onboarding email sequence, welcome email series, or new-customer nurture campaign for a product or service.
+description: "Crafts high-conversion onboarding email sequences that activate new users, reduce time-to-value, and prevent early-stage churn using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

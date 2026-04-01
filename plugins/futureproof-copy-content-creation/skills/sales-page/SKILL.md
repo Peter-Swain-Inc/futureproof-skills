@@ -1,9 +1,6 @@
 ---
 name: sales-page
-description: |
-  Crafts high-converting long-form sales pages using FutureProof context, ICA research, and proven direct-response frameworks.
-  Trigger: when a user asks to create, write, or build a sales page, landing page, or long-form offer page for a product, service, programme, or course.
-  Trigger: when a user wants to improve conversion on an existing sales page or needs a full sales page rewrite based on their offer.
+description: "Crafts high-converting long-form sales pages using FutureProof context, ICA research, and proven direct-response frameworks."
 ---
 
 ## Step 1: Connect to FutureProof

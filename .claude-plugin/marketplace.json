@@ -1,19 +1,18 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "futureproof-skills",
   "owner": {
     "name": "FutureProof",
     "email": "hello@futureproof.ai"
   },
   "metadata": {
-    "description": "150+ AI-powered business skills — audience research, sales, analytics, operations, HR, legal, and more.",
+    "description": "150+ AI-powered business skills \u2014 audience research, sales, analytics, operations, HR, legal, and more.",
     "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "futureproof-audience-insight-research",
       "source": "./plugins/futureproof-audience-insight-research",
-      "description": "FutureProof — Audience Insight & Research (11 skills)",
+      "description": "FutureProof \u2014 Audience Insight & Research (11 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -22,7 +21,7 @@
     {
       "name": "futureproof-offer-positioning-optimisation",
       "source": "./plugins/futureproof-offer-positioning-optimisation",
-      "description": "FutureProof — Offer & Positioning (10 skills)",
+      "description": "FutureProof \u2014 Offer & Positioning (10 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -31,7 +30,7 @@
     {
       "name": "futureproof-copy-content-creation",
       "source": "./plugins/futureproof-copy-content-creation",
-      "description": "FutureProof — Copy & Content Creation (11 skills)",
+      "description": "FutureProof \u2014 Copy & Content Creation (11 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -40,7 +39,7 @@
     {
       "name": "futureproof-platform-specific-content",
       "source": "./plugins/futureproof-platform-specific-content",
-      "description": "FutureProof — Platform-Specific Content (9 skills)",
+      "description": "FutureProof \u2014 Platform-Specific Content (9 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -49,7 +48,7 @@
     {
       "name": "futureproof-advertising-paid-media",
       "source": "./plugins/futureproof-advertising-paid-media",
-      "description": "FutureProof — Advertising & Paid Media (6 skills)",
+      "description": "FutureProof \u2014 Advertising & Paid Media (6 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -58,7 +57,7 @@
     {
       "name": "futureproof-sales-conversion-enhancement",
       "source": "./plugins/futureproof-sales-conversion-enhancement",
-      "description": "FutureProof — Sales & Conversion (11 skills)",
+      "description": "FutureProof \u2014 Sales & Conversion (11 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -67,7 +66,7 @@
     {
       "name": "futureproof-analytics-data",
       "source": "./plugins/futureproof-analytics-data",
-      "description": "FutureProof — Analytics & Data (11 skills)",
+      "description": "FutureProof \u2014 Analytics & Data (11 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -76,7 +75,7 @@
     {
       "name": "futureproof-brand-thought-leadership",
       "source": "./plugins/futureproof-brand-thought-leadership",
-      "description": "FutureProof — Brand & Thought Leadership (4 skills)",
+      "description": "FutureProof \u2014 Brand & Thought Leadership (4 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -85,7 +84,7 @@
     {
       "name": "futureproof-customer-experience-retention-referrals",
       "source": "./plugins/futureproof-customer-experience-retention-referrals",
-      "description": "FutureProof — Customer Experience & Retention (6 skills)",
+      "description": "FutureProof \u2014 Customer Experience & Retention (6 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -94,7 +93,7 @@
     {
       "name": "futureproof-customer-service-support",
       "source": "./plugins/futureproof-customer-service-support",
-      "description": "FutureProof — Customer Service & Support (8 skills)",
+      "description": "FutureProof \u2014 Customer Service & Support (8 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -103,7 +102,7 @@
     {
       "name": "futureproof-operations-scale",
       "source": "./plugins/futureproof-operations-scale",
-      "description": "FutureProof — Operations & Scale (12 skills)",
+      "description": "FutureProof \u2014 Operations & Scale (12 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -112,7 +111,7 @@
     {
       "name": "futureproof-revenue-financial",
       "source": "./plugins/futureproof-revenue-financial",
-      "description": "FutureProof — Revenue & Financial (9 skills)",
+      "description": "FutureProof \u2014 Revenue & Financial (9 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -121,7 +120,7 @@
     {
       "name": "futureproof-communications-pr",
       "source": "./plugins/futureproof-communications-pr",
-      "description": "FutureProof — Communications & PR (7 skills)",
+      "description": "FutureProof \u2014 Communications & PR (7 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -130,7 +129,7 @@
     {
       "name": "futureproof-hr-people",
       "source": "./plugins/futureproof-hr-people",
-      "description": "FutureProof — HR & People (11 skills)",
+      "description": "FutureProof \u2014 HR & People (11 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -139,7 +138,7 @@
     {
       "name": "futureproof-founder-decision-support-strategy",
       "source": "./plugins/futureproof-founder-decision-support-strategy",
-      "description": "FutureProof — Founder Decision Support (7 skills)",
+      "description": "FutureProof \u2014 Founder Decision Support (7 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -148,7 +147,7 @@
     {
       "name": "futureproof-testimonials-social-proof",
       "source": "./plugins/futureproof-testimonials-social-proof",
-      "description": "FutureProof — Testimonials & Social Proof (4 skills)",
+      "description": "FutureProof \u2014 Testimonials & Social Proof (4 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -157,7 +156,7 @@
     {
       "name": "futureproof-legal-contracts",
       "source": "./plugins/futureproof-legal-contracts",
-      "description": "FutureProof — Legal & Contracts (4 skills)",
+      "description": "FutureProof \u2014 Legal & Contracts (4 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -166,7 +165,7 @@
     {
       "name": "futureproof-product-innovation",
       "source": "./plugins/futureproof-product-innovation",
-      "description": "FutureProof — Product & Innovation (4 skills)",
+      "description": "FutureProof \u2014 Product & Innovation (4 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"
@@ -175,7 +174,7 @@
     {
       "name": "futureproof-online-marketing",
       "source": "./plugins/futureproof-online-marketing",
-      "description": "FutureProof — Online Marketing & Webinars (8 skills)",
+      "description": "FutureProof \u2014 Online Marketing & Webinars (8 skills)",
       "version": "1.0.0",
       "author": {
         "name": "FutureProof"

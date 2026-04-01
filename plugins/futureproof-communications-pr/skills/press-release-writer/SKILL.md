@@ -1,9 +1,6 @@
 ---
 name: press-release-writer
-description: |
-  Crafts compelling, publication-ready press releases using FutureProof context to align messaging with brand voice, ICA expectations, and media outlet requirements.
-  Trigger: when a user needs to write, review, or improve a press release for a product launch, funding announcement, partnership, executive hire, milestone, or crisis communication.
-  Trigger: when a user shares a draft press release and asks for editing, restructuring, or media-readiness feedback.
+description: "Crafts compelling, publication-ready press releases using FutureProof context to align messaging with brand voice, ICA expectations, and media outlet requirements."
 ---
 
 ## Step 1: Connect to FutureProof

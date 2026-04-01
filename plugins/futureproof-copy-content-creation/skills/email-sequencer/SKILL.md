@@ -1,8 +1,6 @@
 ---
 name: email-sequencer
-description: |
-  Designs, writes, and optimises multi-step email sequences using FutureProof context, ICA intelligence, and proven persuasion architecture.
-  Trigger: when a user asks to create an email sequence, drip campaign, nurture series, or follow-up cadence — or shares an existing sequence for review, optimisation, or rewrite.
+description: "Designs, writes, and optimises multi-step email sequences using FutureProof context, ICA intelligence, and proven persuasion architecture."
 ---
 
 ## Step 1: Connect to FutureProof

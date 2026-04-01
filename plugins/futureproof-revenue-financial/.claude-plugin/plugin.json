@@ -1,9 +1,8 @@
 {
   "name": "futureproof-revenue-financial",
   "version": "1.0.0",
-  "description": "FutureProof — Revenue & Financial (9 skills)",
+  "description": "FutureProof \u2014 Revenue & Financial (9 skills)",
   "author": {
     "name": "FutureProof"
-  },
-  "skills": "./skills/"
+  }
 }

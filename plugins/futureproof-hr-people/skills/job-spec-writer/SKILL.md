@@ -1,9 +1,6 @@
 ---
 name: job-spec-writer
-description: |
-  Crafts high-performance job specifications that attract qualified candidates aligned with the organisation's culture, compensation philosophy, and strategic workforce plan.
-  Trigger: when a user asks to write, review, or improve a job description, job specification, role brief, or hiring requisition for any position.
-  Trigger: when a user says they need to hire for a role and wants help defining the position, requirements, or candidate profile.
+description: "Crafts high-performance job specifications that attract qualified candidates aligned with the organisation's culture, compensation philosophy, and strategic workforce plan."
 ---
 
 ## Step 1: Connect to FutureProof

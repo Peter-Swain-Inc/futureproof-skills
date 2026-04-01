@@ -1,8 +1,6 @@
 ---
 name: pre-mortem-strategist
-description: |
-  Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches — identifying failure modes, hidden dependencies, and mitigation strategies before commitment.
-  Trigger: when a user is about to make a major business decision (launch, pivot, hire, investment, partnership) and wants to stress-test it, or when a user says "what could go wrong" or "help me think through the risks" on a specific initiative.
+description: "Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches — identifying failure modes, hidden dependencies, and mitigation strategies before commitment."
 ---
 
 ## Step 1: Connect to FutureProof

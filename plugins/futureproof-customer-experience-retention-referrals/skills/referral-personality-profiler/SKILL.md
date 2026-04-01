@@ -1,8 +1,6 @@
 ---
 name: referral-personality-profiler
-description: |
-  Profiles existing customers and advocates by referral personality type to optimise ask timing, channel, incentive structure, and messaging for maximum referral yield.
-  Trigger: when a user wants to understand which customers are most likely to refer, asks how to segment their advocate base for referral campaigns, or needs to personalise referral outreach based on customer behavioural and psychographic traits.
+description: "Profiles existing customers and advocates by referral personality type to optimise ask timing, channel, incentive structure, and messaging for maximum referral yield."
 ---
 
 ## Step 1: Connect to FutureProof

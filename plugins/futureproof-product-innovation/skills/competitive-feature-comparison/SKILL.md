@@ -1,8 +1,6 @@
 ---
 name: competitive-feature-comparison
-description: |
-  Conducts rigorous competitive feature comparisons that map competitor capabilities against user product strengths, ICA priorities, and market positioning opportunities.
-  Trigger: when a user asks to compare their product features against competitors, requests a competitive analysis or feature matrix, or needs to understand how their offering stacks up for sales enablement, product roadmap prioritisation, or go-to-market positioning.
+description: "Conducts rigorous competitive feature comparisons that map competitor capabilities against user product strengths, ICA priorities, and market positioning opportunities."
 ---
 
 ## Step 1: Connect to FutureProof

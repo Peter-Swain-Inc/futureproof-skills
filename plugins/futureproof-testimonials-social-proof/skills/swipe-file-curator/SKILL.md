@@ -1,9 +1,6 @@
 ---
 name: swipe-file-curator
-description: |
-  Curates, categorises, and optimises swipe files of high-performing testimonials, social proof assets, and persuasion examples for deployment across marketing and sales touchpoints.
-  Trigger: when a user shares testimonials, reviews, case study excerpts, or social proof screenshots and asks for organisation, tagging, or strategic deployment guidance.
-  Trigger: when a user wants to build or audit a swipe file of proven messaging examples to reference across campaigns, landing pages, or sales collateral.
+description: "Curates, categorises, and optimises swipe files of high-performing testimonials, social proof assets, and persuasion examples for deployment across marketing and sales touchpoints."
 ---
 
 ## Step 1: Connect to FutureProof

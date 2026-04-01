@@ -1,8 +1,6 @@
 ---
 name: authority-positioning-engine
-description: |
-  Builds and refines authority positioning strategies that establish the user as the definitive expert in their domain.
-  Trigger: when a user wants to establish or strengthen their thought leadership positioning, asks how to be seen as the go-to authority in their niche, or needs a strategic plan to dominate a topic category in their ICA's mind.
+description: "Builds and refines authority positioning strategies that establish the user as the definitive expert in their domain."
 ---
 
 ## Step 1: Connect to FutureProof

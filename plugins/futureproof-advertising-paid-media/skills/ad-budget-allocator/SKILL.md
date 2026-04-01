@@ -1,8 +1,6 @@
 ---
 name: ad-budget-allocator
-description: |
-  Allocates and optimises advertising budgets across channels, campaigns, and audience segments using FutureProof context, historical performance data, and marginal return analysis.
-  Trigger: when a user asks how to distribute ad spend across channels, wants to reallocate budget based on performance data, or needs a media budget plan for an upcoming campaign or quarter.
+description: "Allocates and optimises advertising budgets across channels, campaigns, and audience segments using FutureProof context, historical performance data, and marginal return analysis."
 ---
 
 ## Step 1: Connect to FutureProof

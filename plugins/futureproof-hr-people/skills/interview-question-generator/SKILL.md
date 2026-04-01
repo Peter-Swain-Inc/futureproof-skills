@@ -1,8 +1,6 @@
 ---
 name: interview-question-generator
-description: |
-  Generates structured, role-specific interview question sets using FutureProof context to align with company culture, competency frameworks, and hiring objectives.
-  Trigger: when a user needs to prepare interview questions for an open role, asks for help designing a structured interview guide, or wants to improve their existing interview process with behavioural and competency-based questions.
+description: "Generates structured, role-specific interview question sets using FutureProof context to align with company culture, competency frameworks, and hiring objectives."
 ---
 
 ## Step 1: Connect to FutureProof

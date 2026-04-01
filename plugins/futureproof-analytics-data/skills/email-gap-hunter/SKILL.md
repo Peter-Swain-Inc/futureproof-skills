@@ -1,8 +1,6 @@
 ---
 name: email-gap-hunter
-description: |
-  Analyses email marketing sequences and campaign data to identify performance gaps, dead zones, and missed revenue opportunities across the subscriber lifecycle.
-  Trigger: when a user shares email campaign metrics, sequence performance data, or subscriber engagement reports and asks to find gaps, diagnose drop-offs, or identify where revenue is leaking from their email programme.
+description: "Analyses email marketing sequences and campaign data to identify performance gaps, dead zones, and missed revenue opportunities across the subscriber lifecycle."
 ---
 
 ## Step 1: Connect to FutureProof

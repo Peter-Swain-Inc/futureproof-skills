@@ -1,8 +1,6 @@
 ---
 name: strategic-simplicity-slayer
-description: |
-  Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.
-  Trigger: when a user shares a strategy document, business model, product roadmap, or decision framework and asks to simplify it, reduce complexity, find what to cut, or identify where over-engineering is destroying value.
+description: "Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined"
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: synthetic-focus-group
-description: |
-  Simulates a multi-persona focus group using AI-generated panellists grounded in the user's ICA profiles, market context, and FutureProof research history.
-  Trigger: when a user wants to pressure-test a product concept, messaging angle, pricing structure, or campaign creative against realistic audience reactions before committing budget — or when they say "run this by a focus group" or "how would my audience react to this."
+description: "Simulates a multi-persona focus group using AI-generated panellists grounded in the user's ICA profiles, market context, and FutureProof research history."
 ---
 
 ## Step 1: Connect to FutureProof

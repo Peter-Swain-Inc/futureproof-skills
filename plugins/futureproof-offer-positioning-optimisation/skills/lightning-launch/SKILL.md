@@ -1,8 +1,6 @@
 ---
 name: lightning-launch
-description: |
-  Guides users through a rapid, high-conviction offer launch sequence — from positioning through to launch-day execution — in a single structured session.
-  Trigger: when a user says they want to launch a new offer, programme, or service quickly, or when they have an idea for a product/package and need to go from concept to market-ready positioning and launch plan within days, not weeks.
+description: "Guides users through a rapid, high-conviction offer launch sequence — from positioning through to launch-day execution — in a single structured session."
 ---
 
 ## Step 1: Connect to FutureProof

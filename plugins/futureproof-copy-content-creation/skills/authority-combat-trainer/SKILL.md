@@ -1,8 +1,6 @@
 ---
 name: authority-combat-trainer
-description: |
-  Trains subject-matter experts and authority figures to defend their positions, handle hostile questioning, and dominate adversarial conversations through structured combat drills and pressure-tested response frameworks.
-  Trigger: when a user wants to prepare for a hostile interview, panel debate, boardroom challenge, or adversarial Q&A — or when they share a position paper, thesis, or controversial stance and ask for stress-testing, objection drilling, or debate preparation.
+description: "Trains subject-matter experts and authority figures to defend their positions, handle hostile questioning, and dominate adversarial conversations through structured combat drills and pressure-tested r"
 ---
 
 ## Step 1: Connect to FutureProof

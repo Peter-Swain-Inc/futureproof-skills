@@ -1,8 +1,6 @@
 ---
 name: webinar-funnel-copy-writer
-description: |
-  Writes the complete surrounding funnel copy that drives webinar attendance and post-webinar sales — registration page, confirmation page, reminder email sequence, replay sequence, and show-up rate boosters.
-  Trigger: when a user says "I need copy for my webinar funnel," "write my webinar registration page and email sequence," or shares webinar details and asks for funnel assets to maximise show-up rates and post-event conversions.
+description: "Writes the complete surrounding funnel copy that drives webinar attendance and post-webinar sales — registration page, confirmation page, reminder email sequence, replay sequence, and show-up rate boo"
 ---
 
 ## Step 1: Connect to FutureProof

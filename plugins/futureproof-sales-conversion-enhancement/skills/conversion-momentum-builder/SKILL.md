@@ -1,9 +1,6 @@
 ---
 name: conversion-momentum-builder
-description: |
-  Builds compounding conversion momentum across the full buyer journey by identifying friction points, sequencing micro-commitments, and engineering progressive trust escalation that turns stalled pipelines into predictable revenue engines.
-  Trigger: when a user shares a funnel, landing page sequence, email nurture flow, or buyer journey map and asks to improve conversion rates, reduce drop-off, or build momentum through their sales process.
-  Trigger: when a user reports stalling deals, funnel leakage, or inconsistent conversion between stages and wants a systematic fix.
+description: "Builds compounding conversion momentum across the full buyer journey by identifying friction points, sequencing micro-commitments, and engineering progressive trust escalation that turns stalled pipel"
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: whats-next-roadmap-navigator
-description: |
-  Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers — producing a sequenced, defensible action plan grounded in business context, resource constraints, and ICA impact.
-  Trigger: when a user asks "what should I focus on next?", shares a list of potential initiatives and needs help prioritising, or is stuck deciding between strategic directions for their product, service, or business.
+description: "Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers — producing a sequenced, defensible action plan grounded in busines"
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,9 +1,8 @@
 {
   "name": "futureproof-customer-service-support",
   "version": "1.0.0",
-  "description": "FutureProof — Customer Service & Support (8 skills)",
+  "description": "FutureProof \u2014 Customer Service & Support (8 skills)",
   "author": {
     "name": "FutureProof"
-  },
-  "skills": "./skills/"
+  }
 }

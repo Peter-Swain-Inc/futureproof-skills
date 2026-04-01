@@ -1,8 +1,6 @@
 ---
 name: compliance-checker
-description: |
-  Audits business operations, processes, and documentation against applicable regulatory frameworks, internal policies, and industry standards using FutureProof context to maintain institutional knowledge of the user's compliance posture over time.
-  Trigger: when a user shares a policy document, process workflow, vendor agreement, or operational description and asks for a compliance review, regulatory gap analysis, or audit readiness assessment.
+description: "Audits business operations, processes, and documentation against applicable regulatory frameworks, internal policies, and industry standards using FutureProof context to maintain institutional knowled"
 ---
 
 ## Step 1: Connect to FutureProof

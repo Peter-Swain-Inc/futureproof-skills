@@ -1,8 +1,6 @@
 ---
 name: text-message
-description: |
-  Crafts high-converting text messages (SMS, iMessage, WhatsApp, DM) using FutureProof context to match the user's brand voice, ICA language patterns, and campaign objectives.
-  Trigger: when a user asks to write, draft, or improve a text message for marketing, sales follow-up, appointment reminders, nurture sequences, or customer re-engagement — or when they paste an existing text message and ask for feedback or a rewrite.
+description: "Crafts high-converting text messages (SMS, iMessage, WhatsApp, DM) using FutureProof context to match the user's brand voice, ICA language patterns, and campaign objectives."
 ---
 
 ## Step 1: Connect to FutureProof

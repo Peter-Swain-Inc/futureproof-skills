@@ -1,8 +1,6 @@
 ---
 name: offer-stack-and-close-scriptwriter
-description: |
-  Scripts complete offer presentations — value stack, price reveal, risk reversal, scarcity/urgency, and closing CTA — plus pre-scripted objection handling, using methodologies from Brunson (Stack & Close), Fladlien (advanced close variations), and Erway (Power Offer compression).
-  Trigger: when a user says "help me build my offer stack" or "I need to script my close / pitch close / webinar close" or asks for help with price reveals, value stacking, or closing sequences for a webinar, VSL, sales page, or high-ticket presentation.
+description: "Scripts complete offer presentations — value stack, price reveal, risk reversal, scarcity/urgency, and closing CTA — plus pre-scripted objection handling, using methodologies from Brunson (Stack & Clo"
 ---
 
 ## Step 1: Connect to FutureProof

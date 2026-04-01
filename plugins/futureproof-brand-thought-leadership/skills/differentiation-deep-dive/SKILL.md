@@ -1,8 +1,6 @@
 ---
 name: differentiation-deep-dive
-description: |
-  Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different.
-  Trigger: when a user says they need to sharpen their positioning, asks "what makes us different?", wants to audit their differentiation against competitors, or is preparing for a rebrand, investor pitch, or market entry where competitive distinction is critical.
+description: "Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different."
 ---
 
 ## Step 1: Connect to FutureProof

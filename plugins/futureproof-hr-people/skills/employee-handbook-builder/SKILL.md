@@ -1,8 +1,6 @@
 ---
 name: employee-handbook-builder
-description: |
-  Builds comprehensive, legally-informed employee handbooks tailored to company size, jurisdiction, culture, and operational model using FutureProof context.
-  Trigger: when a user asks to create, update, or review an employee handbook, company policy manual, or workplace guidelines document — or when they need to add new policy sections (e.g. remote work, AI usage, DEI) to an existing handbook.
+description: "Builds comprehensive, legally-informed employee handbooks tailored to company size, jurisdiction, culture, and operational model using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

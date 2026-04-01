@@ -1,8 +1,6 @@
 ---
 name: invoice-generator
-description: |
-  Generates professional, detailed invoices using FutureProof context to ensure consistency with brand, pricing, payment terms, and client-specific agreements.
-  Trigger: when a user asks to create an invoice, bill a client, or generate a billing document for completed work, deliverables, or recurring services.
+description: "Generates professional, detailed invoices using FutureProof context to ensure consistency with brand, pricing, payment terms, and client-specific agreements."
 ---
 
 ## Step 1: Connect to FutureProof

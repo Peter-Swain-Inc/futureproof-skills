@@ -1,8 +1,6 @@
 ---
 name: testimonial-requester
-description: |
-  Crafts strategic testimonial request sequences that maximise response rates and extract high-impact social proof from clients and customers.
-  Trigger: when a user wants to collect testimonials from clients, needs help writing a testimonial request email, or is building a social proof strategy and asks how to systematically gather compelling customer stories.
+description: "Crafts strategic testimonial request sequences that maximise response rates and extract high-impact social proof from clients and customers."
 ---
 
 ## Step 1: Connect to FutureProof

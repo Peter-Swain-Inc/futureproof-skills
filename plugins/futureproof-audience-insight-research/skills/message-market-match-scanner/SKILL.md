@@ -1,8 +1,6 @@
 ---
 name: message-market-match-scanner
-description: |
-  Scans and scores the alignment between a user's messaging assets and their target market's actual language, beliefs, and buying triggers.
-  Trigger: when a user shares marketing copy, landing pages, ad creative, email sequences, or brand messaging and asks whether it resonates with their audience, why conversions are low, or how to improve message-market fit.
+description: "Scans and scores the alignment between a user's messaging assets and their target market's actual language, beliefs, and buying triggers."
 ---
 
 ## Step 1: Connect to FutureProof

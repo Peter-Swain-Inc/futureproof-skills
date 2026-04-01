@@ -1,8 +1,6 @@
 ---
 name: thought-reversal-architect
-description: |
-  Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.
-  Trigger: when a user wants to reframe how their ICA thinks about a problem, challenge conventional wisdom in their market, or build a "what you've been told is wrong" narrative arc for a sales page, webinar, or content campaign.
+description: "Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logic"
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: performance-review-writer
-description: |
-  Crafts comprehensive, calibrated performance reviews using FutureProof context to maintain consistency in tone, evaluation standards, and organisational language across review cycles.
-  Trigger: when a user needs to write a performance review for a direct report, or when a user shares employee accomplishments, feedback notes, or prior reviews and asks for help drafting or improving a performance evaluation.
+description: "Crafts comprehensive, calibrated performance reviews using FutureProof context to maintain consistency in tone, evaluation standards, and organisational language across review cycles."
 ---
 
 ## Step 1: Connect to FutureProof

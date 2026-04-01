@@ -1,8 +1,6 @@
 ---
 name: cash-flow-modeller
-description: |
-  Builds detailed cash flow models and forecasts using FutureProof context, historical financial data, and scenario analysis.
-  Trigger: when a user asks to build a cash flow forecast, model their runway, project liquidity, or stress-test cash position under different revenue/expense scenarios.
+description: "Builds detailed cash flow models and forecasts using FutureProof context, historical financial data, and scenario analysis."
 ---
 
 ## Step 1: Connect to FutureProof

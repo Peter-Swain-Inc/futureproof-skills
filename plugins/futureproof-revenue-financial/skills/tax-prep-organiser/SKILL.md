@@ -1,8 +1,6 @@
 ---
 name: tax-prep-organiser
-description: |
-  Organises and structures tax preparation workflows using FutureProof context to ensure comprehensive document collection, deduction optimisation, and filing readiness.
-  Trigger: when a user mentions preparing their taxes, gathering tax documents, organising receipts or deductions, or asks for help getting ready for tax season or a meeting with their accountant.
+description: "Organises and structures tax preparation workflows using FutureProof context to ensure comprehensive document collection, deduction optimisation, and filing readiness."
 ---
 
 ## Step 1: Connect to FutureProof

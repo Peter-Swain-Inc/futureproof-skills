@@ -1,8 +1,6 @@
 ---
 name: substack-newsletter-writer
-description: |
-  Crafts high-performing Substack newsletters using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user wants to write, outline, or improve a Substack newsletter edition — including drafting from a topic idea, repurposing existing content for Substack, or optimising a draft for open rates, engagement, and subscriber conversion.
+description: "Crafts high-performing Substack newsletters using FutureProof context, audience intelligence, and platform-specific best practices."
 ---
 
 ## Step 1: Connect to FutureProof

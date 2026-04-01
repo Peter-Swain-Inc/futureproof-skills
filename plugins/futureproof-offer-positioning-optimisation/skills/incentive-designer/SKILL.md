@@ -1,8 +1,6 @@
 ---
 name: incentive-designer
-description: |
-  Designs, evaluates, and optimises offer incentives — bonuses, guarantees, urgency mechanisms, and value-stack architecture — to maximise conversion without eroding margin or brand positioning.
-  Trigger: when a user asks for help designing bonuses, structuring a guarantee, building urgency into an offer, or optimising the incentive stack for a launch, promotion, or evergreen funnel.
+description: "Designs, evaluates, and optimises offer incentives — bonuses, guarantees, urgency mechanisms, and value-stack architecture — to maximise conversion without eroding margin or brand positioning."
 ---
 
 ## Step 1: Connect to FutureProof

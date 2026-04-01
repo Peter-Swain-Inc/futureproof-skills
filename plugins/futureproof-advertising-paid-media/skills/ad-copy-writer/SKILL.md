@@ -1,8 +1,6 @@
 ---
 name: ad-copy-writer
-description: |
-  Writes, evaluates, and iterates high-performance ad copy across paid media channels using FutureProof context, ICA intelligence, and platform-specific best practices.
-  Trigger: when a user asks to write ad copy for a paid campaign, requests variations of existing ads, or wants to improve underperforming ad creative (e.g. "write Facebook ads for my new offer" or "my Google Ads CTR is dropping — rewrite these headlines").
+description: "Writes, evaluates, and iterates high-performance ad copy across paid media channels using FutureProof context, ICA intelligence, and platform-specific best practices."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: crisis-comms-responder
-description: |
-  Guides organisations through crisis communications with structured rapid-response frameworks, stakeholder messaging, and reputation management protocols using FutureProof context.
-  Trigger: when a user reports a reputational threat, PR crisis, data breach, executive misconduct allegation, product recall, or negative media coverage and needs immediate communications guidance; or when a user asks for help drafting holding statements, stakeholder notifications, or crisis escalation plans.
+description: "Guides organisations through crisis communications with structured rapid-response frameworks, stakeholder messaging, and reputation management protocols using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

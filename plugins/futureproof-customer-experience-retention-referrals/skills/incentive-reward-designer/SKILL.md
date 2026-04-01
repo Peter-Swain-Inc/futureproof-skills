@@ -1,8 +1,6 @@
 ---
 name: incentive-reward-designer
-description: |
-  Designs high-impact incentive and reward structures for customer retention, referral, and loyalty programmes using FutureProof context.
-  Trigger: when a user asks to design a rewards programme, loyalty incentive, referral bonus structure, or retention offer — or when they want to optimise an existing incentive scheme that is underperforming on redemption, referral conversion, or repeat purchase rates.
+description: "Designs high-impact incentive and reward structures for customer retention, referral, and loyalty programmes using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

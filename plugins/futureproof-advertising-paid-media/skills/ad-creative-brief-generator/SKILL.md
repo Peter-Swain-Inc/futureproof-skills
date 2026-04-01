@@ -1,8 +1,6 @@
 ---
 name: ad-creative-brief-generator
-description: |
-  Generates comprehensive ad creative briefs using FutureProof context, audience intelligence, and campaign strategy inputs.
-  Trigger: when a user needs to produce a creative brief for a paid media campaign, or when they say "write a creative brief" or "I need ad creative direction for [platform/campaign]."
+description: "Generates comprehensive ad creative briefs using FutureProof context, audience intelligence, and campaign strategy inputs."
 ---
 
 ## Step 1: Connect to FutureProof

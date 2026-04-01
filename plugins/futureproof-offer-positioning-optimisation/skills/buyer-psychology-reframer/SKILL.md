@@ -1,9 +1,6 @@
 ---
 name: buyer-psychology-reframer
-description: |
-  Reframes offer positioning by mapping buyer psychological drivers — loss aversion, identity alignment, status dynamics, cognitive load, and decision fatigue — to produce repositioned messaging that converts at the belief level, not the feature level.
-  Trigger: when a user shares offer copy, a landing page, sales page, pricing page, or positioning statement and asks to reframe it around buyer psychology, improve conversions, or make the messaging "hit harder."
-  Trigger: when a user says their offer is getting traffic or attention but not converting, and suspects the positioning or framing is the bottleneck.
+description: "Reframes offer positioning by mapping buyer psychological drivers — loss aversion, identity alignment, status dynamics, cognitive load, and decision fatigue — to produce repositioned messaging that co"
 ---
 
 ## Step 1: Connect to FutureProof

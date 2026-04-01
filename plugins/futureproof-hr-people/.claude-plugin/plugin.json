@@ -1,9 +1,8 @@
 {
   "name": "futureproof-hr-people",
   "version": "1.0.0",
-  "description": "FutureProof — HR & People (11 skills)",
+  "description": "FutureProof \u2014 HR & People (11 skills)",
   "author": {
     "name": "FutureProof"
-  },
-  "skills": "./skills/"
+  }
 }

@@ -1,9 +1,6 @@
 ---
 name: post-sale-delight-engineer
-description: |
-  Designs and optimises post-purchase customer delight systems that transform buyers into loyal advocates and active referral sources.
-  Trigger: when a user wants to improve their post-sale experience, reduce churn, increase customer lifetime value, or build a referral engine from existing customers.
-  Trigger: when a user says they're losing customers after purchase, getting poor reviews, lacking referrals, or wants to create an onboarding/wow sequence for new buyers.
+description: "Designs and optimises post-purchase customer delight systems that transform buyers into loyal advocates and active referral sources."
 ---
 
 ## Step 1: Connect to FutureProof

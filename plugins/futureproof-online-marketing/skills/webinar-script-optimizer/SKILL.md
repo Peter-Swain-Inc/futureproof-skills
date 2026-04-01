@@ -1,8 +1,6 @@
 ---
 name: webinar-script-optimizer
-description: |
-  Audits and rewrites underperforming webinar scripts using expert frameworks from Brunson, Boyd, Fladlien, Brown, and Erway.
-  Trigger: when a user shares an existing webinar script, slide deck, or presentation outline and asks for a diagnostic review, performance audit, or targeted rewrite of underperforming sections.
+description: "Audits and rewrites underperforming webinar scripts using expert frameworks from Brunson, Boyd, Fladlien, Brown, and Erway."
 ---
 
 ## Step 1: Connect to FutureProof

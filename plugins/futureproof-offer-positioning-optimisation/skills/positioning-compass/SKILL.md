@@ -1,9 +1,6 @@
 ---
 name: positioning-compass
-description: |
-  Diagnoses and recalibrates offer positioning to maximise ICA resonance, competitive differentiation, and perceived value.
-  Trigger: when a user asks for help positioning an offer, differentiating from competitors, or refining how they communicate their value proposition to a specific market segment.
-  Trigger: when a user says their offer "sounds like everyone else," they're struggling to articulate what makes them different, or conversion is flat despite strong traffic.
+description: "Diagnoses and recalibrates offer positioning to maximise ICA resonance, competitive differentiation, and perceived value."
 ---
 
 ## Step 1: Connect to FutureProof

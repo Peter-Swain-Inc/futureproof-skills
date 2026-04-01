@@ -1,8 +1,6 @@
 ---
 name: thought-leadership-engine
-description: |
-  Transforms subject-matter expertise into high-authority thought leadership content that positions the user as the definitive voice in their category.
-  Trigger: when a user wants to develop thought leadership content, build authority in their niche, or asks how to position themselves as an expert through content (e.g. "I need to create a thought leadership piece," "How do I establish authority in my space," or "Help me turn this insight into a LinkedIn article / keynote / whitepaper").
+description: "Transforms subject-matter expertise into high-authority thought leadership content that positions the user as the definitive voice in their category."
 ---
 
 ## Step 1: Connect to FutureProof

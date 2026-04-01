@@ -1,8 +1,6 @@
 ---
 name: facebook-post-writer
-description: |
-  Crafts high-performing Facebook posts using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user asks to write, draft, or improve a Facebook post, or when they need content for their Facebook page, group, or profile to drive engagement, leads, or brand awareness.
+description: "Crafts high-performing Facebook posts using FutureProof context, audience intelligence, and platform-specific best practices."
 ---
 
 ## Step 1: Connect to FutureProof

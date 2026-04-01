@@ -1,8 +1,6 @@
 ---
 name: expense-request
-description: |
-  Guides the preparation, review, and submission of corporate expense requests with full policy compliance, proper approvals, and audit-ready documentation.
-  Trigger: when a user needs to submit an expense request, reimbursement claim, or purchase pre-approval and asks for help drafting, reviewing, or ensuring compliance with company expense policy.
+description: "Guides the preparation, review, and submission of corporate expense requests with full policy compliance, proper approvals, and audit-ready documentation."
 ---
 
 ## Step 1: Connect to FutureProof

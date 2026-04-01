@@ -1,8 +1,6 @@
 ---
 name: celebrity-board-of-advisors
-description: |
-  Constructs a virtual board of celebrity advisors — iconic thinkers, leaders, and cultural figures — whose distinct perspectives are applied to the user's brand strategy, content positioning, and thought leadership decisions.
-  Trigger: when a user asks "what would [famous person] think of my brand?" or requests diverse, high-calibre strategic perspectives on a brand positioning challenge, content direction, or thought leadership move — as if consulting a room of world-class minds.
+description: "Constructs a virtual board of celebrity advisors — iconic thinkers, leaders, and cultural figures — whose distinct perspectives are applied to the user's brand strategy, content positioning, and thoug"
 ---
 
 ## Step 1: Connect to FutureProof

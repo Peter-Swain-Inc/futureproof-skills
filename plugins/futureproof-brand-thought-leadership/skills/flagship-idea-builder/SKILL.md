@@ -1,9 +1,6 @@
 ---
 name: flagship-idea-builder
-description: |
-  Develops a defensible flagship idea — the single strategic narrative that positions a brand as the category authority.
-  Trigger: when a user wants to define or refine their core thought-leadership thesis, signature framework, or "big idea" that anchors all content, speaking, and publishing efforts.
-  Trigger: when a user says they feel like a commodity, lack a differentiated point of view, or want to build authority around a single unifying concept.
+description: "Develops a defensible flagship idea — the single strategic narrative that positions a brand as the category authority."
 ---
 
 ## Step 1: Connect to FutureProof

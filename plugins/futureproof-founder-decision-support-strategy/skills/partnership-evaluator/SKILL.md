@@ -1,8 +1,6 @@
 ---
 name: partnership-evaluator
-description: |
-  Evaluates potential business partnerships, strategic alliances, and joint ventures using a structured due-diligence framework grounded in strategic fit, financial impact, risk exposure, and cultural compatibility.
-  Trigger: when a user is considering a partnership, alliance, or collaboration with another company and asks for an evaluation, risk assessment, or go/no-go recommendation; or when a user shares a partnership proposal, term sheet, or co-venture opportunity and wants a structured analysis before committing.
+description: "Evaluates potential business partnerships, strategic alliances, and joint ventures using a structured due-diligence framework grounded in strategic fit, financial impact, risk exposure, and cultural c"
 ---
 
 ## Step 1: Connect to FutureProof

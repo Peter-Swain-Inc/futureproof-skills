@@ -1,8 +1,6 @@
 ---
 name: sop-builder
-description: |
-  Builds comprehensive, audit-ready Standard Operating Procedures from raw process knowledge, tribal expertise, or existing informal documentation.
-  Trigger: when a user describes a business process they need documented, asks to create or improve an SOP, or shares rough process notes/workflows and needs them formalised into a repeatable, trainable procedure.
+description: "Builds comprehensive, audit-ready Standard Operating Procedures from raw process knowledge, tribal expertise, or existing informal documentation."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: content-calendar
-description: |
-  Builds strategically sequenced content calendars aligned to ICA journey stages, business objectives, and channel-specific best practices using FutureProof context.
-  Trigger: when a user asks to plan, build, or organise a content calendar, editorial schedule, or publishing cadence — or when they need to map content themes across weeks or months for one or more channels.
+description: "Builds strategically sequenced content calendars aligned to ICA journey stages, business objectives, and channel-specific best practices using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof

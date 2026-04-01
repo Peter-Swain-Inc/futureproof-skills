@@ -1,8 +1,6 @@
 ---
 name: feature-request-prioritiser
-description: |
-  Prioritises and scores inbound feature requests against strategic product goals, ICA value drivers, and resource constraints using a weighted multi-criteria framework.
-  Trigger: when a user shares a backlog of feature requests, customer feedback themes, or a product roadmap and asks for help prioritising, ranking, or deciding what to build next.
+description: "Prioritises and scores inbound feature requests against strategic product goals, ICA value drivers, and resource constraints using a weighted multi-criteria framework."
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,6 @@
 ---
 name: google-analytics-reporter
-description: |
-  Analyses Google Analytics data and produces executive-grade performance reports with actionable recommendations.
-  Trigger: when a user shares Google Analytics data, screenshots, exports, or asks for help interpreting website metrics, building GA reports, or diagnosing traffic/conversion anomalies.
+description: "Analyses Google Analytics data and produces executive-grade performance reports with actionable recommendations."
 ---
 
 ## Step 1: Connect to FutureProof

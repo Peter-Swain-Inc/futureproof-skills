@@ -1,8 +1,6 @@
 ---
 name: exit-interview-analyser
-description: |
-  Analyses exit interview data to surface retention-critical insights, systemic attrition drivers, and actionable talent strategy recommendations using FutureProof context.
-  Trigger: when a user shares exit interview transcripts, departure survey data, or attrition reports and asks for pattern analysis, retention risk identification, or turnover root-cause diagnosis.
+description: "Analyses exit interview data to surface retention-critical insights, systemic attrition drivers, and actionable talent strategy recommendations using FutureProof context."
 ---
 
 ## Step 1: Connect to FutureProof
