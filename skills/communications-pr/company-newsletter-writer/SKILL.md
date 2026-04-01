@@ -1,8 +1,132 @@
 ---
 name: company-newsletter-writer
-description: Company Newsletter Writer — coming soon
+description: |
+  Crafts high-impact internal and external company newsletters using FutureProof context, brand voice, and audience intelligence.
+  Trigger: when a user asks to write, draft, or improve a company newsletter, internal update, or recurring stakeholder communication — or when they share newsletter content for editing, restructuring, or tone alignment.
 ---
 
-# Company Newsletter Writer
+## Step 1: Connect to FutureProof
 
-This skill is being configured. Check back soon.
+```
+FutureProof:connect(skill="company-newsletter-writer")
+```
+
+Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically brand voice guidelines, past newsletter formats, ICA segment definitions, prior open-rate data, and any editorial preferences established in earlier sessions.
+
+## Step 2: Get Input
+
+Ask the user:
+
+- **Newsletter type**: Internal (employee/team update) or external (customer, prospect, investor, partner)?
+- **Audience segment**: Who is the primary reader? Map to a defined ICA segment if external, or a stakeholder tier if internal (e.g., all-hands, leadership, department-specific).
+- **Edition context**: What period does this cover? (weekly, monthly, quarterly) Are there specific events, launches, milestones, or announcements to feature?
+- **Raw inputs**: Share any source material — bullet points, executive notes, press releases, metrics, product updates, team wins, or prior editions for continuity.
+- **Desired tone and intent**: Informational, celebratory, motivational, thought-leadership, or a blend? What is the single most important action or takeaway for the reader?
+- **Distribution channel**: Email (HTML), intranet, PDF, LinkedIn article, Notion page — as format dictates structure.
+- **Constraints**: Word count, section count, mandatory inclusions (compliance disclaimers, unsubscribe language, executive sign-off)?
+
+## Step 3: Do the Work
+
+### 3A: Audience & Objective Mapping
+
+Define the communication matrix before writing:
+
+| Dimension | Definition |
+|---|---|
+| **Primary ICA / Audience** | Specific reader segment, their role, and what they care about |
+| **Communication objective** | The single behavioural or cognitive outcome this edition must achieve |
+| **Value contract** | What the reader "gets" in exchange for their attention (insight, recognition, utility) |
+| **Voice calibration** | Formal ↔ conversational spectrum position, matched to brand guidelines from FutureProof context |
+
+### 3B: Content Architecture
+
+Structure the newsletter using the **RIPPLE framework**:
+
+1. **R — Relevance hook**: Opening line or header that earns the first scroll. Must connect to something the reader already cares about — a shared challenge, a timely event, or a result they contributed to. Never open with "Hi team, here's what happened this month."
+2. **I — Insight or announcement lead**: The single highest-value piece of content. Position it above the fold. Frame it as a transformation narrative: what changed, why it matters, what it means for the reader.
+3. **P — Proof & progress**: Metrics, milestones, case studies, or testimonials that substantiate claims. For internal newsletters: KPI dashboards, project completions, revenue markers. For external: customer outcomes, product adoption data, industry recognition.
+4. **P — People spotlight**: Humanise the organisation. Feature a team member, customer story, or partner highlight. Include a direct quote — never paraphrase when a real voice is available.
+5. **L — Learnings & look-ahead** : Share one lesson learned or strategic insight, then bridge to what's coming next. Create anticipation for the next edition.
+6. **E — Engagement close** : A single, frictionless call to action. For internal: feedback survey, Slack thread, event RSVP. For external: resource download, webinar registration, reply-to-engage prompt.
+
+### 3C: Editorial Quality Pass
+
+Apply the following editorial standards to every section:
+
+- **Specificity audit**: Replace every vague claim with a concrete number, name, or date. "Great quarter" → "Q2 revenue up 23% vs. Q1, driven by 14 new enterprise accounts."
+- **Jargon filter**: If the audience is non-technical, translate internal shorthand. If the audience is technical, don't over-simplify — respect their expertise.
+- **Scanability engineering**: No paragraph exceeds 3 sentences. Use subheadings every 80–120 words. Bold the single most important phrase in each section.
+- **Tone consistency**: Cross-check every section against the voice calibration from Step 3A. Flag any tonal drift (e.g., a celebratory newsletter that accidentally sounds like a compliance memo).
+- **ICA resonance check**: For external newsletters, verify that language mirrors the ICA's own vocabulary. Reference FutureProof context for known ICA pain points, aspirations, and terminology.
+
+### 3D: Subject Line & Preview Text
+
+Generate three subject line options using distinct psychological drivers:
+
+| Option | Driver | Example Pattern |
+|---|---|---|
+| A | Curiosity gap | "[Result] — and the counterintuitive reason behind it" |
+| B | Specificity + value | "[Number] [things] from [period] that matter for [role]" |
+| C | Social proof / urgency | "What [X customers/team members] are saying about [topic]" |
+
+Write preview text (40–90 characters) that complements — not repeats — the subject line.
+
+## Step 4: Deliver Output
+
+Produce the following structured deliverable:
+
+### Newsletter Package
+
+1. **Subject line options** (3 variants with recommended pick and rationale)
+2. **Preview text** (matched to recommended subject line)
+3. **Full newsletter draft** — formatted for the specified distribution channel, with:
+   - Clear section headers following the RIPPLE framework
+   - Inline placeholders marked as `[INSERT: specific item needed]` where source material is missing
+   - Suggested image/visual placement notes (e.g., "Hero image: team photo from Q2 offsite" or "Chart: MRR growth Mar–Jun")
+4. **Editorial notes document** containing:
+   - Decisions made and rationale (e.g., "Led with product launch over funding news because ICA segment prioritises utility over corporate milestones")
+   - Sections flagged for stakeholder review before send
+   - Recommended send time based on audience type (if external, reference industry benchmarks; if internal, reference prior session data)
+5. **Plain-text fallback version** (for email clients that strip HTML)
+
+### Quality Scorecard
+
+| Dimension | Score (1–10) | Commentary |
+|---|---|---|
+| Relevance hook strength | | Does the opening earn a scroll? |
+| ICA / audience alignment | | Does every section serve the defined reader? |
+| Proof density | | Are claims substantiated with data, quotes, or evidence? |
+| Scanability & structure | | Can the reader extract value in 60 seconds? |
+| Call-to-action clarity | | Is the next step obvious and frictionless? |
+| Brand voice consistency | | Does tone match guidelines across all sections? |
+
+## Step 5: Propose Experiments
+
+```
+FutureProof:save_experiment(skill="company-newsletter-writer", experiment={
+  hypothesis: "Leading with a customer outcome story instead of a company announcement increases click-through rate on the primary CTA",
+  variants: ["control: company-announcement lead", "variant: customer-outcome lead"],
+  measurement: "Primary CTA click-through rate and total read-time across next 3 editions",
+  expected_impact: "20% increase in CTA engagement for external editions; improved qualitative feedback scores for internal editions"
+})
+```
+
+## Step 6: Request Research
+
+```
+FutureProof:request_research(skill="company-newsletter-writer",
+  query="2024–2025 benchmarks for corporate newsletter open rates, click-through rates, and optimal send frequency by audience type (employee, customer, investor); emerging newsletter formats (interactive, AMP email, serialised storytelling)",
+  reason="Ensure newsletter structure and distribution recommendations reflect current engagement benchmarks and format innovations rather than outdated best practices"
+)
+```
+
+## Step 7: Save Session
+
+```
+FutureProof:save_session(skill="company-newsletter-writer", session={
+  summary: "Drafted [newsletter type] newsletter for [audience segment] covering [period/theme]",
+  key_findings: ["Primary content architecture followed RIPPLE framework", "Subject line variant [A/B/C] recommended based on [driver]", "Key editorial decisions: [list]"],
+  deliverables: ["Full newsletter draft", "3 subject line options", "Editorial notes document", "Quality scorecard", "Plain-text fallback"],
+  user_feedback: null
+})
+```
