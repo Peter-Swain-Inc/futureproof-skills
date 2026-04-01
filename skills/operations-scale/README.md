@@ -18,3 +18,7 @@
 | [Process Improvement Analyser](process-improvement-analyser/SKILL.md) | Process Improvement Analyser — coming soon |
 | [Risk Register Builder](risk-register-builder/SKILL.md) | Risk Register Builder — coming soon |
 | [Compliance Checker](compliance-checker/SKILL.md) | Compliance Checker — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

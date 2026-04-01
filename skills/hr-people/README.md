@@ -17,3 +17,7 @@
 | [Exit Interview Analyser](exit-interview-analyser/SKILL.md) | Exit Interview Analyser — coming soon |
 | [Company Culture Doc Builder](company-culture-doc-builder/SKILL.md) | Company Culture Doc Builder — coming soon |
 | [DISC Strengths Interpreter](disc-strengths-interpreter/SKILL.md) | DISC Strengths Interpreter — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

@@ -13,3 +13,7 @@
 | [Pre Mortem Strategist](pre-mortem-strategist/SKILL.md) | Pre Mortem Strategist — coming soon |
 | [Team Dynamics Advisor](team-dynamics-advisor/SKILL.md) | Team Dynamics Advisor — coming soon |
 | [Partnership Evaluator](partnership-evaluator/SKILL.md) | Partnership Evaluator — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

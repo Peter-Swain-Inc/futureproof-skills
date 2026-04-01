@@ -16,3 +16,7 @@
 | [Thought Leadership Engine](thought-leadership-engine/SKILL.md) | Thought Leadership Engine — coming soon |
 | [Thought Reversal Architect](thought-reversal-architect/SKILL.md) | Thought Reversal Architect — coming soon |
 | [Lightning Launch](lightning-launch/SKILL.md) | Lightning Launch — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

@@ -14,3 +14,7 @@
 | [Customer Survey Designer](customer-survey-designer/SKILL.md) | Customer Survey Designer — coming soon |
 | [NPS Analyser](nps-analyser/SKILL.md) | NPS Analyser — coming soon |
 | [Chatbot Script Writer](chatbot-script-writer/SKILL.md) | Chatbot Script Writer — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

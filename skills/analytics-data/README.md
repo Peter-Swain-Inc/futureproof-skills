@@ -17,3 +17,7 @@
 | [Email Analytics Interpreter](email-analytics-interpreter/SKILL.md) | Email Analytics Interpreter — coming soon |
 | [Revenue Attribution Modeller](revenue-attribution-modeller/SKILL.md) | Revenue Attribution Modeller — coming soon |
 | [Conversion Rate Optimiser](conversion-rate-optimiser/SKILL.md) | Conversion Rate Optimiser — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

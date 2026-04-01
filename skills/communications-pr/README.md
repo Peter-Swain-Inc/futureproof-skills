@@ -13,3 +13,7 @@
 | [Company Newsletter Writer](company-newsletter-writer/SKILL.md) | Company Newsletter Writer — coming soon |
 | [Podcast Show Notes Writer](podcast-show-notes-writer/SKILL.md) | Podcast Show Notes Writer — coming soon |
 | [Video Script Writer](video-script-writer/SKILL.md) | Video Script Writer — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

@@ -17,3 +17,7 @@
 | [Reluctant Buyer Decoder](reluctant-buyer-decoder/SKILL.md) | Reluctant Buyer Decoder — coming soon |
 | [Invisible Trends Forecaster](invisible-trends-forecaster/SKILL.md) | Invisible Trends Forecaster — coming soon |
 | [Dream Client Magnet](dream-client-magnet/SKILL.md) | Dream Client Magnet — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

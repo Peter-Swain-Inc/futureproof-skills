@@ -15,3 +15,7 @@
 | [PL Analyser](pl-analyser/SKILL.md) | PL Analyser — coming soon |
 | [Financial Report Writer](financial-report-writer/SKILL.md) | Financial Report Writer — coming soon |
 | [Tax Prep Organiser](tax-prep-organiser/SKILL.md) | Tax Prep Organiser — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

@@ -10,3 +10,7 @@
 | [Testimonial Manager](testimonial-manager/SKILL.md) | Testimonial Manager — coming soon |
 | [Case Study Builder](case-study-builder/SKILL.md) | Case Study Builder — coming soon |
 | [Swipe File Curator](swipe-file-curator/SKILL.md) | Swipe File Curator — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

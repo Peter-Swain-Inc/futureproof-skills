@@ -17,3 +17,7 @@
 | [Authority Combat Trainer](authority-combat-trainer/SKILL.md) | Authority Combat Trainer — coming soon |
 | [Retention Storytelling](retention-storytelling/SKILL.md) | Retention Storytelling — coming soon |
 | [Lead Magnet Copy Writer](lead-magnet-copy-writer/SKILL.md) | Lead Magnet Copy Writer — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

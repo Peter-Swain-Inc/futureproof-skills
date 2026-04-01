@@ -15,3 +15,7 @@
 | [Blog Post Writer](blog-post-writer/SKILL.md) | Blog Post Writer — coming soon |
 | [Blog SEO Optimiser](blog-seo-optimiser/SKILL.md) | Blog SEO Optimiser — coming soon |
 | [Substack Newsletter Writer](substack-newsletter-writer/SKILL.md) | Substack Newsletter Writer — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

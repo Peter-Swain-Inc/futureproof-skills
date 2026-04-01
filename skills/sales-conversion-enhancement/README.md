@@ -17,3 +17,7 @@
 | [Pipeline Forecaster](pipeline-forecaster/SKILL.md) | Pipeline Forecaster — coming soon |
 | [Win Loss Analyser](win-loss-analyser/SKILL.md) | Win Loss Analyser — coming soon |
 | [Affiliate Outreach Writer](affiliate-outreach-writer/SKILL.md) | Affiliate Outreach Writer — coming soon |
+
+---
+
+[Back to all categories](../../README.md)

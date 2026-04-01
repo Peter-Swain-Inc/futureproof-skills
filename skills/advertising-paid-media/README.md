@@ -12,3 +12,7 @@
 | [Landing Page Writer](landing-page-writer/SKILL.md) | Landing Page Writer — coming soon |
 | [AB Test Designer](ab-test-designer/SKILL.md) | AB Test Designer — coming soon |
 | [Ad Budget Allocator](ad-budget-allocator/SKILL.md) | Ad Budget Allocator — coming soon |
+
+---
+
+[Back to all categories](../../README.md)
