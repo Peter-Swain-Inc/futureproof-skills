@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-platform-specific-content",
+  "version": "1.0.0",
+  "description": "FutureProof — Platform-Specific Content (9 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

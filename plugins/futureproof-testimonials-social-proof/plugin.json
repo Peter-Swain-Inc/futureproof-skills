@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-testimonials-social-proof",
+  "version": "1.0.0",
+  "description": "FutureProof — Testimonials & Social Proof (4 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

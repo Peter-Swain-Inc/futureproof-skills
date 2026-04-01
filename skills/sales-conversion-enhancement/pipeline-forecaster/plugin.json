@@ -1,6 +1,0 @@
-{
-  "name": "pipeline-forecaster",
-  "version": "1.0.0",
-  "description": "Analyses sales pipeline data to produce probability-weighted revenue forecasts, identifies at-risk deals, and recommends stage-specific acceleration plays using FutureProof context.",
-  "skills": "./skills/"
-}

@@ -1,6 +1,0 @@
-{
-  "name": "project-brief-generator",
-  "version": "1.0.0",
-  "description": "Generates comprehensive, stakeholder-ready project briefs using FutureProof context, organisational history, and consulting-grade frameworks.",
-  "skills": "./skills/"
-}

@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-audience-insight-research",
+  "version": "1.0.0",
+  "description": "FutureProof — Audience Insight & Research (11 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

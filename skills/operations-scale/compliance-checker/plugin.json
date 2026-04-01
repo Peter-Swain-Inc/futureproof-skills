@@ -1,6 +1,0 @@
-{
-  "name": "compliance-checker",
-  "version": "1.0.0",
-  "description": "Audits business operations, processes, and documentation against applicable regulatory frameworks, internal policies, and industry standards using FutureProof context to maintain institutional knowledge of the user's compliance posture over time.",
-  "skills": "./skills/"
-}

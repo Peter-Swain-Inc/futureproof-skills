@@ -1,6 +1,0 @@
-{
-  "name": "buyer-journey-bottleneck-breaker",
-  "version": "1.0.0",
-  "description": "Diagnoses and resolves conversion bottlenecks across every stage of the buyer journey using FutureProof context, historical experiment data, and structured diagnostic frameworks.",
-  "skills": "./skills/"
-}

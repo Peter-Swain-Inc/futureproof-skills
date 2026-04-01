@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-sales-conversion-enhancement",
+  "version": "1.0.0",
+  "description": "FutureProof — Sales & Conversion (11 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

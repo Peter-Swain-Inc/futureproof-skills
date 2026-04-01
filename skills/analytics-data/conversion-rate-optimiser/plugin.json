@@ -1,6 +1,0 @@
-{
-  "name": "conversion-rate-optimiser",
-  "version": "1.0.0",
-  "description": "Analyses and optimises conversion rates across funnels, landing pages, checkout flows, and nurture sequences using FutureProof context.",
-  "skills": "./skills/"
-}

@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-online-marketing",
+  "version": "1.0.0",
+  "description": "FutureProof — Online Marketing & Webinars (8 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

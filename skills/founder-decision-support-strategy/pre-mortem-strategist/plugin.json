@@ -1,6 +1,0 @@
-{
-  "name": "pre-mortem-strategist",
-  "version": "1.0.0",
-  "description": "Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches — identifying failure modes, hidden dependencies, and mitigation strategies before commitment.",
-  "skills": "./skills/"
-}

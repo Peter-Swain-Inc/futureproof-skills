@@ -1,6 +1,0 @@
-{
-  "name": "google-analytics-reporter",
-  "version": "1.0.0",
-  "description": "Analyses Google Analytics data and produces executive-grade performance reports with actionable recommendations.",
-  "skills": "./skills/"
-}

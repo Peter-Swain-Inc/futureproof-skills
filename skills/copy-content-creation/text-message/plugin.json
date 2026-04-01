@@ -1,6 +1,0 @@
-{
-  "name": "text-message",
-  "version": "1.0.0",
-  "description": "Crafts high-converting text messages (SMS, iMessage, WhatsApp, DM) using FutureProof context to match the user's brand voice, ICA language patterns, and campaign objectives.",
-  "skills": "./skills/"
-}

@@ -1,6 +1,0 @@
-{
-  "name": "ica-mirror",
-  "version": "1.0.0",
-  "description": "Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decisions — enabling every downstream asset (copy, offers,",
-  "skills": "./skills/"
-}

@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-analytics-data",
+  "version": "1.0.0",
+  "description": "FutureProof — Analytics & Data (11 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

@@ -1,6 +1,0 @@
-{
-  "name": "revenue-leak-detector",
-  "version": "1.0.0",
-  "description": "Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.",
-  "skills": "./skills/"
-}

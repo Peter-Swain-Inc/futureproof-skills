@@ -1,6 +1,0 @@
-{
-  "name": "audience-expansion",
-  "version": "1.0.0",
-  "description": "Identifies and validates adjacent audience segments beyond a user's current ICA to unlock new growth vectors without diluting positioning.",
-  "skills": "./skills/"
-}

@@ -1,6 +1,0 @@
-{
-  "name": "exit-interview-analyser",
-  "version": "1.0.0",
-  "description": "Analyses exit interview data to surface retention-critical insights, systemic attrition drivers, and actionable talent strategy recommendations using FutureProof context.",
-  "skills": "./skills/"
-}

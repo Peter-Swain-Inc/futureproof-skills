@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-founder-decision-support-strategy",
+  "version": "1.0.0",
+  "description": "FutureProof — Founder Decision Support (7 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

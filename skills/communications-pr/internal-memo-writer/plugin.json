@@ -1,6 +1,0 @@
-{
-  "name": "internal-memo-writer",
-  "version": "1.0.0",
-  "description": "Drafts, structures, and refines internal memos using FutureProof context for tone, audience, and organisational norms.",
-  "skills": "./skills/"
-}

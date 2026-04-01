@@ -1,6 +1,0 @@
-{
-  "name": "quarterly-review-generator",
-  "version": "1.0.0",
-  "description": "Generates comprehensive quarterly performance reviews using FutureProof context, employee data, and organisational competency frameworks.",
-  "skills": "./skills/"
-}

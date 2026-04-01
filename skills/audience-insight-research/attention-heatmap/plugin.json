@@ -1,6 +1,0 @@
-{
-  "name": "attention-heatmap",
-  "version": "1.0.0",
-  "description": "Predicts and maps visual attention patterns across marketing assets, landing pages, emails, and ad creatives using cognitive science frameworks.",
-  "skills": "./skills/"
-}

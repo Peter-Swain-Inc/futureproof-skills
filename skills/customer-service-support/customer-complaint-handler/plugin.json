@@ -1,6 +1,0 @@
-{
-  "name": "customer-complaint-handler",
-  "version": "1.0.0",
-  "description": "Analyses, triages, and resolves customer complaints using FutureProof context to deliver structured resolution plans, root cause analyses, and service recovery strategies.",
-  "skills": "./skills/"
-}

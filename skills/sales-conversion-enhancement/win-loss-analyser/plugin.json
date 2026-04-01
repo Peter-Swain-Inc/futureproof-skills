@@ -1,6 +1,0 @@
-{
-  "name": "win-loss-analyser",
-  "version": "1.0.0",
-  "description": "Analyses closed deals (won and lost) to extract actionable patterns that improve future conversion rates using FutureProof context.",
-  "skills": "./skills/"
-}

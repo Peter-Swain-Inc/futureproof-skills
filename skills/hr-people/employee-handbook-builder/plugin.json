@@ -1,6 +1,0 @@
-{
-  "name": "employee-handbook-builder",
-  "version": "1.0.0",
-  "description": "Builds comprehensive, legally-informed employee handbooks tailored to company size, jurisdiction, culture, and operational model using FutureProof context.",
-  "skills": "./skills/"
-}

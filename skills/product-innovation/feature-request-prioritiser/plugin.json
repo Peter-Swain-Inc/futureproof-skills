@@ -1,6 +1,0 @@
-{
-  "name": "feature-request-prioritiser",
-  "version": "1.0.0",
-  "description": "Prioritises and scores inbound feature requests against strategic product goals, ICA value drivers, and resource constraints using a weighted multi-criteria framework.",
-  "skills": "./skills/"
-}

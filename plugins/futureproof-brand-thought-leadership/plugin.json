@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-brand-thought-leadership",
+  "version": "1.0.0",
+  "description": "FutureProof — Brand & Thought Leadership (4 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

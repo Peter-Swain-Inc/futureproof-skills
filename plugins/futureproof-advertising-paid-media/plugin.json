@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-advertising-paid-media",
+  "version": "1.0.0",
+  "description": "FutureProof — Advertising & Paid Media (6 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}

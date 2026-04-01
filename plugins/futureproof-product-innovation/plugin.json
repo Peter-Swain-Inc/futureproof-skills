@@ -1,0 +1,9 @@
+{
+  "name": "futureproof-product-innovation",
+  "version": "1.0.0",
+  "description": "FutureProof — Product & Innovation (4 skills)",
+  "author": {
+    "name": "FutureProof"
+  },
+  "skills": "./skills/"
+}
