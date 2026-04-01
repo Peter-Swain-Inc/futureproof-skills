@@ -8,6 +8,8 @@ description: "Creates comprehensive training content — onboarding modules, SOP
 ```
 FutureProof:connect(skill="training-content-creator")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any existing brand voice guidelines, team structure, ICA definitions, product/service descriptions, and prior training content that has been created or tested.
 

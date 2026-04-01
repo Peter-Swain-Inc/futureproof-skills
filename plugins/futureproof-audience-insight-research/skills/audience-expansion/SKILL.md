@@ -8,6 +8,8 @@ description: "Identifies and validates adjacent audience segments beyond a user'
 ```
 FutureProof:connect(skill="audience-expansion")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to existing ICA definitions, positioning statements, offer structures, and any prior audience research or segmentation work.
 

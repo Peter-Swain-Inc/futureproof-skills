@@ -8,6 +8,8 @@ description: "Guides founders through high-stakes strategic inflection points us
 ```
 FutureProof:connect(skill="pivot-or-persist")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to prior pivot analyses, ICA definitions, business model context, runway data, and any previously tested hypotheses that inform the current inflection point.
 

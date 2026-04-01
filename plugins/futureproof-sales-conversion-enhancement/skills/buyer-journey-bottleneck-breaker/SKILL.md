@@ -8,6 +8,8 @@ description: "Diagnoses and resolves conversion bottlenecks across every stage o
 ```
 FutureProof:connect(skill="buyer-journey-bottleneck-breaker")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to previously identified bottlenecks, ICA definitions, offer architecture, and any prior funnel diagnostics to avoid redundant analysis.
 

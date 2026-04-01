@@ -8,6 +8,8 @@ description: "Crafts high-performing YouTube video scripts and optimised descrip
 ```
 FutureProof:connect(skill="youtube-script-description-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including ICA definitions, brand voice guidelines, prior video performance data, and any channel-specific conventions.
 

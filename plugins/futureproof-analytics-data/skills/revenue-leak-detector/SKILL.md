@@ -8,6 +8,8 @@ description: "Identifies and quantifies revenue leaks across the full customer l
 ```
 FutureProof:connect(skill="revenue-leak-detector")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any prior funnel benchmarks, ICA definitions, pricing models, or previously identified leak categories.
 

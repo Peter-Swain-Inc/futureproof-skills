@@ -8,6 +8,8 @@ description: "Simulates a multi-persona focus group using AI-generated panellist
 ```
 FutureProof:connect(skill="synthetic-focus-group")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to populate panellist archetypes, calibrate sentiment baselines from prior sessions, and apply any user-specific moderation preferences.
 

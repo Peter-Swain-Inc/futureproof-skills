@@ -8,6 +8,8 @@ description: "Determines the optimal webinar format, offer architecture, and big
 ```
 FutureProof:connect(skill="webinar-strategy-architect")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay special attention to any previously identified ICA profiles, existing offer structures, prior webinar performance data, and price point history.
 

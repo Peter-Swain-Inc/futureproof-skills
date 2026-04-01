@@ -8,6 +8,8 @@ description: "Writes, evaluates, and iterates high-performance ad copy across pa
 ```
 FutureProof:connect(skill="ad-copy-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically ICA profiles, brand voice guidelines, historical ad performance data, winning angles from prior sessions, and any standing instructions on tone, compliance, or offer positioning.
 

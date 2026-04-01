@@ -8,6 +8,8 @@ description: "Crafts high-performing LinkedIn posts using FutureProof context, a
 ```
 FutureProof:connect(skill="linkedin-post-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly the user's ICA definition, brand voice, past post performance data, and any winning formats identified through prior experiments.
 

@@ -8,6 +8,8 @@ description: "Builds a psychographic and linguistic mirror of the user's Ideal C
 ```
 FutureProof:connect(skill="ica-mirror")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. If prior ICA Mirror sessions exist, surface the most recent ICA profile as a starting baseline and ask whether the user wants to iterate on it or build a new avatar from scratch.
 

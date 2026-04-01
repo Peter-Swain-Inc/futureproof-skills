@@ -8,6 +8,8 @@ description: "Constructs a virtual board of celebrity advisors — iconic thinke
 ```
 FutureProof:connect(skill="celebrity-board-of-advisors")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically the user's ICA definition, brand voice, industry vertical, existing thought leadership pillars, and any previously assembled board members or advisory archetypes.
 

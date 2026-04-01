@@ -8,6 +8,8 @@ description: "Crafts high-conversion business proposals using FutureProof contex
 ```
 FutureProof:connect(skill="proposal-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly ICA definitions, past proposal win/loss data, pricing structures, brand voice guidelines, and any saved case studies or proof assets.
 

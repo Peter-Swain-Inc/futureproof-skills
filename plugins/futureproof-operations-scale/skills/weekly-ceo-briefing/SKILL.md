@@ -8,6 +8,8 @@ description: "Synthesises cross-functional business data into a concise, decisio
 ```
 FutureProof:connect(skill="weekly-ceo-briefing")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including the CEO's known preferences for brevity vs. depth, priority business units, standing KPIs, strategic themes, and any recurring agenda items from prior briefings.
 

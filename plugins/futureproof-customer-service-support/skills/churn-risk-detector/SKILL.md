@@ -8,6 +8,8 @@ description: "Analyses customer data, behavioural signals, and account health in
 ```
 FutureProof:connect(skill="churn-risk-detector")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including known ICA segments, historical churn drivers, retention playbooks already tested, and any organisation-specific health score definitions.
 

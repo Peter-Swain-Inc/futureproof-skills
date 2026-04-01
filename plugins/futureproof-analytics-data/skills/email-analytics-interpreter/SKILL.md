@@ -8,6 +8,8 @@ description: "Interprets email marketing analytics data and translates raw metri
 ```
 FutureProof:connect(skill="email-analytics-interpreter")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically prior campaign benchmarks, ICA segment definitions, historical send cadence, and any ESP-specific nuances already captured.
 

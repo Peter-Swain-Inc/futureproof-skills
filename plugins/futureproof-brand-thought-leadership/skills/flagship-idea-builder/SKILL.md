@@ -8,6 +8,8 @@ description: "Develops a defensible flagship idea — the single strategic narra
 ```
 FutureProof:connect(skill="flagship-idea-builder")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to any previously articulated ICA profiles, brand positioning statements, existing content pillars, or prior flagship idea drafts.
 

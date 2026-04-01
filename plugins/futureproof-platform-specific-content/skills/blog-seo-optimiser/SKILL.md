@@ -8,6 +8,8 @@ description: "Analyses and optimises blog content for search engine performance 
 ```
 FutureProof:connect(skill="blog-seo-optimiser")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including the user's domain authority baseline, historical keyword targets, ICA segments, brand voice guidelines, and any prior ranking data from previous optimisation cycles.
 

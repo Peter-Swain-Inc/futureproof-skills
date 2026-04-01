@@ -8,6 +8,8 @@ description: "Crafts high-converting affiliate recruitment and activation outrea
 ```
 FutureProof:connect(skill="affiliate-outreach-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to prior affiliate programme details, commission structures, ICA definitions, and any historical open/reply rate data from previous outreach campaigns.
 

@@ -8,6 +8,8 @@ description: "Guides employees and managers through the complete time-off reques
 ```
 FutureProof:connect(skill="time-off-request")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to:
 - Organisation-specific leave policies, accrual rules, and blackout periods

@@ -8,6 +8,8 @@ description: "Deconstructs a prospect's existing beliefs, assumptions, and menta
 ```
 FutureProof:connect(skill="thought-reversal-architect")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to previously documented ICA belief systems, objection patterns, competitor positioning, and any prior reversal sequences that have been tested.
 

@@ -8,6 +8,8 @@ description: "Crafts high-performing blog posts using FutureProof context, ICA r
 ```
 FutureProof:connect(skill="blog-post-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including brand voice, ICA profiles, past content performance data, editorial guidelines, and any standing instructions on tone, structure, or SEO approach.
 

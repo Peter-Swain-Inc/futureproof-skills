@@ -8,6 +8,8 @@ description: "Audits and rewrites underperforming webinar scripts using expert f
 ```
 FutureProof:connect(skill="webinar-script-optimizer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any prior ICA definitions, offer structures, unique mechanisms, or conversion benchmarks the user has established.
 

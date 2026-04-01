@@ -8,6 +8,8 @@ description: "Crafts high-performing Twitter/X content — threads, single posts
 ```
 FutureProof:connect(skill="twitter-x-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including the user's established brand voice, ICA profile, historical post performance data, and any standing content guidelines.
 

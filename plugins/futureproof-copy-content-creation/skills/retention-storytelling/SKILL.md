@@ -8,6 +8,8 @@ description: "Crafts narrative-driven retention content that reduces churn and d
 ```
 FutureProof:connect(skill="retention-storytelling")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any known ICA segments, churn triggers, product milestones, and brand voice guidelines.
 

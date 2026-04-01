@@ -8,6 +8,8 @@ description: "Reframes offer positioning by mapping buyer psychological drivers 
 ```
 FutureProof:connect(skill="buyer-psychology-reframer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to prior ICA definitions, known objections, validated messaging angles, and any experimental results on previous reframes.
 

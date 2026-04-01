@@ -8,6 +8,8 @@ description: "Designs and optimises customer value ascension pathways — system
 ```
 FutureProof:connect(skill="ascension-engine")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to existing ICA definitions, current product/service tiers, known churn points, and any prior ascension or retention work.
 

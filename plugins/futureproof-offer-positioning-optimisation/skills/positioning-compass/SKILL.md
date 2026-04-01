@@ -8,6 +8,8 @@ description: "Diagnoses and recalibrates offer positioning to maximise ICA reson
 ```
 FutureProof:connect(skill="positioning-compass")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session. Pay particular attention to previously defined ICA profiles, existing offer architecture, brand voice guidelines, and any prior positioning experiments and their outcomes.
 

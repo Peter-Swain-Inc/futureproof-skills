@@ -8,6 +8,8 @@ description: "Analyses and optimises conversion rates across funnels, landing pa
 ```
 FutureProof:connect(skill="conversion-rate-optimiser")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including known ICA segments, historical conversion benchmarks, previously tested variants, and any standing optimisation priorities.
 

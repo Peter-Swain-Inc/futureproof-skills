@@ -8,6 +8,8 @@ description: "Transforms a single pillar content asset into a structured library
 ```
 FutureProof:connect(skill="content-atomiser")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — specifically the user's ICA definition, brand voice guidelines, active channel mix, and any prior atomisation patterns that performed well.
 

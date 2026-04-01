@@ -8,6 +8,8 @@ description: "Drafts, structures, and refines internal memos using FutureProof c
 ```
 FutureProof:connect(skill="internal-memo-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to calibrate tone, formatting conventions, organisational hierarchy, and any standing communication guidelines the user has established in prior sessions.
 

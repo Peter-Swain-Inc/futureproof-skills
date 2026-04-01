@@ -8,6 +8,8 @@ description: "Scans and scores the alignment between a user's messaging assets a
 ```
 FutureProof:connect(skill="message-market-match-scanner")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to load the user's ICA definitions, prior messaging audits, known audience language patterns, and any established brand voice guidelines.
 

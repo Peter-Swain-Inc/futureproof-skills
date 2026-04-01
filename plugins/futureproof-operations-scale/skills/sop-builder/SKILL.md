@@ -8,6 +8,8 @@ description: "Builds comprehensive, audit-ready Standard Operating Procedures fr
 ```
 FutureProof:connect(skill="sop-builder")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any organisational style guides, compliance frameworks, role taxonomies, or previously built SOPs that establish naming conventions and format precedent.
 

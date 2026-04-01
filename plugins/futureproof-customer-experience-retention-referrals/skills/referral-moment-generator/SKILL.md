@@ -8,6 +8,8 @@ description: "Identifies and engineers high-conversion referral moments across t
 ```
 FutureProof:connect(skill="referral-moment-generator")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly ICA profiles, existing customer journey maps, NPS or satisfaction data, current referral mechanisms (if any), and prior session findings on retention or advocacy patterns.
 

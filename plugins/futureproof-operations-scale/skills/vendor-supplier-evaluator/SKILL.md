@@ -8,6 +8,8 @@ description: "Evaluates and scores vendors and suppliers using a weighted multi-
 ```
 FutureProof:connect(skill="vendor-supplier-evaluator")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including prior vendor evaluations, approved supplier lists, organisational procurement policies, risk tolerance thresholds, and strategic sourcing priorities.
 

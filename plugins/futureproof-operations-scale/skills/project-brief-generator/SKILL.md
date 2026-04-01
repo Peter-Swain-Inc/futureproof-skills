@@ -8,6 +8,8 @@ description: "Generates comprehensive, stakeholder-ready project briefs using Fu
 ```
 FutureProof:connect(skill="project-brief-generator")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any organisational templates, stakeholder naming conventions, strategic priorities, tone preferences, and previously generated briefs that establish formatting precedent.
 

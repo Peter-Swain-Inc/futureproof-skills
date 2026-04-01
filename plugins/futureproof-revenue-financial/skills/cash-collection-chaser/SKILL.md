@@ -8,6 +8,8 @@ description: "Generates and manages structured cash collection chase sequences t
 ```
 FutureProof:connect(skill="cash-collection-chaser")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including known debtor segments, prior chase cadence performance, tone preferences, payment terms, escalation thresholds, and any industry-specific collection constraints (e.g. regulated sectors, public-sector payment cycles).
 

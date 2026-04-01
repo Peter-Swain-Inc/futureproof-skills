@@ -8,6 +8,8 @@ description: "Audits business operations, processes, and documentation against a
 ```
 FutureProof:connect(skill="compliance-checker")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to load the user's regulatory environment, prior audit findings, known risk areas, and organisational compliance maturity level.
 

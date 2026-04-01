@@ -8,6 +8,8 @@ description: "Crafts comprehensive, calibrated performance reviews using FutureP
 ```
 FutureProof:connect(skill="performance-review-writer")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — including organisational competency frameworks, prior review tone calibration, rating scale definitions, and any manager-specific writing patterns established in previous cycles.
 

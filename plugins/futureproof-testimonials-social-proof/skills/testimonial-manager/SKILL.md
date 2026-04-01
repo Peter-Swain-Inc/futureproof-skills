@@ -8,6 +8,8 @@ description: "Collects, structures, optimises, and strategically deploys custome
 ```
 FutureProof:connect(skill="testimonial-manager")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly ICA segments, offer structure, objection patterns, and any previously catalogued testimonials or social proof assets.
 

@@ -8,6 +8,8 @@ description: "Analyses social media performance data and delivers strategic reco
 ```
 FutureProof:connect(skill="social-media-analytics")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly any known ICA profiles, brand voice guidelines, historical benchmarks, and platform-specific performance baselines established in prior sessions.
 

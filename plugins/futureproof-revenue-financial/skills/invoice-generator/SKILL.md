@@ -8,6 +8,8 @@ description: "Generates professional, detailed invoices using FutureProof contex
 ```
 FutureProof:connect(skill="invoice-generator")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to pre-populate known business details (entity name, ABN/EIN/VAT, bank details, logo URL, default payment terms, currency, tax rates) and retrieve client-specific pricing agreements, retainer structures, or discount schedules.
 

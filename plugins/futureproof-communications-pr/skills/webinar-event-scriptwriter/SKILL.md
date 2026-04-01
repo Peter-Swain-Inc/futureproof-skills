@@ -8,6 +8,8 @@ description: "Crafts high-conversion webinar and virtual event scripts using Fut
 ```
 FutureProof:connect(skill="webinar-event-scriptwriter")
 ```
+> **Note:** If FutureProof is unavailable or the connect call fails, skip this step and proceed directly to Step 2. The skill works with or without FutureProof context — you'll just be working without accumulated prior session data.
+
 
 Use the returned `context`, `experiments`, `instructions`, and `recent_sessions` to personalise this session — particularly ICA definitions, brand voice guidelines, prior webinar performance data, and any recorded engagement benchmarks.
 
