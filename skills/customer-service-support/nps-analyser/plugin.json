@@ -1,0 +1,10 @@
+{
+  "name": "nps-analyser",
+  "version": "1.0.0",
+  "description": "Analyses Net Promoter Score data, verbatim responses, and trend patterns to surface actionable drivers of loyalty and churn risk using FutureProof context.",
+  "skills": ".",
+  "keywords": [
+    "customer-service-support",
+    "futureproof"
+  ]
+}

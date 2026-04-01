@@ -1,1167 +1,1608 @@
 {
   "name": "futureproof-skills",
-  "version": "1.0.0",
-  "description": "FutureProof Skills Marketplace \u2014 145 AI-powered business skills for Claude",
-  "skills": [
+  "owner": {
+    "name": "FutureProof",
+    "email": "hello@futureproof.ai"
+  },
+  "metadata": {
+    "description": "145+ AI-powered business skills for Claude — audience research, offer optimisation, sales, analytics, operations, HR, legal, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
     {
-      "name": "ICA Mirror",
-      "id": "ica-mirror",
+      "name": "ica-mirror",
+      "source": "./skills/audience-insight-research/ica-mirror",
+      "description": "Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decisions — enabling every downstream asset (copy, offers,",
       "version": "1.0.0",
-      "description": "ICA Mirror \u2014 coming soon",
-      "location": "skills/audience-insight-research/ica-mirror",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Synthetic Focus Group",
-      "id": "synthetic-focus-group",
+      "name": "synthetic-focus-group",
+      "source": "./skills/audience-insight-research/synthetic-focus-group",
+      "description": "Simulates a multi-persona focus group using AI-generated panellists grounded in the user's ICA profiles, market context, and FutureProof research history.",
       "version": "1.0.0",
-      "description": "Synthetic Focus Group \u2014 coming soon",
-      "location": "skills/audience-insight-research/synthetic-focus-group",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Invisible Demand Detector",
-      "id": "invisible-demand-detector",
+      "name": "invisible-demand-detector",
+      "source": "./skills/audience-insight-research/invisible-demand-detector",
+      "description": "Detects latent, unarticulated, and emerging demand signals that competitors overlook — surfacing invisible market needs before they become visible trends.",
       "version": "1.0.0",
-      "description": "Invisible Demand Detector \u2014 coming soon",
-      "location": "skills/audience-insight-research/invisible-demand-detector",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Message Market Match Scanner",
-      "id": "message-market-match-scanner",
+      "name": "message-market-match-scanner",
+      "source": "./skills/audience-insight-research/message-market-match-scanner",
+      "description": "Scans and scores the alignment between a user's messaging assets and their target market's actual language, beliefs, and buying triggers.",
       "version": "1.0.0",
-      "description": "Message Market Match Scanner \u2014 coming soon",
-      "location": "skills/audience-insight-research/message-market-match-scanner",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Audience Emotional Pulse",
-      "id": "audience-emotional-pulse",
+      "name": "audience-emotional-pulse",
+      "source": "./skills/audience-insight-research/audience-emotional-pulse",
+      "description": "Maps the real-time emotional landscape of a target audience segment — surfacing dominant fears, aspirations, frustrations, and identity narratives that drive decision-making beneath rational justification.",
       "version": "1.0.0",
-      "description": "Audience Emotional Pulse \u2014 coming soon",
-      "location": "skills/audience-insight-research/audience-emotional-pulse",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Audience Expansion",
-      "id": "audience-expansion",
+      "name": "audience-expansion",
+      "source": "./skills/audience-insight-research/audience-expansion",
+      "description": "Identifies and validates adjacent audience segments beyond a user's current ICA to unlock new growth vectors without diluting positioning.",
       "version": "1.0.0",
-      "description": "Audience Expansion \u2014 coming soon",
-      "location": "skills/audience-insight-research/audience-expansion",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Attention Heatmap",
-      "id": "attention-heatmap",
+      "name": "attention-heatmap",
+      "source": "./skills/audience-insight-research/attention-heatmap",
+      "description": "Predicts and maps visual attention patterns across marketing assets, landing pages, emails, and ad creatives using cognitive science frameworks.",
       "version": "1.0.0",
-      "description": "Attention Heatmap \u2014 coming soon",
-      "location": "skills/audience-insight-research/attention-heatmap",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Competitor Content Spotter",
-      "id": "competitor-content-spotter",
+      "name": "competitor-content-spotter",
+      "source": "./skills/audience-insight-research/competitor-content-spotter",
+      "description": "Identifies, deconstructs, and maps competitor content strategies to reveal positioning gaps, messaging vulnerabilities, and audience capture opportunities.",
       "version": "1.0.0",
-      "description": "Competitor Content Spotter \u2014 coming soon",
-      "location": "skills/audience-insight-research/competitor-content-spotter",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Reluctant Buyer Decoder",
-      "id": "reluctant-buyer-decoder",
+      "name": "reluctant-buyer-decoder",
+      "source": "./skills/audience-insight-research/reluctant-buyer-decoder",
+      "description": "Decodes the psychological barriers, hidden objections, and decision-avoidance patterns of reluctant buyers to produce actionable conversion strategies.",
       "version": "1.0.0",
-      "description": "Reluctant Buyer Decoder \u2014 coming soon",
-      "location": "skills/audience-insight-research/reluctant-buyer-decoder",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Invisible Trends Forecaster",
-      "id": "invisible-trends-forecaster",
+      "name": "invisible-trends-forecaster",
+      "source": "./skills/audience-insight-research/invisible-trends-forecaster",
+      "description": "Identifies emerging, under-the-radar audience trends before they reach mainstream awareness by analysing weak signals across behavioural data, cultural shifts, and niche community sentiment.",
       "version": "1.0.0",
-      "description": "Invisible Trends Forecaster \u2014 coming soon",
-      "location": "skills/audience-insight-research/invisible-trends-forecaster",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Dream Client Magnet",
-      "id": "dream-client-magnet",
+      "name": "dream-client-magnet",
+      "source": "./skills/audience-insight-research/dream-client-magnet",
+      "description": "Identifies, profiles, and builds attraction strategies for a user's highest-value dream clients using deep psychographic research, watering hole analysis, and magnetic positioning.",
       "version": "1.0.0",
-      "description": "Dream Client Magnet \u2014 coming soon",
-      "location": "skills/audience-insight-research/dream-client-magnet",
-      "category": "Audience Insight & Research"
+      "keywords": [
+        "audience-insight-research",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Offer Diagnostic",
-      "id": "offer-diagnostic",
+      "name": "offer-diagnostic",
+      "source": "./skills/offer-positioning-optimisation/offer-diagnostic",
+      "description": "Diagnoses the structural health, positioning clarity, and conversion readiness of an offer using a systematic audit framework.",
       "version": "1.0.0",
-      "description": "Offer Diagnostic \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/offer-diagnostic",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Value Stack Multiplier",
-      "id": "value-stack-multiplier",
+      "name": "value-stack-multiplier",
+      "source": "./skills/offer-positioning-optimisation/value-stack-multiplier",
+      "description": "Architects and optimises value stacks for offers, programmes, and services by systematically layering components to maximise perceived value relative to price.",
       "version": "1.0.0",
-      "description": "Value Stack Multiplier \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/value-stack-multiplier",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Pricing Power Optimiser",
-      "id": "pricing-power-optimiser",
+      "name": "pricing-power-optimiser",
+      "source": "./skills/offer-positioning-optimisation/pricing-power-optimiser",
+      "description": "Analyses and strengthens pricing architecture, value-to-price alignment, and willingness-to-pay positioning using FutureProof context.",
       "version": "1.0.0",
-      "description": "Pricing Power Optimiser \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/pricing-power-optimiser",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Incentive Designer",
-      "id": "incentive-designer",
+      "name": "incentive-designer",
+      "source": "./skills/offer-positioning-optimisation/incentive-designer",
+      "description": "Designs, evaluates, and optimises offer incentives — bonuses, guarantees, urgency mechanisms, and value-stack architecture — to maximise conversion without eroding margin or brand positioning.",
       "version": "1.0.0",
-      "description": "Incentive Designer \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/incentive-designer",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Micro Offer Builder",
-      "id": "micro-offer-builder",
+      "name": "micro-offer-builder",
+      "source": "./skills/offer-positioning-optimisation/micro-offer-builder",
+      "description": "Architects high-conversion micro offers — low-risk, high-specificity entry points that convert cold audiences into paying clients by solving one acute problem with one clear deliverable at one irresistible price point.",
       "version": "1.0.0",
-      "description": "Micro Offer Builder \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/micro-offer-builder",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Positioning Compass",
-      "id": "positioning-compass",
+      "name": "positioning-compass",
+      "source": "./skills/offer-positioning-optimisation/positioning-compass",
+      "description": "Diagnoses and recalibrates offer positioning to maximise ICA resonance, competitive differentiation, and perceived value.",
       "version": "1.0.0",
-      "description": "Positioning Compass \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/positioning-compass",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Buyer Psychology Reframer",
-      "id": "buyer-psychology-reframer",
+      "name": "buyer-psychology-reframer",
+      "source": "./skills/offer-positioning-optimisation/buyer-psychology-reframer",
+      "description": "Reframes offer positioning by mapping buyer psychological drivers — loss aversion, identity alignment, status dynamics, cognitive load, and decision fatigue — to produce repositioned messaging that converts at the belief level, not the feature level.",
       "version": "1.0.0",
-      "description": "Buyer Psychology Reframer \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/buyer-psychology-reframer",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Thought Leadership Engine",
-      "id": "thought-leadership-engine",
+      "name": "thought-leadership-engine",
+      "source": "./skills/offer-positioning-optimisation/thought-leadership-engine",
+      "description": "Transforms subject-matter expertise into high-authority thought leadership content that positions the user as the definitive voice in their category.",
       "version": "1.0.0",
-      "description": "Thought Leadership Engine \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/thought-leadership-engine",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Thought Reversal Architect",
-      "id": "thought-reversal-architect",
+      "name": "thought-reversal-architect",
+      "source": "./skills/offer-positioning-optimisation/thought-reversal-architect",
+      "description": "Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.",
       "version": "1.0.0",
-      "description": "Thought Reversal Architect \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/thought-reversal-architect",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Lightning Launch",
-      "id": "lightning-launch",
+      "name": "lightning-launch",
+      "source": "./skills/offer-positioning-optimisation/lightning-launch",
+      "description": "Guides users through a rapid, high-conviction offer launch sequence — from positioning through to launch-day execution — in a single structured session.",
       "version": "1.0.0",
-      "description": "Lightning Launch \u2014 coming soon",
-      "location": "skills/offer-positioning-optimisation/lightning-launch",
-      "category": "Offer & Positioning Optimisation"
+      "keywords": [
+        "offer-positioning-optimisation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Email Copy",
-      "id": "email-copy",
+      "name": "email-copy",
+      "source": "./skills/copy-content-creation/email-copy",
+      "description": "Crafts high-converting email copy across the full lifecycle — cold outreach, nurture sequences, launches, re-engagement, and transactional emails — using FutureProof context to align messaging with the user's ICA, brand voice, and proven performance ",
       "version": "1.0.0",
-      "description": "Email Copy \u2014 coming soon",
-      "location": "skills/copy-content-creation/email-copy",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Email Sequencer",
-      "id": "email-sequencer",
+      "name": "email-sequencer",
+      "source": "./skills/copy-content-creation/email-sequencer",
+      "description": "Designs, writes, and optimises multi-step email sequences using FutureProof context, ICA intelligence, and proven persuasion architecture.",
       "version": "1.0.0",
-      "description": "Email Sequencer \u2014 coming soon",
-      "location": "skills/copy-content-creation/email-sequencer",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Text Message",
-      "id": "text-message",
+      "name": "text-message",
+      "source": "./skills/copy-content-creation/text-message",
+      "description": "Crafts high-converting text messages (SMS, iMessage, WhatsApp, DM) using FutureProof context to match the user's brand voice, ICA language patterns, and campaign objectives.",
       "version": "1.0.0",
-      "description": "Text Message \u2014 coming soon",
-      "location": "skills/copy-content-creation/text-message",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ad Copy Variation",
-      "id": "ad-copy-variation",
+      "name": "ad-copy-variation",
+      "source": "./skills/copy-content-creation/ad-copy-variation",
+      "description": "Generates high-performing ad copy variations across platforms, audiences, and angles using FutureProof context to refine messaging over time.",
       "version": "1.0.0",
-      "description": "Ad Copy Variation \u2014 coming soon",
-      "location": "skills/copy-content-creation/ad-copy-variation",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Sales Page",
-      "id": "sales-page",
+      "name": "sales-page",
+      "source": "./skills/copy-content-creation/sales-page",
+      "description": "Crafts high-converting long-form sales pages using FutureProof context, ICA research, and proven direct-response frameworks.",
       "version": "1.0.0",
-      "description": "Sales Page \u2014 coming soon",
-      "location": "skills/copy-content-creation/sales-page",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Content Atomiser",
-      "id": "content-atomiser",
+      "name": "content-atomiser",
+      "source": "./skills/copy-content-creation/content-atomiser",
+      "description": "Transforms a single pillar content asset into a structured library of derivative micro-content pieces optimised for multi-channel distribution.",
       "version": "1.0.0",
-      "description": "Content Atomiser \u2014 coming soon",
-      "location": "skills/copy-content-creation/content-atomiser",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Image Prompt Framework",
-      "id": "image-prompt-framework",
+      "name": "image-prompt-framework",
+      "source": "./skills/copy-content-creation/image-prompt-framework",
+      "description": "Crafts high-performance image generation prompts using structured frameworks, style systems, and iterative refinement informed by FutureProof context.",
       "version": "1.0.0",
-      "description": "Image Prompt Framework \u2014 coming soon",
-      "location": "skills/copy-content-creation/image-prompt-framework",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Content Calendar",
-      "id": "content-calendar",
+      "name": "content-calendar",
+      "source": "./skills/copy-content-creation/content-calendar",
+      "description": "Builds strategically sequenced content calendars aligned to ICA journey stages, business objectives, and channel-specific best practices using FutureProof context.",
       "version": "1.0.0",
-      "description": "Content Calendar \u2014 coming soon",
-      "location": "skills/copy-content-creation/content-calendar",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Authority Combat Trainer",
-      "id": "authority-combat-trainer",
+      "name": "authority-combat-trainer",
+      "source": "./skills/copy-content-creation/authority-combat-trainer",
+      "description": "Trains subject-matter experts and authority figures to defend their positions, handle hostile questioning, and dominate adversarial conversations through structured combat drills and pressure-tested response frameworks.",
       "version": "1.0.0",
-      "description": "Authority Combat Trainer \u2014 coming soon",
-      "location": "skills/copy-content-creation/authority-combat-trainer",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Retention Storytelling",
-      "id": "retention-storytelling",
+      "name": "retention-storytelling",
+      "source": "./skills/copy-content-creation/retention-storytelling",
+      "description": "Crafts narrative-driven retention content that reduces churn and deepens customer commitment using story architecture, behavioural psychology, and ICA-specific emotional triggers.",
       "version": "1.0.0",
-      "description": "Retention Storytelling \u2014 coming soon",
-      "location": "skills/copy-content-creation/retention-storytelling",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Lead Magnet Copy Writer",
-      "id": "lead-magnet-copy-writer",
+      "name": "lead-magnet-copy-writer",
+      "source": "./skills/copy-content-creation/lead-magnet-copy-writer",
+      "description": "Writes high-converting lead magnet copy using FutureProof context, ICA research, and proven direct-response frameworks.",
       "version": "1.0.0",
-      "description": "Lead Magnet Copy Writer \u2014 coming soon",
-      "location": "skills/copy-content-creation/lead-magnet-copy-writer",
-      "category": "Copy & Content Creation"
+      "keywords": [
+        "copy-content-creation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "LinkedIn Post Writer",
-      "id": "linkedin-post-writer",
+      "name": "linkedin-post-writer",
+      "source": "./skills/platform-specific-content/linkedin-post-writer",
+      "description": "Crafts high-performing LinkedIn posts using FutureProof context, audience intelligence, and platform-native best practices.",
       "version": "1.0.0",
-      "description": "LinkedIn Post Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/linkedin-post-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Twitter X Writer",
-      "id": "twitter-x-writer",
+      "name": "twitter-x-writer",
+      "source": "./skills/platform-specific-content/twitter-x-writer",
+      "description": "Crafts high-performing Twitter/X content — threads, single posts, reply strategies, and content calendars — using FutureProof context to align with audience psychology, platform algorithm mechanics, and brand voice.",
       "version": "1.0.0",
-      "description": "Twitter X Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/twitter-x-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Instagram Caption Writer",
-      "id": "instagram-caption-writer",
+      "name": "instagram-caption-writer",
+      "source": "./skills/platform-specific-content/instagram-caption-writer",
+      "description": "Crafts high-performing Instagram captions using FutureProof context, ICA psychographics, and platform-specific engagement frameworks.",
       "version": "1.0.0",
-      "description": "Instagram Caption Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/instagram-caption-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Facebook Post Writer",
-      "id": "facebook-post-writer",
+      "name": "facebook-post-writer",
+      "source": "./skills/platform-specific-content/facebook-post-writer",
+      "description": "Crafts high-performing Facebook posts using FutureProof context, audience intelligence, and platform-specific best practices.",
       "version": "1.0.0",
-      "description": "Facebook Post Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/facebook-post-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "TikTok Script Writer",
-      "id": "tiktok-script-writer",
+      "name": "tiktok-script-writer",
+      "source": "./skills/platform-specific-content/tiktok-script-writer",
+      "description": "Crafts high-performing TikTok video scripts using FutureProof context, ICA psychographics, and platform-native storytelling frameworks.",
       "version": "1.0.0",
-      "description": "TikTok Script Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/tiktok-script-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "YouTube Script Description Writer",
-      "id": "youtube-script-description-writer",
+      "name": "youtube-script-description-writer",
+      "source": "./skills/platform-specific-content/youtube-script-description-writer",
+      "description": "Crafts high-performing YouTube video scripts and optimised descriptions using FutureProof context, audience intelligence, and platform-specific best practices.",
       "version": "1.0.0",
-      "description": "YouTube Script Description Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/youtube-script-description-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Blog Post Writer",
-      "id": "blog-post-writer",
+      "name": "blog-post-writer",
+      "source": "./skills/platform-specific-content/blog-post-writer",
+      "description": "Crafts high-performing blog posts using FutureProof context, ICA research, and proven content frameworks.",
       "version": "1.0.0",
-      "description": "Blog Post Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/blog-post-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Blog SEO Optimiser",
-      "id": "blog-seo-optimiser",
+      "name": "blog-seo-optimiser",
+      "source": "./skills/platform-specific-content/blog-seo-optimiser",
+      "description": "Analyses and optimises blog content for search engine performance using FutureProof context, accumulated keyword research, and iterative ranking experiments.",
       "version": "1.0.0",
-      "description": "Blog SEO Optimiser \u2014 coming soon",
-      "location": "skills/platform-specific-content/blog-seo-optimiser",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Substack Newsletter Writer",
-      "id": "substack-newsletter-writer",
+      "name": "substack-newsletter-writer",
+      "source": "./skills/platform-specific-content/substack-newsletter-writer",
+      "description": "Crafts high-performing Substack newsletters using FutureProof context, audience intelligence, and platform-specific best practices.",
       "version": "1.0.0",
-      "description": "Substack Newsletter Writer \u2014 coming soon",
-      "location": "skills/platform-specific-content/substack-newsletter-writer",
-      "category": "Platform-Specific Content"
+      "keywords": [
+        "platform-specific-content",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ad Copy Writer",
-      "id": "ad-copy-writer",
+      "name": "ad-copy-writer",
+      "source": "./skills/advertising-paid-media/ad-copy-writer",
+      "description": "Writes, evaluates, and iterates high-performance ad copy across paid media channels using FutureProof context, ICA intelligence, and platform-specific best practices.",
       "version": "1.0.0",
-      "description": "Ad Copy Writer \u2014 coming soon",
-      "location": "skills/advertising-paid-media/ad-copy-writer",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ad Creative Brief Generator",
-      "id": "ad-creative-brief-generator",
+      "name": "ad-creative-brief-generator",
+      "source": "./skills/advertising-paid-media/ad-creative-brief-generator",
+      "description": "Generates comprehensive ad creative briefs using FutureProof context, audience intelligence, and campaign strategy inputs.",
       "version": "1.0.0",
-      "description": "Ad Creative Brief Generator \u2014 coming soon",
-      "location": "skills/advertising-paid-media/ad-creative-brief-generator",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ad Performance Analyser",
-      "id": "ad-performance-analyser",
+      "name": "ad-performance-analyser",
+      "source": "./skills/advertising-paid-media/ad-performance-analyser",
+      "description": "Analyses paid media campaign performance across platforms and delivers actionable optimisation recommendations using FutureProof context.",
       "version": "1.0.0",
-      "description": "Ad Performance Analyser \u2014 coming soon",
-      "location": "skills/advertising-paid-media/ad-performance-analyser",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Landing Page Writer",
-      "id": "landing-page-writer",
+      "name": "landing-page-writer",
+      "source": "./skills/advertising-paid-media/landing-page-writer",
+      "description": "Writes high-converting landing pages using FutureProof context, ICA research, and proven direct-response frameworks.",
       "version": "1.0.0",
-      "description": "Landing Page Writer \u2014 coming soon",
-      "location": "skills/advertising-paid-media/landing-page-writer",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "AB Test Designer",
-      "id": "ab-test-designer",
+      "name": "ab-test-designer",
+      "source": "./skills/advertising-paid-media/ab-test-designer",
+      "description": "Designs statistically rigorous A/B test plans for paid media campaigns using FutureProof context.",
       "version": "1.0.0",
-      "description": "AB Test Designer \u2014 coming soon",
-      "location": "skills/advertising-paid-media/ab-test-designer",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ad Budget Allocator",
-      "id": "ad-budget-allocator",
+      "name": "ad-budget-allocator",
+      "source": "./skills/advertising-paid-media/ad-budget-allocator",
+      "description": "Allocates and optimises advertising budgets across channels, campaigns, and audience segments using FutureProof context, historical performance data, and marginal return analysis.",
       "version": "1.0.0",
-      "description": "Ad Budget Allocator \u2014 coming soon",
-      "location": "skills/advertising-paid-media/ad-budget-allocator",
-      "category": "Advertising & Paid Media"
+      "keywords": [
+        "advertising-paid-media",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Sales Call Coach",
-      "id": "sales-call-coach",
+      "name": "sales-call-coach",
+      "source": "./skills/sales-conversion-enhancement/sales-call-coach",
+      "description": "Provides real-time and post-call coaching for sales conversations using FutureProof context, turning call recordings, notes, and live scenarios into actionable performance improvements.",
       "version": "1.0.0",
-      "description": "Sales Call Coach \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/sales-call-coach",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Conversion Narrative Engineer",
-      "id": "conversion-narrative-engineer",
+      "name": "conversion-narrative-engineer",
+      "source": "./skills/sales-conversion-enhancement/conversion-narrative-engineer",
+      "description": "Engineers high-converting narrative arcs for sales pages, landing pages, email sequences, and funnel copy by mapping psychological triggers to ICA decision journeys.",
       "version": "1.0.0",
-      "description": "Conversion Narrative Engineer \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/conversion-narrative-engineer",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Conversion Momentum Builder",
-      "id": "conversion-momentum-builder",
+      "name": "conversion-momentum-builder",
+      "source": "./skills/sales-conversion-enhancement/conversion-momentum-builder",
+      "description": "Builds compounding conversion momentum across the full buyer journey by identifying friction points, sequencing micro-commitments, and engineering progressive trust escalation that turns stalled pipelines into predictable revenue engines.",
       "version": "1.0.0",
-      "description": "Conversion Momentum Builder \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/conversion-momentum-builder",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Buyer Journey Bottleneck Breaker",
-      "id": "buyer-journey-bottleneck-breaker",
+      "name": "buyer-journey-bottleneck-breaker",
+      "source": "./skills/sales-conversion-enhancement/buyer-journey-bottleneck-breaker",
+      "description": "Diagnoses and resolves conversion bottlenecks across every stage of the buyer journey using FutureProof context, historical experiment data, and structured diagnostic frameworks.",
       "version": "1.0.0",
-      "description": "Buyer Journey Bottleneck Breaker \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/buyer-journey-bottleneck-breaker",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Event ROI Forecaster",
-      "id": "event-roi-forecaster",
+      "name": "event-roi-forecaster",
+      "source": "./skills/sales-conversion-enhancement/event-roi-forecaster",
+      "description": "Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attribution, and FutureProof context.",
       "version": "1.0.0",
-      "description": "Event ROI Forecaster \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/event-roi-forecaster",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Attention to Revenue Bridge",
-      "id": "attention-to-revenue-bridge",
+      "name": "attention-to-revenue-bridge",
+      "source": "./skills/sales-conversion-enhancement/attention-to-revenue-bridge",
+      "description": "Maps the complete journey from initial audience attention capture through to closed revenue, identifying leakage points, conversion friction, and monetisation gaps across every stage of the engagement-to-purchase pipeline.",
       "version": "1.0.0",
-      "description": "Attention to Revenue Bridge \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/attention-to-revenue-bridge",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Sales Script Writer",
-      "id": "sales-script-writer",
+      "name": "sales-script-writer",
+      "source": "./skills/sales-conversion-enhancement/sales-script-writer",
+      "description": "Writes high-converting sales scripts from scratch using FutureProof context, ICA intelligence, and proven persuasion frameworks.",
       "version": "1.0.0",
-      "description": "Sales Script Writer \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/sales-script-writer",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Follow Up Sequence Builder",
-      "id": "follow-up-sequence-builder",
+      "name": "follow-up-sequence-builder",
+      "source": "./skills/sales-conversion-enhancement/follow-up-sequence-builder",
+      "description": "Builds high-conversion follow-up sequences using FutureProof context, behavioural timing science, and ICA-specific messaging frameworks.",
       "version": "1.0.0",
-      "description": "Follow Up Sequence Builder \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/follow-up-sequence-builder",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Pipeline Forecaster",
-      "id": "pipeline-forecaster",
+      "name": "pipeline-forecaster",
+      "source": "./skills/sales-conversion-enhancement/pipeline-forecaster",
+      "description": "Analyses sales pipeline data to produce probability-weighted revenue forecasts, identifies at-risk deals, and recommends stage-specific acceleration plays using FutureProof context.",
       "version": "1.0.0",
-      "description": "Pipeline Forecaster \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/pipeline-forecaster",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Win Loss Analyser",
-      "id": "win-loss-analyser",
+      "name": "win-loss-analyser",
+      "source": "./skills/sales-conversion-enhancement/win-loss-analyser",
+      "description": "Analyses closed deals (won and lost) to extract actionable patterns that improve future conversion rates using FutureProof context.",
       "version": "1.0.0",
-      "description": "Win Loss Analyser \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/win-loss-analyser",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Affiliate Outreach Writer",
-      "id": "affiliate-outreach-writer",
+      "name": "affiliate-outreach-writer",
+      "source": "./skills/sales-conversion-enhancement/affiliate-outreach-writer",
+      "description": "Crafts high-converting affiliate recruitment and activation outreach sequences using FutureProof context.",
       "version": "1.0.0",
-      "description": "Affiliate Outreach Writer \u2014 coming soon",
-      "location": "skills/sales-conversion-enhancement/affiliate-outreach-writer",
-      "category": "Sales & Conversion Enhancement"
+      "keywords": [
+        "sales-conversion-enhancement",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Campaign Debrief Analyser",
-      "id": "campaign-debrief-analyser",
+      "name": "campaign-debrief-analyser",
+      "source": "./skills/analytics-data/campaign-debrief-analyser",
+      "description": "Analyses completed marketing campaigns to extract actionable insights, diagnose performance drivers, and produce structured debrief documentation suitable for stakeholder review.",
       "version": "1.0.0",
-      "description": "Campaign Debrief Analyser \u2014 coming soon",
-      "location": "skills/analytics-data/campaign-debrief-analyser",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Email Gap Hunter",
-      "id": "email-gap-hunter",
+      "name": "email-gap-hunter",
+      "source": "./skills/analytics-data/email-gap-hunter",
+      "description": "Analyses email marketing sequences and campaign data to identify performance gaps, dead zones, and missed revenue opportunities across the subscriber lifecycle.",
       "version": "1.0.0",
-      "description": "Email Gap Hunter \u2014 coming soon",
-      "location": "skills/analytics-data/email-gap-hunter",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Revenue Leak Detector",
-      "id": "revenue-leak-detector",
+      "name": "revenue-leak-detector",
+      "source": "./skills/analytics-data/revenue-leak-detector",
+      "description": "Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.",
       "version": "1.0.0",
-      "description": "Revenue Leak Detector \u2014 coming soon",
-      "location": "skills/analytics-data/revenue-leak-detector",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Strategic Simplicity Slayer",
-      "id": "strategic-simplicity-slayer",
+      "name": "strategic-simplicity-slayer",
+      "source": "./skills/analytics-data/strategic-simplicity-slayer",
+      "description": "Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.",
       "version": "1.0.0",
-      "description": "Strategic Simplicity Slayer \u2014 coming soon",
-      "location": "skills/analytics-data/strategic-simplicity-slayer",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Revenue Compounding Map",
-      "id": "revenue-compounding-map",
+      "name": "revenue-compounding-map",
+      "source": "./skills/analytics-data/revenue-compounding-map",
+      "description": "Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.",
       "version": "1.0.0",
-      "description": "Revenue Compounding Map \u2014 coming soon",
-      "location": "skills/analytics-data/revenue-compounding-map",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "KPI Interpreter",
-      "id": "kpi-interpreter",
+      "name": "kpi-interpreter",
+      "source": "./skills/analytics-data/kpi-interpreter",
+      "description": "Interprets KPI dashboards, metric reports, and performance data to surface actionable insights, diagnose root causes, and recommend strategic interventions.",
       "version": "1.0.0",
-      "description": "KPI Interpreter \u2014 coming soon",
-      "location": "skills/analytics-data/kpi-interpreter",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Google Analytics Reporter",
-      "id": "google-analytics-reporter",
+      "name": "google-analytics-reporter",
+      "source": "./skills/analytics-data/google-analytics-reporter",
+      "description": "Analyses Google Analytics data and produces executive-grade performance reports with actionable recommendations.",
       "version": "1.0.0",
-      "description": "Google Analytics Reporter \u2014 coming soon",
-      "location": "skills/analytics-data/google-analytics-reporter",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Social Media Analytics",
-      "id": "social-media-analytics",
+      "name": "social-media-analytics",
+      "source": "./skills/analytics-data/social-media-analytics",
+      "description": "Analyses social media performance data and delivers strategic recommendations using FutureProof context.",
       "version": "1.0.0",
-      "description": "Social Media Analytics \u2014 coming soon",
-      "location": "skills/analytics-data/social-media-analytics",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Email Analytics Interpreter",
-      "id": "email-analytics-interpreter",
+      "name": "email-analytics-interpreter",
+      "source": "./skills/analytics-data/email-analytics-interpreter",
+      "description": "Interprets email marketing analytics data and translates raw metrics into actionable strategic recommendations using FutureProof context.",
       "version": "1.0.0",
-      "description": "Email Analytics Interpreter \u2014 coming soon",
-      "location": "skills/analytics-data/email-analytics-interpreter",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Revenue Attribution Modeller",
-      "id": "revenue-attribution-modeller",
+      "name": "revenue-attribution-modeller",
+      "source": "./skills/analytics-data/revenue-attribution-modeller",
+      "description": "Builds multi-touch revenue attribution models that map marketing and sales activities to closed revenue with statistical rigour.",
       "version": "1.0.0",
-      "description": "Revenue Attribution Modeller \u2014 coming soon",
-      "location": "skills/analytics-data/revenue-attribution-modeller",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Conversion Rate Optimiser",
-      "id": "conversion-rate-optimiser",
+      "name": "conversion-rate-optimiser",
+      "source": "./skills/analytics-data/conversion-rate-optimiser",
+      "description": "Analyses and optimises conversion rates across funnels, landing pages, checkout flows, and nurture sequences using FutureProof context.",
       "version": "1.0.0",
-      "description": "Conversion Rate Optimiser \u2014 coming soon",
-      "location": "skills/analytics-data/conversion-rate-optimiser",
-      "category": "Analytics & Data"
+      "keywords": [
+        "analytics-data",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Celebrity Board of Advisors",
-      "id": "celebrity-board-of-advisors",
+      "name": "celebrity-board-of-advisors",
+      "source": "./skills/brand-thought-leadership/celebrity-board-of-advisors",
+      "description": "Constructs a virtual board of celebrity advisors — iconic thinkers, leaders, and cultural figures — whose distinct perspectives are applied to the user's brand strategy, content positioning, and thought leadership decisions.",
       "version": "1.0.0",
-      "description": "Celebrity Board of Advisors \u2014 coming soon",
-      "location": "skills/brand-thought-leadership/celebrity-board-of-advisors",
-      "category": "Brand & Thought Leadership"
+      "keywords": [
+        "brand-thought-leadership",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Authority Positioning Engine",
-      "id": "authority-positioning-engine",
+      "name": "authority-positioning-engine",
+      "source": "./skills/brand-thought-leadership/authority-positioning-engine",
+      "description": "Builds and refines authority positioning strategies that establish the user as the definitive expert in their domain.",
       "version": "1.0.0",
-      "description": "Authority Positioning Engine \u2014 coming soon",
-      "location": "skills/brand-thought-leadership/authority-positioning-engine",
-      "category": "Brand & Thought Leadership"
+      "keywords": [
+        "brand-thought-leadership",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Flagship Idea Builder",
-      "id": "flagship-idea-builder",
+      "name": "flagship-idea-builder",
+      "source": "./skills/brand-thought-leadership/flagship-idea-builder",
+      "description": "Develops a defensible flagship idea — the single strategic narrative that positions a brand as the category authority.",
       "version": "1.0.0",
-      "description": "Flagship Idea Builder \u2014 coming soon",
-      "location": "skills/brand-thought-leadership/flagship-idea-builder",
-      "category": "Brand & Thought Leadership"
+      "keywords": [
+        "brand-thought-leadership",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Differentiation Deep Dive",
-      "id": "differentiation-deep-dive",
+      "name": "differentiation-deep-dive",
+      "source": "./skills/brand-thought-leadership/differentiation-deep-dive",
+      "description": "Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different.",
       "version": "1.0.0",
-      "description": "Differentiation Deep Dive \u2014 coming soon",
-      "location": "skills/brand-thought-leadership/differentiation-deep-dive",
-      "category": "Brand & Thought Leadership"
+      "keywords": [
+        "brand-thought-leadership",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Referral Moment Generator",
-      "id": "referral-moment-generator",
+      "name": "referral-moment-generator",
+      "source": "./skills/customer-experience-retention-referrals/referral-moment-generator",
+      "description": "Identifies and engineers high-conversion referral moments across the customer lifecycle, producing a sequenced referral trigger playbook with scripted prompts, timing logic, and channel-specific activation plans.",
       "version": "1.0.0",
-      "description": "Referral Moment Generator \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/referral-moment-generator",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Post Sale Delight Engineer",
-      "id": "post-sale-delight-engineer",
+      "name": "post-sale-delight-engineer",
+      "source": "./skills/customer-experience-retention-referrals/post-sale-delight-engineer",
+      "description": "Designs and optimises post-purchase customer delight systems that transform buyers into loyal advocates and active referral sources.",
       "version": "1.0.0",
-      "description": "Post Sale Delight Engineer \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/post-sale-delight-engineer",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Ascension Engine",
-      "id": "ascension-engine",
+      "name": "ascension-engine",
+      "source": "./skills/customer-experience-retention-referrals/ascension-engine",
+      "description": "Designs and optimises customer value ascension pathways — systematically moving buyers from initial purchase through upsell, cross-sell, premium tier adoption, and advocacy/referral stages.",
       "version": "1.0.0",
-      "description": "Ascension Engine \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/ascension-engine",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Referral Personality Profiler",
-      "id": "referral-personality-profiler",
+      "name": "referral-personality-profiler",
+      "source": "./skills/customer-experience-retention-referrals/referral-personality-profiler",
+      "description": "Profiles existing customers and advocates by referral personality type to optimise ask timing, channel, incentive structure, and messaging for maximum referral yield.",
       "version": "1.0.0",
-      "description": "Referral Personality Profiler \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/referral-personality-profiler",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Incentive Reward Designer",
-      "id": "incentive-reward-designer",
+      "name": "incentive-reward-designer",
+      "source": "./skills/customer-experience-retention-referrals/incentive-reward-designer",
+      "description": "Designs high-impact incentive and reward structures for customer retention, referral, and loyalty programmes using FutureProof context.",
       "version": "1.0.0",
-      "description": "Incentive Reward Designer \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/incentive-reward-designer",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Onboarding Email Sequence Writer",
-      "id": "onboarding-email-sequence-writer",
+      "name": "onboarding-email-sequence-writer",
+      "source": "./skills/customer-experience-retention-referrals/onboarding-email-sequence-writer",
+      "description": "Crafts high-conversion onboarding email sequences that activate new users, reduce time-to-value, and prevent early-stage churn using FutureProof context.",
       "version": "1.0.0",
-      "description": "Onboarding Email Sequence Writer \u2014 coming soon",
-      "location": "skills/customer-experience-retention-referrals/onboarding-email-sequence-writer",
-      "category": "Customer Experience, Retention & Referrals"
+      "keywords": [
+        "customer-experience-retention-referrals",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "FAQ Builder",
-      "id": "faq-builder",
+      "name": "faq-builder",
+      "source": "./skills/customer-service-support/faq-builder",
+      "description": "Builds comprehensive, strategically structured FAQ documents from product knowledge, support tickets, and user research using FutureProof context.",
       "version": "1.0.0",
-      "description": "FAQ Builder \u2014 coming soon",
-      "location": "skills/customer-service-support/faq-builder",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Customer Complaint Handler",
-      "id": "customer-complaint-handler",
+      "name": "customer-complaint-handler",
+      "source": "./skills/customer-service-support/customer-complaint-handler",
+      "description": "Analyses, triages, and resolves customer complaints using FutureProof context to deliver structured resolution plans, root cause analyses, and service recovery strategies.",
       "version": "1.0.0",
-      "description": "Customer Complaint Handler \u2014 coming soon",
-      "location": "skills/customer-service-support/customer-complaint-handler",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Review Response Writer",
-      "id": "review-response-writer",
+      "name": "review-response-writer",
+      "source": "./skills/customer-service-support/review-response-writer",
+      "description": "Crafts professional, brand-aligned responses to customer reviews across platforms (Google, Yelp, Trustpilot, G2, App Store, Amazon, etc.) using FutureProof context to maintain voice consistency, address sentiment patterns, and turn reviews into reten",
       "version": "1.0.0",
-      "description": "Review Response Writer \u2014 coming soon",
-      "location": "skills/customer-service-support/review-response-writer",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Churn Risk Detector",
-      "id": "churn-risk-detector",
+      "name": "churn-risk-detector",
+      "source": "./skills/customer-service-support/churn-risk-detector",
+      "description": "Analyses customer data, behavioural signals, and account health indicators to identify at-risk accounts and produce actionable retention interventions.",
       "version": "1.0.0",
-      "description": "Churn Risk Detector \u2014 coming soon",
-      "location": "skills/customer-service-support/churn-risk-detector",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Re-Engagement Campaign Builder",
-      "id": "re-engagement-campaign-builder",
+      "name": "re-engagement-campaign-builder",
+      "source": "./skills/customer-service-support/re-engagement-campaign-builder",
+      "description": "Builds structured, multi-channel re-engagement campaigns to win back lapsed customers, dormant subscribers, and churned accounts using FutureProof context.",
       "version": "1.0.0",
-      "description": "Re-Engagement Campaign Builder \u2014 coming soon",
-      "location": "skills/customer-service-support/re-engagement-campaign-builder",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Customer Survey Designer",
-      "id": "customer-survey-designer",
+      "name": "customer-survey-designer",
+      "source": "./skills/customer-service-support/customer-survey-designer",
+      "description": "Designs high-performance customer surveys that generate actionable insights, using FutureProof context to align question design with known ICA segments, business objectives, and prior feedback data.",
       "version": "1.0.0",
-      "description": "Customer Survey Designer \u2014 coming soon",
-      "location": "skills/customer-service-support/customer-survey-designer",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "NPS Analyser",
-      "id": "nps-analyser",
+      "name": "nps-analyser",
+      "source": "./skills/customer-service-support/nps-analyser",
+      "description": "Analyses Net Promoter Score data, verbatim responses, and trend patterns to surface actionable drivers of loyalty and churn risk using FutureProof context.",
       "version": "1.0.0",
-      "description": "NPS Analyser \u2014 coming soon",
-      "location": "skills/customer-service-support/nps-analyser",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Chatbot Script Writer",
-      "id": "chatbot-script-writer",
+      "name": "chatbot-script-writer",
+      "source": "./skills/customer-service-support/chatbot-script-writer",
+      "description": "Writes, structures, and optimises chatbot conversation scripts for customer service and support channels using FutureProof context.",
       "version": "1.0.0",
-      "description": "Chatbot Script Writer \u2014 coming soon",
-      "location": "skills/customer-service-support/chatbot-script-writer",
-      "category": "Customer Service & Support"
+      "keywords": [
+        "customer-service-support",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "SOP Builder",
-      "id": "sop-builder",
+      "name": "sop-builder",
+      "source": "./skills/operations-scale/sop-builder",
+      "description": "Builds comprehensive, audit-ready Standard Operating Procedures from raw process knowledge, tribal expertise, or existing informal documentation.",
       "version": "1.0.0",
-      "description": "SOP Builder \u2014 coming soon",
-      "location": "skills/operations-scale/sop-builder",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Meeting Prep Engine",
-      "id": "meeting-prep-engine",
+      "name": "meeting-prep-engine",
+      "source": "./skills/operations-scale/meeting-prep-engine",
+      "description": "Prepares comprehensive, context-rich meeting briefing packs that maximise outcome probability across sales calls, client reviews, board presentations, and strategic negotiations.",
       "version": "1.0.0",
-      "description": "Meeting Prep Engine \u2014 coming soon",
-      "location": "skills/operations-scale/meeting-prep-engine",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Proposal Writer",
-      "id": "proposal-writer",
+      "name": "proposal-writer",
+      "source": "./skills/operations-scale/proposal-writer",
+      "description": "Crafts high-conversion business proposals using FutureProof context, ICA intelligence, and proven persuasion architecture.",
       "version": "1.0.0",
-      "description": "Proposal Writer \u2014 coming soon",
-      "location": "skills/operations-scale/proposal-writer",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Client Onboarding Designer",
-      "id": "client-onboarding-designer",
+      "name": "client-onboarding-designer",
+      "source": "./skills/operations-scale/client-onboarding-designer",
+      "description": "Designs comprehensive client onboarding systems that reduce time-to-value, increase activation rates, and eliminate early-stage churn using FutureProof context.",
       "version": "1.0.0",
-      "description": "Client Onboarding Designer \u2014 coming soon",
-      "location": "skills/operations-scale/client-onboarding-designer",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Training Content Creator",
-      "id": "training-content-creator",
+      "name": "training-content-creator",
+      "source": "./skills/operations-scale/training-content-creator",
+      "description": "Creates comprehensive training content — onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes — using FutureProof context to align with organisational voice, ICA needs, and team capability gaps.",
       "version": "1.0.0",
-      "description": "Training Content Creator \u2014 coming soon",
-      "location": "skills/operations-scale/training-content-creator",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Weekly CEO Briefing",
-      "id": "weekly-ceo-briefing",
+      "name": "weekly-ceo-briefing",
+      "source": "./skills/operations-scale/weekly-ceo-briefing",
+      "description": "Synthesises cross-functional business data into a concise, decision-ready weekly briefing for the CEO.",
       "version": "1.0.0",
-      "description": "Weekly CEO Briefing \u2014 coming soon",
-      "location": "skills/operations-scale/weekly-ceo-briefing",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Project Brief Generator",
-      "id": "project-brief-generator",
+      "name": "project-brief-generator",
+      "source": "./skills/operations-scale/project-brief-generator",
+      "description": "Generates comprehensive, stakeholder-ready project briefs using FutureProof context, organisational history, and consulting-grade frameworks.",
       "version": "1.0.0",
-      "description": "Project Brief Generator \u2014 coming soon",
-      "location": "skills/operations-scale/project-brief-generator",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Meeting Notes Summariser",
-      "id": "meeting-notes-summariser",
+      "name": "meeting-notes-summariser",
+      "source": "./skills/operations-scale/meeting-notes-summariser",
+      "description": "Transforms raw meeting notes, transcripts, and recordings into structured, actionable summaries with clear ownership, deadlines, and strategic context.",
       "version": "1.0.0",
-      "description": "Meeting Notes Summariser \u2014 coming soon",
-      "location": "skills/operations-scale/meeting-notes-summariser",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Vendor Supplier Evaluator",
-      "id": "vendor-supplier-evaluator",
+      "name": "vendor-supplier-evaluator",
+      "source": "./skills/operations-scale/vendor-supplier-evaluator",
+      "description": "Evaluates and scores vendors and suppliers using a weighted multi-criteria framework informed by FutureProof context.",
       "version": "1.0.0",
-      "description": "Vendor Supplier Evaluator \u2014 coming soon",
-      "location": "skills/operations-scale/vendor-supplier-evaluator",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Process Improvement Analyser",
-      "id": "process-improvement-analyser",
+      "name": "process-improvement-analyser",
+      "source": "./skills/operations-scale/process-improvement-analyser",
+      "description": "Analyses business processes for inefficiencies, bottlenecks, and waste using structured improvement methodologies (Lean Six Sigma, TOC, BPR) enriched by FutureProof context.",
       "version": "1.0.0",
-      "description": "Process Improvement Analyser \u2014 coming soon",
-      "location": "skills/operations-scale/process-improvement-analyser",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Risk Register Builder",
-      "id": "risk-register-builder",
+      "name": "risk-register-builder",
+      "source": "./skills/operations-scale/risk-register-builder",
+      "description": "Builds and maintains comprehensive risk registers for projects, programmes, and operational domains using FutureProof context to refine risk identification, scoring, and mitigation planning over time.",
       "version": "1.0.0",
-      "description": "Risk Register Builder \u2014 coming soon",
-      "location": "skills/operations-scale/risk-register-builder",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Compliance Checker",
-      "id": "compliance-checker",
+      "name": "compliance-checker",
+      "source": "./skills/operations-scale/compliance-checker",
+      "description": "Audits business operations, processes, and documentation against applicable regulatory frameworks, internal policies, and industry standards using FutureProof context to maintain institutional knowledge of the user's compliance posture over time.",
       "version": "1.0.0",
-      "description": "Compliance Checker \u2014 coming soon",
-      "location": "skills/operations-scale/compliance-checker",
-      "category": "Operations & Scale"
+      "keywords": [
+        "operations-scale",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Cash Flow Modeller",
-      "id": "cash-flow-modeller",
+      "name": "cash-flow-modeller",
+      "source": "./skills/revenue-financial/cash-flow-modeller",
+      "description": "Builds detailed cash flow models and forecasts using FutureProof context, historical financial data, and scenario analysis.",
       "version": "1.0.0",
-      "description": "Cash Flow Modeller \u2014 coming soon",
-      "location": "skills/revenue-financial/cash-flow-modeller",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Upsell Ascension Mapper",
-      "id": "upsell-ascension-mapper",
+      "name": "upsell-ascension-mapper",
+      "source": "./skills/revenue-financial/upsell-ascension-mapper",
+      "description": "Maps and optimises the full upsell and ascension pathway across a product or service portfolio, identifying revenue gaps, pricing leverage points, and high-conversion upgrade triggers.",
       "version": "1.0.0",
-      "description": "Upsell Ascension Mapper \u2014 coming soon",
-      "location": "skills/revenue-financial/upsell-ascension-mapper",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Expense Request",
-      "id": "expense-request",
+      "name": "expense-request",
+      "source": "./skills/revenue-financial/expense-request",
+      "description": "Guides the preparation, review, and submission of corporate expense requests with full policy compliance, proper approvals, and audit-ready documentation.",
       "version": "1.0.0",
-      "description": "Expense Request \u2014 coming soon",
-      "location": "skills/revenue-financial/expense-request",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Invoice Generator",
-      "id": "invoice-generator",
+      "name": "invoice-generator",
+      "source": "./skills/revenue-financial/invoice-generator",
+      "description": "Generates professional, detailed invoices using FutureProof context to ensure consistency with brand, pricing, payment terms, and client-specific agreements.",
       "version": "1.0.0",
-      "description": "Invoice Generator \u2014 coming soon",
-      "location": "skills/revenue-financial/invoice-generator",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Cash Collection Chaser",
-      "id": "cash-collection-chaser",
+      "name": "cash-collection-chaser",
+      "source": "./skills/revenue-financial/cash-collection-chaser",
+      "description": "Generates and manages structured cash collection chase sequences to accelerate receivables recovery and reduce DSO.",
       "version": "1.0.0",
-      "description": "Cash Collection Chaser \u2014 coming soon",
-      "location": "skills/revenue-financial/cash-collection-chaser",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Budget Planner",
-      "id": "budget-planner",
+      "name": "budget-planner",
+      "source": "./skills/revenue-financial/budget-planner",
+      "description": "Creates comprehensive, forward-looking budget plans using FutureProof context, historical financial data, and strategic business objectives.",
       "version": "1.0.0",
-      "description": "Budget Planner \u2014 coming soon",
-      "location": "skills/revenue-financial/budget-planner",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "PL Analyser",
-      "id": "pl-analyser",
+      "name": "pl-analyser",
+      "source": "./skills/revenue-financial/pl-analyser",
+      "description": "Analyses profit and loss statements to surface margin risks, revenue concentration issues, and operational cost inefficiencies using FutureProof context.",
       "version": "1.0.0",
-      "description": "PL Analyser \u2014 coming soon",
-      "location": "skills/revenue-financial/pl-analyser",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Financial Report Writer",
-      "id": "financial-report-writer",
+      "name": "financial-report-writer",
+      "source": "./skills/revenue-financial/financial-report-writer",
+      "description": "Generates comprehensive financial reports — investor updates, board packages, quarterly reviews, and management accounts — using FutureProof context to maintain consistency in formatting, KPI selection, and narrative tone across reporting periods.",
       "version": "1.0.0",
-      "description": "Financial Report Writer \u2014 coming soon",
-      "location": "skills/revenue-financial/financial-report-writer",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Tax Prep Organiser",
-      "id": "tax-prep-organiser",
+      "name": "tax-prep-organiser",
+      "source": "./skills/revenue-financial/tax-prep-organiser",
+      "description": "Organises and structures tax preparation workflows using FutureProof context to ensure comprehensive document collection, deduction optimisation, and filing readiness.",
       "version": "1.0.0",
-      "description": "Tax Prep Organiser \u2014 coming soon",
-      "location": "skills/revenue-financial/tax-prep-organiser",
-      "category": "Revenue & Financial"
+      "keywords": [
+        "revenue-financial",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Crisis Comms Responder",
-      "id": "crisis-comms-responder",
+      "name": "crisis-comms-responder",
+      "source": "./skills/communications-pr/crisis-comms-responder",
+      "description": "Guides organisations through crisis communications with structured rapid-response frameworks, stakeholder messaging, and reputation management protocols using FutureProof context.",
       "version": "1.0.0",
-      "description": "Crisis Comms Responder \u2014 coming soon",
-      "location": "skills/communications-pr/crisis-comms-responder",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Webinar Event Scriptwriter",
-      "id": "webinar-event-scriptwriter",
+      "name": "webinar-event-scriptwriter",
+      "source": "./skills/communications-pr/webinar-event-scriptwriter",
+      "description": "Crafts high-conversion webinar and virtual event scripts using FutureProof context, audience intelligence, and proven engagement frameworks.",
       "version": "1.0.0",
-      "description": "Webinar Event Scriptwriter \u2014 coming soon",
-      "location": "skills/communications-pr/webinar-event-scriptwriter",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Press Release Writer",
-      "id": "press-release-writer",
+      "name": "press-release-writer",
+      "source": "./skills/communications-pr/press-release-writer",
+      "description": "Crafts compelling, publication-ready press releases using FutureProof context to align messaging with brand voice, ICA expectations, and media outlet requirements.",
       "version": "1.0.0",
-      "description": "Press Release Writer \u2014 coming soon",
-      "location": "skills/communications-pr/press-release-writer",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Internal Memo Writer",
-      "id": "internal-memo-writer",
+      "name": "internal-memo-writer",
+      "source": "./skills/communications-pr/internal-memo-writer",
+      "description": "Drafts, structures, and refines internal memos using FutureProof context for tone, audience, and organisational norms.",
       "version": "1.0.0",
-      "description": "Internal Memo Writer \u2014 coming soon",
-      "location": "skills/communications-pr/internal-memo-writer",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Company Newsletter Writer",
-      "id": "company-newsletter-writer",
+      "name": "company-newsletter-writer",
+      "source": "./skills/communications-pr/company-newsletter-writer",
+      "description": "Crafts high-impact internal and external company newsletters using FutureProof context, brand voice, and audience intelligence.",
       "version": "1.0.0",
-      "description": "Company Newsletter Writer \u2014 coming soon",
-      "location": "skills/communications-pr/company-newsletter-writer",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Podcast Show Notes Writer",
-      "id": "podcast-show-notes-writer",
+      "name": "podcast-show-notes-writer",
+      "source": "./skills/communications-pr/podcast-show-notes-writer",
+      "description": "Crafts comprehensive, SEO-optimised podcast show notes that drive discoverability, listener engagement, and conversion using FutureProof context.",
       "version": "1.0.0",
-      "description": "Podcast Show Notes Writer \u2014 coming soon",
-      "location": "skills/communications-pr/podcast-show-notes-writer",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Video Script Writer",
-      "id": "video-script-writer",
+      "name": "video-script-writer",
+      "source": "./skills/communications-pr/video-script-writer",
+      "description": "Writes, structures, and refines video scripts using FutureProof context to align messaging with audience psychology, brand voice, and platform-specific best practices.",
       "version": "1.0.0",
-      "description": "Video Script Writer \u2014 coming soon",
-      "location": "skills/communications-pr/video-script-writer",
-      "category": "Communications & PR"
+      "keywords": [
+        "communications-pr",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Job Ad Writer",
-      "id": "job-ad-writer",
+      "name": "job-ad-writer",
+      "source": "./skills/hr-people/job-ad-writer",
+      "description": "Crafts high-converting job advertisements using FutureProof context, employer brand intelligence, and evidence-based copywriting frameworks.",
       "version": "1.0.0",
-      "description": "Job Ad Writer \u2014 coming soon",
-      "location": "skills/hr-people/job-ad-writer",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Job Spec Writer",
-      "id": "job-spec-writer",
+      "name": "job-spec-writer",
+      "source": "./skills/hr-people/job-spec-writer",
+      "description": "Crafts high-performance job specifications that attract qualified candidates aligned with the organisation's culture, compensation philosophy, and strategic workforce plan.",
       "version": "1.0.0",
-      "description": "Job Spec Writer \u2014 coming soon",
-      "location": "skills/hr-people/job-spec-writer",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Quarterly Review Generator",
-      "id": "quarterly-review-generator",
+      "name": "quarterly-review-generator",
+      "source": "./skills/hr-people/quarterly-review-generator",
+      "description": "Generates comprehensive quarterly performance reviews using FutureProof context, employee data, and organisational competency frameworks.",
       "version": "1.0.0",
-      "description": "Quarterly Review Generator \u2014 coming soon",
-      "location": "skills/hr-people/quarterly-review-generator",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Time Off Request",
-      "id": "time-off-request",
+      "name": "time-off-request",
+      "source": "./skills/hr-people/time-off-request",
+      "description": "Guides employees and managers through the complete time-off request lifecycle — drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation.",
       "version": "1.0.0",
-      "description": "Time Off Request \u2014 coming soon",
-      "location": "skills/hr-people/time-off-request",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Performance Review Writer",
-      "id": "performance-review-writer",
+      "name": "performance-review-writer",
+      "source": "./skills/hr-people/performance-review-writer",
+      "description": "Crafts comprehensive, calibrated performance reviews using FutureProof context to maintain consistency in tone, evaluation standards, and organisational language across review cycles.",
       "version": "1.0.0",
-      "description": "Performance Review Writer \u2014 coming soon",
-      "location": "skills/hr-people/performance-review-writer",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Interview Question Generator",
-      "id": "interview-question-generator",
+      "name": "interview-question-generator",
+      "source": "./skills/hr-people/interview-question-generator",
+      "description": "Generates structured, role-specific interview question sets using FutureProof context to align with company culture, competency frameworks, and hiring objectives.",
       "version": "1.0.0",
-      "description": "Interview Question Generator \u2014 coming soon",
-      "location": "skills/hr-people/interview-question-generator",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Candidate Screening Scorer",
-      "id": "candidate-screening-scorer",
+      "name": "candidate-screening-scorer",
+      "source": "./skills/hr-people/candidate-screening-scorer",
+      "description": "Screens and scores job candidates against role-specific criteria using structured evaluation methodology and FutureProof context.",
       "version": "1.0.0",
-      "description": "Candidate Screening Scorer \u2014 coming soon",
-      "location": "skills/hr-people/candidate-screening-scorer",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Employee Handbook Builder",
-      "id": "employee-handbook-builder",
+      "name": "employee-handbook-builder",
+      "source": "./skills/hr-people/employee-handbook-builder",
+      "description": "Builds comprehensive, legally-informed employee handbooks tailored to company size, jurisdiction, culture, and operational model using FutureProof context.",
       "version": "1.0.0",
-      "description": "Employee Handbook Builder \u2014 coming soon",
-      "location": "skills/hr-people/employee-handbook-builder",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Exit Interview Analyser",
-      "id": "exit-interview-analyser",
+      "name": "exit-interview-analyser",
+      "source": "./skills/hr-people/exit-interview-analyser",
+      "description": "Analyses exit interview data to surface retention-critical insights, systemic attrition drivers, and actionable talent strategy recommendations using FutureProof context.",
       "version": "1.0.0",
-      "description": "Exit Interview Analyser \u2014 coming soon",
-      "location": "skills/hr-people/exit-interview-analyser",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Company Culture Doc Builder",
-      "id": "company-culture-doc-builder",
+      "name": "company-culture-doc-builder",
+      "source": "./skills/hr-people/company-culture-doc-builder",
+      "description": "Builds comprehensive, living company culture documents using FutureProof context to align values, behaviours, and rituals with organisational strategy.",
       "version": "1.0.0",
-      "description": "Company Culture Doc Builder \u2014 coming soon",
-      "location": "skills/hr-people/company-culture-doc-builder",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "DISC Strengths Interpreter",
-      "id": "disc-strengths-interpreter",
+      "name": "disc-strengths-interpreter",
+      "source": "./skills/hr-people/disc-strengths-interpreter",
+      "description": "Interprets DISC assessment results to produce actionable behavioural intelligence profiles for individuals and teams.",
       "version": "1.0.0",
-      "description": "DISC Strengths Interpreter \u2014 coming soon",
-      "location": "skills/hr-people/disc-strengths-interpreter",
-      "category": "HR & People"
+      "keywords": [
+        "hr-people",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Personal Strategic Advisor",
-      "id": "personal-strategic-advisor",
+      "name": "personal-strategic-advisor",
+      "source": "./skills/founder-decision-support-strategy/personal-strategic-advisor",
+      "description": "Serves as a seasoned strategic advisor for founders navigating high-stakes decisions — investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation trade-offs.",
       "version": "1.0.0",
-      "description": "Personal Strategic Advisor \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/personal-strategic-advisor",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Whats Next Roadmap Navigator",
-      "id": "whats-next-roadmap-navigator",
+      "name": "whats-next-roadmap-navigator",
+      "source": "./skills/founder-decision-support-strategy/whats-next-roadmap-navigator",
+      "description": "Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers — producing a sequenced, defensible action plan grounded in business context, resource constraints, and ICA impact.",
       "version": "1.0.0",
-      "description": "Whats Next Roadmap Navigator \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/whats-next-roadmap-navigator",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Pivot or Persist",
-      "id": "pivot-or-persist",
+      "name": "pivot-or-persist",
+      "source": "./skills/founder-decision-support-strategy/pivot-or-persist",
+      "description": "Guides founders through high-stakes strategic inflection points using structured decision frameworks, evidence synthesis, and scenario modelling.",
       "version": "1.0.0",
-      "description": "Pivot or Persist \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/pivot-or-persist",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "5 Year Decision Filter",
-      "id": "5-year-decision-filter",
+      "name": "5-year-decision-filter",
+      "source": "./skills/founder-decision-support-strategy/5-year-decision-filter",
+      "description": "Evaluates critical founder decisions through a rigorous 5-year consequence lens, stress-testing strategic choices against long-term business trajectory, opportunity cost, and irreversibility.",
       "version": "1.0.0",
-      "description": "5 Year Decision Filter \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/5-year-decision-filter",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Pre Mortem Strategist",
-      "id": "pre-mortem-strategist",
+      "name": "pre-mortem-strategist",
+      "source": "./skills/founder-decision-support-strategy/pre-mortem-strategist",
+      "description": "Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches — identifying failure modes, hidden dependencies, and mitigation strategies before commitment.",
       "version": "1.0.0",
-      "description": "Pre Mortem Strategist \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/pre-mortem-strategist",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Team Dynamics Advisor",
-      "id": "team-dynamics-advisor",
+      "name": "team-dynamics-advisor",
+      "source": "./skills/founder-decision-support-strategy/team-dynamics-advisor",
+      "description": "Diagnoses team dysfunction, maps interpersonal dynamics, and delivers actionable interventions to improve founder-team alignment, role clarity, and collaborative performance.",
       "version": "1.0.0",
-      "description": "Team Dynamics Advisor \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/team-dynamics-advisor",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Partnership Evaluator",
-      "id": "partnership-evaluator",
+      "name": "partnership-evaluator",
+      "source": "./skills/founder-decision-support-strategy/partnership-evaluator",
+      "description": "Evaluates potential business partnerships, strategic alliances, and joint ventures using a structured due-diligence framework grounded in strategic fit, financial impact, risk exposure, and cultural compatibility.",
       "version": "1.0.0",
-      "description": "Partnership Evaluator \u2014 coming soon",
-      "location": "skills/founder-decision-support-strategy/partnership-evaluator",
-      "category": "Founder Decision Support & Strategy"
+      "keywords": [
+        "founder-decision-support-strategy",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Testimonial Requester",
-      "id": "testimonial-requester",
+      "name": "testimonial-requester",
+      "source": "./skills/testimonials-social-proof/testimonial-requester",
+      "description": "Crafts strategic testimonial request sequences that maximise response rates and extract high-impact social proof from clients and customers.",
       "version": "1.0.0",
-      "description": "Testimonial Requester \u2014 coming soon",
-      "location": "skills/testimonials-social-proof/testimonial-requester",
-      "category": "Testimonials & Social Proof"
+      "keywords": [
+        "testimonials-social-proof",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Testimonial Manager",
-      "id": "testimonial-manager",
+      "name": "testimonial-manager",
+      "source": "./skills/testimonials-social-proof/testimonial-manager",
+      "description": "Collects, structures, optimises, and strategically deploys customer testimonials and social proof assets using FutureProof context.",
       "version": "1.0.0",
-      "description": "Testimonial Manager \u2014 coming soon",
-      "location": "skills/testimonials-social-proof/testimonial-manager",
-      "category": "Testimonials & Social Proof"
+      "keywords": [
+        "testimonials-social-proof",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Case Study Builder",
-      "id": "case-study-builder",
+      "name": "case-study-builder",
+      "source": "./skills/testimonials-social-proof/case-study-builder",
+      "description": "Builds high-conversion case studies from raw client data, interviews, and results using FutureProof context.",
       "version": "1.0.0",
-      "description": "Case Study Builder \u2014 coming soon",
-      "location": "skills/testimonials-social-proof/case-study-builder",
-      "category": "Testimonials & Social Proof"
+      "keywords": [
+        "testimonials-social-proof",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Swipe File Curator",
-      "id": "swipe-file-curator",
+      "name": "swipe-file-curator",
+      "source": "./skills/testimonials-social-proof/swipe-file-curator",
+      "description": "Curates, categorises, and optimises swipe files of high-performing testimonials, social proof assets, and persuasion examples for deployment across marketing and sales touchpoints.",
       "version": "1.0.0",
-      "description": "Swipe File Curator \u2014 coming soon",
-      "location": "skills/testimonials-social-proof/swipe-file-curator",
-      "category": "Testimonials & Social Proof"
+      "keywords": [
+        "testimonials-social-proof",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Terms Conditions Drafter",
-      "id": "terms-conditions-drafter",
+      "name": "terms-conditions-drafter",
+      "source": "./skills/legal-contracts/terms-conditions-drafter",
+      "description": "Drafts, reviews, and refines Terms & Conditions documents using FutureProof context to align with the user's business model, jurisdiction, risk profile, and ICA expectations.",
       "version": "1.0.0",
-      "description": "Terms Conditions Drafter \u2014 coming soon",
-      "location": "skills/legal-contracts/terms-conditions-drafter",
-      "category": "Legal & Contracts"
+      "keywords": [
+        "legal-contracts",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Privacy Policy Generator",
-      "id": "privacy-policy-generator",
+      "name": "privacy-policy-generator",
+      "source": "./skills/legal-contracts/privacy-policy-generator",
+      "description": "Generates comprehensive, jurisdiction-aware privacy policies tailored to the user's business model, data practices, and regulatory requirements using FutureProof context.",
       "version": "1.0.0",
-      "description": "Privacy Policy Generator \u2014 coming soon",
-      "location": "skills/legal-contracts/privacy-policy-generator",
-      "category": "Legal & Contracts"
+      "keywords": [
+        "legal-contracts",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "NDA Generator",
-      "id": "nda-generator",
+      "name": "nda-generator",
+      "source": "./skills/legal-contracts/nda-generator",
+      "description": "Generates tailored Non-Disclosure Agreements using FutureProof context, party details, and jurisdiction-specific requirements.",
       "version": "1.0.0",
-      "description": "NDA Generator \u2014 coming soon",
-      "location": "skills/legal-contracts/nda-generator",
-      "category": "Legal & Contracts"
+      "keywords": [
+        "legal-contracts",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Contract Review Assistant",
-      "id": "contract-review-assistant",
+      "name": "contract-review-assistant",
+      "source": "./skills/legal-contracts/contract-review-assistant",
+      "description": "Reviews, analyses, and risk-scores commercial contracts using FutureProof context to accumulate organisational risk tolerances, clause preferences, and negotiation history.",
       "version": "1.0.0",
-      "description": "Contract Review Assistant \u2014 coming soon",
-      "location": "skills/legal-contracts/contract-review-assistant",
-      "category": "Legal & Contracts"
+      "keywords": [
+        "legal-contracts",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Feature Request Prioritiser",
-      "id": "feature-request-prioritiser",
+      "name": "feature-request-prioritiser",
+      "source": "./skills/product-innovation/feature-request-prioritiser",
+      "description": "Prioritises and scores inbound feature requests against strategic product goals, ICA value drivers, and resource constraints using a weighted multi-criteria framework.",
       "version": "1.0.0",
-      "description": "Feature Request Prioritiser \u2014 coming soon",
-      "location": "skills/product-innovation/feature-request-prioritiser",
-      "category": "Product & Innovation"
+      "keywords": [
+        "product-innovation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Product Roadmap Builder",
-      "id": "product-roadmap-builder",
+      "name": "product-roadmap-builder",
+      "source": "./skills/product-innovation/product-roadmap-builder",
+      "description": "Builds strategic, prioritised product roadmaps using FutureProof context, market intelligence, and user research signals.",
       "version": "1.0.0",
-      "description": "Product Roadmap Builder \u2014 coming soon",
-      "location": "skills/product-innovation/product-roadmap-builder",
-      "category": "Product & Innovation"
+      "keywords": [
+        "product-innovation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Competitive Feature Comparison",
-      "id": "competitive-feature-comparison",
+      "name": "competitive-feature-comparison",
+      "source": "./skills/product-innovation/competitive-feature-comparison",
+      "description": "Conducts rigorous competitive feature comparisons that map competitor capabilities against user product strengths, ICA priorities, and market positioning opportunities.",
       "version": "1.0.0",
-      "description": "Competitive Feature Comparison \u2014 coming soon",
-      "location": "skills/product-innovation/competitive-feature-comparison",
-      "category": "Product & Innovation"
+      "keywords": [
+        "product-innovation",
+        "futureproof",
+        "business"
+      ]
     },
     {
-      "name": "Beta Testing Plan Creator",
-      "id": "beta-testing-plan-creator",
+      "name": "beta-testing-plan-creator",
+      "source": "./skills/product-innovation/beta-testing-plan-creator",
+      "description": "Creates comprehensive beta testing plans that maximise signal quality, user engagement, and product-market fit validation using FutureProof context.",
       "version": "1.0.0",
-      "description": "Beta Testing Plan Creator \u2014 coming soon",
-      "location": "skills/product-innovation/beta-testing-plan-creator",
-      "category": "Product & Innovation"
+      "keywords": [
+        "product-innovation",
+        "futureproof",
+        "business"
+      ]
     }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "revenue-attribution-modeller",
+  "version": "1.0.0",
+  "description": "Builds multi-touch revenue attribution models that map marketing and sales activities to closed revenue with statistical rigour.",
+  "skills": ".",
+  "keywords": [
+    "analytics-data",
+    "futureproof"
+  ]
+}
