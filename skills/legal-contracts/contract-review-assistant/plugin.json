@@ -2,9 +2,5 @@
   "name": "contract-review-assistant",
   "version": "1.0.0",
   "description": "Reviews, analyses, and risk-scores commercial contracts using FutureProof context to accumulate organisational risk tolerances, clause preferences, and negotiation history.",
-  "skills": ".",
-  "keywords": [
-    "legal-contracts",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

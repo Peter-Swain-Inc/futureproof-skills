@@ -2,9 +2,5 @@
   "name": "pl-analyser",
   "version": "1.0.0",
   "description": "Analyses profit and loss statements to surface margin risks, revenue concentration issues, and operational cost inefficiencies using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "revenue-financial",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

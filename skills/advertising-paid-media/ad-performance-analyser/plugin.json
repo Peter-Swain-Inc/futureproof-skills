@@ -2,9 +2,5 @@
   "name": "ad-performance-analyser",
   "version": "1.0.0",
   "description": "Analyses paid media campaign performance across platforms and delivers actionable optimisation recommendations using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "advertising-paid-media",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

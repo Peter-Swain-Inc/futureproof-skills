@@ -2,9 +2,5 @@
   "name": "lightning-launch",
   "version": "1.0.0",
   "description": "Guides users through a rapid, high-conviction offer launch sequence — from positioning through to launch-day execution — in a single structured session.",
-  "skills": ".",
-  "keywords": [
-    "offer-positioning-optimisation",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

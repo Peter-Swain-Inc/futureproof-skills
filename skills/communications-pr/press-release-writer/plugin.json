@@ -2,9 +2,5 @@
   "name": "press-release-writer",
   "version": "1.0.0",
   "description": "Crafts compelling, publication-ready press releases using FutureProof context to align messaging with brand voice, ICA expectations, and media outlet requirements.",
-  "skills": ".",
-  "keywords": [
-    "communications-pr",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

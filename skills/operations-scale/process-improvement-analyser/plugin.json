@@ -2,9 +2,5 @@
   "name": "process-improvement-analyser",
   "version": "1.0.0",
   "description": "Analyses business processes for inefficiencies, bottlenecks, and waste using structured improvement methodologies (Lean Six Sigma, TOC, BPR) enriched by FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "operations-scale",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

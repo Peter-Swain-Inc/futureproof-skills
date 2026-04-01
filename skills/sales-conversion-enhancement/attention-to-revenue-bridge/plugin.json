@@ -2,9 +2,5 @@
   "name": "attention-to-revenue-bridge",
   "version": "1.0.0",
   "description": "Maps the complete journey from initial audience attention capture through to closed revenue, identifying leakage points, conversion friction, and monetisation gaps across every stage of the engagement-to-purchase pipeline.",
-  "skills": ".",
-  "keywords": [
-    "sales-conversion-enhancement",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

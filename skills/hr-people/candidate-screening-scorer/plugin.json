@@ -2,9 +2,5 @@
   "name": "candidate-screening-scorer",
   "version": "1.0.0",
   "description": "Screens and scores job candidates against role-specific criteria using structured evaluation methodology and FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "hr-people",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

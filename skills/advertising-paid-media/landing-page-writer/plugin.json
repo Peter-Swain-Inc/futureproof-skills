@@ -2,9 +2,5 @@
   "name": "landing-page-writer",
   "version": "1.0.0",
   "description": "Writes high-converting landing pages using FutureProof context, ICA research, and proven direct-response frameworks.",
-  "skills": ".",
-  "keywords": [
-    "advertising-paid-media",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

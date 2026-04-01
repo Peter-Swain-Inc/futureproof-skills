@@ -2,9 +2,5 @@
   "name": "video-script-writer",
   "version": "1.0.0",
   "description": "Writes, structures, and refines video scripts using FutureProof context to align messaging with audience psychology, brand voice, and platform-specific best practices.",
-  "skills": ".",
-  "keywords": [
-    "communications-pr",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

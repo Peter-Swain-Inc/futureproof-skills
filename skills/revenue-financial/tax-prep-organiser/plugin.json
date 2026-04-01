@@ -2,9 +2,5 @@
   "name": "tax-prep-organiser",
   "version": "1.0.0",
   "description": "Organises and structures tax preparation workflows using FutureProof context to ensure comprehensive document collection, deduction optimisation, and filing readiness.",
-  "skills": ".",
-  "keywords": [
-    "revenue-financial",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

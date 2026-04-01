@@ -2,9 +2,5 @@
   "name": "expense-request",
   "version": "1.0.0",
   "description": "Guides the preparation, review, and submission of corporate expense requests with full policy compliance, proper approvals, and audit-ready documentation.",
-  "skills": ".",
-  "keywords": [
-    "revenue-financial",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

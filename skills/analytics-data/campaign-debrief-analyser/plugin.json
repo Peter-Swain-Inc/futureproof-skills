@@ -2,9 +2,5 @@
   "name": "campaign-debrief-analyser",
   "version": "1.0.0",
   "description": "Analyses completed marketing campaigns to extract actionable insights, diagnose performance drivers, and produce structured debrief documentation suitable for stakeholder review.",
-  "skills": ".",
-  "keywords": [
-    "analytics-data",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

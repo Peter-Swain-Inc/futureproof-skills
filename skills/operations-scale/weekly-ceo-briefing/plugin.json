@@ -2,9 +2,5 @@
   "name": "weekly-ceo-briefing",
   "version": "1.0.0",
   "description": "Synthesises cross-functional business data into a concise, decision-ready weekly briefing for the CEO.",
-  "skills": ".",
-  "keywords": [
-    "operations-scale",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

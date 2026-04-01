@@ -2,9 +2,5 @@
   "name": "case-study-builder",
   "version": "1.0.0",
   "description": "Builds high-conversion case studies from raw client data, interviews, and results using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "testimonials-social-proof",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

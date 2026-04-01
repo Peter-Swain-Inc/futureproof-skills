@@ -2,9 +2,5 @@
   "name": "ad-budget-allocator",
   "version": "1.0.0",
   "description": "Allocates and optimises advertising budgets across channels, campaigns, and audience segments using FutureProof context, historical performance data, and marginal return analysis.",
-  "skills": ".",
-  "keywords": [
-    "advertising-paid-media",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

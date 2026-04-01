@@ -2,9 +2,5 @@
   "name": "event-roi-forecaster",
   "version": "1.0.0",
   "description": "Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attribution, and FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "sales-conversion-enhancement",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

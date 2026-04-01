@@ -2,9 +2,5 @@
   "name": "time-off-request",
   "version": "1.0.0",
   "description": "Guides employees and managers through the complete time-off request lifecycle — drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation.",
-  "skills": ".",
-  "keywords": [
-    "hr-people",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

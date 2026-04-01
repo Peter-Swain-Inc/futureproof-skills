@@ -2,9 +2,5 @@
   "name": "referral-personality-profiler",
   "version": "1.0.0",
   "description": "Profiles existing customers and advocates by referral personality type to optimise ask timing, channel, incentive structure, and messaging for maximum referral yield.",
-  "skills": ".",
-  "keywords": [
-    "customer-experience-retention-referrals",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

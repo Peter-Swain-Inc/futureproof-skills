@@ -2,9 +2,5 @@
   "name": "testimonial-requester",
   "version": "1.0.0",
   "description": "Crafts strategic testimonial request sequences that maximise response rates and extract high-impact social proof from clients and customers.",
-  "skills": ".",
-  "keywords": [
-    "testimonials-social-proof",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

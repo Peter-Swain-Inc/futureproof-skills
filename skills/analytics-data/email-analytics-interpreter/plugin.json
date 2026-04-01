@@ -2,9 +2,5 @@
   "name": "email-analytics-interpreter",
   "version": "1.0.0",
   "description": "Interprets email marketing analytics data and translates raw metrics into actionable strategic recommendations using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "analytics-data",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

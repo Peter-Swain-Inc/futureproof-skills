@@ -2,9 +2,5 @@
   "name": "nda-generator",
   "version": "1.0.0",
   "description": "Generates tailored Non-Disclosure Agreements using FutureProof context, party details, and jurisdiction-specific requirements.",
-  "skills": ".",
-  "keywords": [
-    "legal-contracts",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

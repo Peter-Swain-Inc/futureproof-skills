@@ -2,9 +2,5 @@
   "name": "content-atomiser",
   "version": "1.0.0",
   "description": "Transforms a single pillar content asset into a structured library of derivative micro-content pieces optimised for multi-channel distribution.",
-  "skills": ".",
-  "keywords": [
-    "copy-content-creation",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

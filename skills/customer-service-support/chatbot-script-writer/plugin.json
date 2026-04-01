@@ -2,9 +2,5 @@
   "name": "chatbot-script-writer",
   "version": "1.0.0",
   "description": "Writes, structures, and optimises chatbot conversation scripts for customer service and support channels using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "customer-service-support",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

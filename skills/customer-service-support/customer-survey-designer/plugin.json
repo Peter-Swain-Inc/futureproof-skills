@@ -2,9 +2,5 @@
   "name": "customer-survey-designer",
   "version": "1.0.0",
   "description": "Designs high-performance customer surveys that generate actionable insights, using FutureProof context to align question design with known ICA segments, business objectives, and prior feedback data.",
-  "skills": ".",
-  "keywords": [
-    "customer-service-support",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

@@ -2,9 +2,5 @@
   "name": "thought-reversal-architect",
   "version": "1.0.0",
   "description": "Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.",
-  "skills": ".",
-  "keywords": [
-    "offer-positioning-optimisation",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

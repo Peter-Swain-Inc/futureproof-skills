@@ -2,9 +2,5 @@
   "name": "revenue-compounding-map",
   "version": "1.0.0",
   "description": "Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.",
-  "skills": ".",
-  "keywords": [
-    "analytics-data",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

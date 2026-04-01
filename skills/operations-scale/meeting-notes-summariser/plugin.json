@@ -2,9 +2,5 @@
   "name": "meeting-notes-summariser",
   "version": "1.0.0",
   "description": "Transforms raw meeting notes, transcripts, and recordings into structured, actionable summaries with clear ownership, deadlines, and strategic context.",
-  "skills": ".",
-  "keywords": [
-    "operations-scale",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

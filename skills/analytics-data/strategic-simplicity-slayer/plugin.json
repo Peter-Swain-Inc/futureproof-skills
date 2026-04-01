@@ -2,9 +2,5 @@
   "name": "strategic-simplicity-slayer",
   "version": "1.0.0",
   "description": "Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.",
-  "skills": ".",
-  "keywords": [
-    "analytics-data",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

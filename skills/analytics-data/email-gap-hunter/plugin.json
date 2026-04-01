@@ -2,9 +2,5 @@
   "name": "email-gap-hunter",
   "version": "1.0.0",
   "description": "Analyses email marketing sequences and campaign data to identify performance gaps, dead zones, and missed revenue opportunities across the subscriber lifecycle.",
-  "skills": ".",
-  "keywords": [
-    "analytics-data",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

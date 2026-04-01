@@ -2,9 +2,5 @@
   "name": "differentiation-deep-dive",
   "version": "1.0.0",
   "description": "Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different.",
-  "skills": ".",
-  "keywords": [
-    "brand-thought-leadership",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

@@ -2,9 +2,5 @@
   "name": "incentive-reward-designer",
   "version": "1.0.0",
   "description": "Designs high-impact incentive and reward structures for customer retention, referral, and loyalty programmes using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "customer-experience-retention-referrals",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

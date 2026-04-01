@@ -2,9 +2,5 @@
   "name": "company-culture-doc-builder",
   "version": "1.0.0",
   "description": "Builds comprehensive, living company culture documents using FutureProof context to align values, behaviours, and rituals with organisational strategy.",
-  "skills": ".",
-  "keywords": [
-    "hr-people",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

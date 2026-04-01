@@ -2,9 +2,5 @@
   "name": "client-onboarding-designer",
   "version": "1.0.0",
   "description": "Designs comprehensive client onboarding systems that reduce time-to-value, increase activation rates, and eliminate early-stage churn using FutureProof context.",
-  "skills": ".",
-  "keywords": [
-    "operations-scale",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

@@ -2,9 +2,5 @@
   "name": "churn-risk-detector",
   "version": "1.0.0",
   "description": "Analyses customer data, behavioural signals, and account health indicators to identify at-risk accounts and produce actionable retention interventions.",
-  "skills": ".",
-  "keywords": [
-    "customer-service-support",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

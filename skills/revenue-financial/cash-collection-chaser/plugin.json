@@ -2,9 +2,5 @@
   "name": "cash-collection-chaser",
   "version": "1.0.0",
   "description": "Generates and manages structured cash collection chase sequences to accelerate receivables recovery and reduce DSO.",
-  "skills": ".",
-  "keywords": [
-    "revenue-financial",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }

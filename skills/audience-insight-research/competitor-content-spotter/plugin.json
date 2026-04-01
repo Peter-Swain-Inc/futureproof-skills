@@ -2,9 +2,5 @@
   "name": "competitor-content-spotter",
   "version": "1.0.0",
   "description": "Identifies, deconstructs, and maps competitor content strategies to reveal positioning gaps, messaging vulnerabilities, and audience capture opportunities.",
-  "skills": ".",
-  "keywords": [
-    "audience-insight-research",
-    "futureproof"
-  ]
+  "skills": "./skills/"
 }
