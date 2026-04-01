@@ -1,0 +1,1167 @@
+{
+  "name": "futureproof-skills",
+  "version": "1.0.0",
+  "description": "FutureProof Skills Marketplace \u2014 145 AI-powered business skills for Claude",
+  "skills": [
+    {
+      "name": "ICA Mirror",
+      "id": "ica-mirror",
+      "version": "1.0.0",
+      "description": "ICA Mirror \u2014 coming soon",
+      "location": "skills/audience-insight-research/ica-mirror",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Synthetic Focus Group",
+      "id": "synthetic-focus-group",
+      "version": "1.0.0",
+      "description": "Synthetic Focus Group \u2014 coming soon",
+      "location": "skills/audience-insight-research/synthetic-focus-group",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Invisible Demand Detector",
+      "id": "invisible-demand-detector",
+      "version": "1.0.0",
+      "description": "Invisible Demand Detector \u2014 coming soon",
+      "location": "skills/audience-insight-research/invisible-demand-detector",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Message Market Match Scanner",
+      "id": "message-market-match-scanner",
+      "version": "1.0.0",
+      "description": "Message Market Match Scanner \u2014 coming soon",
+      "location": "skills/audience-insight-research/message-market-match-scanner",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Audience Emotional Pulse",
+      "id": "audience-emotional-pulse",
+      "version": "1.0.0",
+      "description": "Audience Emotional Pulse \u2014 coming soon",
+      "location": "skills/audience-insight-research/audience-emotional-pulse",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Audience Expansion",
+      "id": "audience-expansion",
+      "version": "1.0.0",
+      "description": "Audience Expansion \u2014 coming soon",
+      "location": "skills/audience-insight-research/audience-expansion",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Attention Heatmap",
+      "id": "attention-heatmap",
+      "version": "1.0.0",
+      "description": "Attention Heatmap \u2014 coming soon",
+      "location": "skills/audience-insight-research/attention-heatmap",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Competitor Content Spotter",
+      "id": "competitor-content-spotter",
+      "version": "1.0.0",
+      "description": "Competitor Content Spotter \u2014 coming soon",
+      "location": "skills/audience-insight-research/competitor-content-spotter",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Reluctant Buyer Decoder",
+      "id": "reluctant-buyer-decoder",
+      "version": "1.0.0",
+      "description": "Reluctant Buyer Decoder \u2014 coming soon",
+      "location": "skills/audience-insight-research/reluctant-buyer-decoder",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Invisible Trends Forecaster",
+      "id": "invisible-trends-forecaster",
+      "version": "1.0.0",
+      "description": "Invisible Trends Forecaster \u2014 coming soon",
+      "location": "skills/audience-insight-research/invisible-trends-forecaster",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Dream Client Magnet",
+      "id": "dream-client-magnet",
+      "version": "1.0.0",
+      "description": "Dream Client Magnet \u2014 coming soon",
+      "location": "skills/audience-insight-research/dream-client-magnet",
+      "category": "Audience Insight & Research"
+    },
+    {
+      "name": "Offer Diagnostic",
+      "id": "offer-diagnostic",
+      "version": "1.0.0",
+      "description": "Offer Diagnostic \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/offer-diagnostic",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Value Stack Multiplier",
+      "id": "value-stack-multiplier",
+      "version": "1.0.0",
+      "description": "Value Stack Multiplier \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/value-stack-multiplier",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Pricing Power Optimiser",
+      "id": "pricing-power-optimiser",
+      "version": "1.0.0",
+      "description": "Pricing Power Optimiser \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/pricing-power-optimiser",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Incentive Designer",
+      "id": "incentive-designer",
+      "version": "1.0.0",
+      "description": "Incentive Designer \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/incentive-designer",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Micro Offer Builder",
+      "id": "micro-offer-builder",
+      "version": "1.0.0",
+      "description": "Micro Offer Builder \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/micro-offer-builder",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Positioning Compass",
+      "id": "positioning-compass",
+      "version": "1.0.0",
+      "description": "Positioning Compass \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/positioning-compass",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Buyer Psychology Reframer",
+      "id": "buyer-psychology-reframer",
+      "version": "1.0.0",
+      "description": "Buyer Psychology Reframer \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/buyer-psychology-reframer",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Thought Leadership Engine",
+      "id": "thought-leadership-engine",
+      "version": "1.0.0",
+      "description": "Thought Leadership Engine \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/thought-leadership-engine",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Thought Reversal Architect",
+      "id": "thought-reversal-architect",
+      "version": "1.0.0",
+      "description": "Thought Reversal Architect \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/thought-reversal-architect",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Lightning Launch",
+      "id": "lightning-launch",
+      "version": "1.0.0",
+      "description": "Lightning Launch \u2014 coming soon",
+      "location": "skills/offer-positioning-optimisation/lightning-launch",
+      "category": "Offer & Positioning Optimisation"
+    },
+    {
+      "name": "Email Copy",
+      "id": "email-copy",
+      "version": "1.0.0",
+      "description": "Email Copy \u2014 coming soon",
+      "location": "skills/copy-content-creation/email-copy",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Email Sequencer",
+      "id": "email-sequencer",
+      "version": "1.0.0",
+      "description": "Email Sequencer \u2014 coming soon",
+      "location": "skills/copy-content-creation/email-sequencer",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Text Message",
+      "id": "text-message",
+      "version": "1.0.0",
+      "description": "Text Message \u2014 coming soon",
+      "location": "skills/copy-content-creation/text-message",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Ad Copy Variation",
+      "id": "ad-copy-variation",
+      "version": "1.0.0",
+      "description": "Ad Copy Variation \u2014 coming soon",
+      "location": "skills/copy-content-creation/ad-copy-variation",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Sales Page",
+      "id": "sales-page",
+      "version": "1.0.0",
+      "description": "Sales Page \u2014 coming soon",
+      "location": "skills/copy-content-creation/sales-page",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Content Atomiser",
+      "id": "content-atomiser",
+      "version": "1.0.0",
+      "description": "Content Atomiser \u2014 coming soon",
+      "location": "skills/copy-content-creation/content-atomiser",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Image Prompt Framework",
+      "id": "image-prompt-framework",
+      "version": "1.0.0",
+      "description": "Image Prompt Framework \u2014 coming soon",
+      "location": "skills/copy-content-creation/image-prompt-framework",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Content Calendar",
+      "id": "content-calendar",
+      "version": "1.0.0",
+      "description": "Content Calendar \u2014 coming soon",
+      "location": "skills/copy-content-creation/content-calendar",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Authority Combat Trainer",
+      "id": "authority-combat-trainer",
+      "version": "1.0.0",
+      "description": "Authority Combat Trainer \u2014 coming soon",
+      "location": "skills/copy-content-creation/authority-combat-trainer",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Retention Storytelling",
+      "id": "retention-storytelling",
+      "version": "1.0.0",
+      "description": "Retention Storytelling \u2014 coming soon",
+      "location": "skills/copy-content-creation/retention-storytelling",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "Lead Magnet Copy Writer",
+      "id": "lead-magnet-copy-writer",
+      "version": "1.0.0",
+      "description": "Lead Magnet Copy Writer \u2014 coming soon",
+      "location": "skills/copy-content-creation/lead-magnet-copy-writer",
+      "category": "Copy & Content Creation"
+    },
+    {
+      "name": "LinkedIn Post Writer",
+      "id": "linkedin-post-writer",
+      "version": "1.0.0",
+      "description": "LinkedIn Post Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/linkedin-post-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Twitter X Writer",
+      "id": "twitter-x-writer",
+      "version": "1.0.0",
+      "description": "Twitter X Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/twitter-x-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Instagram Caption Writer",
+      "id": "instagram-caption-writer",
+      "version": "1.0.0",
+      "description": "Instagram Caption Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/instagram-caption-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Facebook Post Writer",
+      "id": "facebook-post-writer",
+      "version": "1.0.0",
+      "description": "Facebook Post Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/facebook-post-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "TikTok Script Writer",
+      "id": "tiktok-script-writer",
+      "version": "1.0.0",
+      "description": "TikTok Script Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/tiktok-script-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "YouTube Script Description Writer",
+      "id": "youtube-script-description-writer",
+      "version": "1.0.0",
+      "description": "YouTube Script Description Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/youtube-script-description-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Blog Post Writer",
+      "id": "blog-post-writer",
+      "version": "1.0.0",
+      "description": "Blog Post Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/blog-post-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Blog SEO Optimiser",
+      "id": "blog-seo-optimiser",
+      "version": "1.0.0",
+      "description": "Blog SEO Optimiser \u2014 coming soon",
+      "location": "skills/platform-specific-content/blog-seo-optimiser",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Substack Newsletter Writer",
+      "id": "substack-newsletter-writer",
+      "version": "1.0.0",
+      "description": "Substack Newsletter Writer \u2014 coming soon",
+      "location": "skills/platform-specific-content/substack-newsletter-writer",
+      "category": "Platform-Specific Content"
+    },
+    {
+      "name": "Ad Copy Writer",
+      "id": "ad-copy-writer",
+      "version": "1.0.0",
+      "description": "Ad Copy Writer \u2014 coming soon",
+      "location": "skills/advertising-paid-media/ad-copy-writer",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "Ad Creative Brief Generator",
+      "id": "ad-creative-brief-generator",
+      "version": "1.0.0",
+      "description": "Ad Creative Brief Generator \u2014 coming soon",
+      "location": "skills/advertising-paid-media/ad-creative-brief-generator",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "Ad Performance Analyser",
+      "id": "ad-performance-analyser",
+      "version": "1.0.0",
+      "description": "Ad Performance Analyser \u2014 coming soon",
+      "location": "skills/advertising-paid-media/ad-performance-analyser",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "Landing Page Writer",
+      "id": "landing-page-writer",
+      "version": "1.0.0",
+      "description": "Landing Page Writer \u2014 coming soon",
+      "location": "skills/advertising-paid-media/landing-page-writer",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "AB Test Designer",
+      "id": "ab-test-designer",
+      "version": "1.0.0",
+      "description": "AB Test Designer \u2014 coming soon",
+      "location": "skills/advertising-paid-media/ab-test-designer",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "Ad Budget Allocator",
+      "id": "ad-budget-allocator",
+      "version": "1.0.0",
+      "description": "Ad Budget Allocator \u2014 coming soon",
+      "location": "skills/advertising-paid-media/ad-budget-allocator",
+      "category": "Advertising & Paid Media"
+    },
+    {
+      "name": "Sales Call Coach",
+      "id": "sales-call-coach",
+      "version": "1.0.0",
+      "description": "Sales Call Coach \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/sales-call-coach",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Conversion Narrative Engineer",
+      "id": "conversion-narrative-engineer",
+      "version": "1.0.0",
+      "description": "Conversion Narrative Engineer \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/conversion-narrative-engineer",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Conversion Momentum Builder",
+      "id": "conversion-momentum-builder",
+      "version": "1.0.0",
+      "description": "Conversion Momentum Builder \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/conversion-momentum-builder",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Buyer Journey Bottleneck Breaker",
+      "id": "buyer-journey-bottleneck-breaker",
+      "version": "1.0.0",
+      "description": "Buyer Journey Bottleneck Breaker \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/buyer-journey-bottleneck-breaker",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Event ROI Forecaster",
+      "id": "event-roi-forecaster",
+      "version": "1.0.0",
+      "description": "Event ROI Forecaster \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/event-roi-forecaster",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Attention to Revenue Bridge",
+      "id": "attention-to-revenue-bridge",
+      "version": "1.0.0",
+      "description": "Attention to Revenue Bridge \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/attention-to-revenue-bridge",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Sales Script Writer",
+      "id": "sales-script-writer",
+      "version": "1.0.0",
+      "description": "Sales Script Writer \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/sales-script-writer",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Follow Up Sequence Builder",
+      "id": "follow-up-sequence-builder",
+      "version": "1.0.0",
+      "description": "Follow Up Sequence Builder \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/follow-up-sequence-builder",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Pipeline Forecaster",
+      "id": "pipeline-forecaster",
+      "version": "1.0.0",
+      "description": "Pipeline Forecaster \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/pipeline-forecaster",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Win Loss Analyser",
+      "id": "win-loss-analyser",
+      "version": "1.0.0",
+      "description": "Win Loss Analyser \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/win-loss-analyser",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Affiliate Outreach Writer",
+      "id": "affiliate-outreach-writer",
+      "version": "1.0.0",
+      "description": "Affiliate Outreach Writer \u2014 coming soon",
+      "location": "skills/sales-conversion-enhancement/affiliate-outreach-writer",
+      "category": "Sales & Conversion Enhancement"
+    },
+    {
+      "name": "Campaign Debrief Analyser",
+      "id": "campaign-debrief-analyser",
+      "version": "1.0.0",
+      "description": "Campaign Debrief Analyser \u2014 coming soon",
+      "location": "skills/analytics-data/campaign-debrief-analyser",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Email Gap Hunter",
+      "id": "email-gap-hunter",
+      "version": "1.0.0",
+      "description": "Email Gap Hunter \u2014 coming soon",
+      "location": "skills/analytics-data/email-gap-hunter",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Revenue Leak Detector",
+      "id": "revenue-leak-detector",
+      "version": "1.0.0",
+      "description": "Revenue Leak Detector \u2014 coming soon",
+      "location": "skills/analytics-data/revenue-leak-detector",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Strategic Simplicity Slayer",
+      "id": "strategic-simplicity-slayer",
+      "version": "1.0.0",
+      "description": "Strategic Simplicity Slayer \u2014 coming soon",
+      "location": "skills/analytics-data/strategic-simplicity-slayer",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Revenue Compounding Map",
+      "id": "revenue-compounding-map",
+      "version": "1.0.0",
+      "description": "Revenue Compounding Map \u2014 coming soon",
+      "location": "skills/analytics-data/revenue-compounding-map",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "KPI Interpreter",
+      "id": "kpi-interpreter",
+      "version": "1.0.0",
+      "description": "KPI Interpreter \u2014 coming soon",
+      "location": "skills/analytics-data/kpi-interpreter",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Google Analytics Reporter",
+      "id": "google-analytics-reporter",
+      "version": "1.0.0",
+      "description": "Google Analytics Reporter \u2014 coming soon",
+      "location": "skills/analytics-data/google-analytics-reporter",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Social Media Analytics",
+      "id": "social-media-analytics",
+      "version": "1.0.0",
+      "description": "Social Media Analytics \u2014 coming soon",
+      "location": "skills/analytics-data/social-media-analytics",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Email Analytics Interpreter",
+      "id": "email-analytics-interpreter",
+      "version": "1.0.0",
+      "description": "Email Analytics Interpreter \u2014 coming soon",
+      "location": "skills/analytics-data/email-analytics-interpreter",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Revenue Attribution Modeller",
+      "id": "revenue-attribution-modeller",
+      "version": "1.0.0",
+      "description": "Revenue Attribution Modeller \u2014 coming soon",
+      "location": "skills/analytics-data/revenue-attribution-modeller",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Conversion Rate Optimiser",
+      "id": "conversion-rate-optimiser",
+      "version": "1.0.0",
+      "description": "Conversion Rate Optimiser \u2014 coming soon",
+      "location": "skills/analytics-data/conversion-rate-optimiser",
+      "category": "Analytics & Data"
+    },
+    {
+      "name": "Celebrity Board of Advisors",
+      "id": "celebrity-board-of-advisors",
+      "version": "1.0.0",
+      "description": "Celebrity Board of Advisors \u2014 coming soon",
+      "location": "skills/brand-thought-leadership/celebrity-board-of-advisors",
+      "category": "Brand & Thought Leadership"
+    },
+    {
+      "name": "Authority Positioning Engine",
+      "id": "authority-positioning-engine",
+      "version": "1.0.0",
+      "description": "Authority Positioning Engine \u2014 coming soon",
+      "location": "skills/brand-thought-leadership/authority-positioning-engine",
+      "category": "Brand & Thought Leadership"
+    },
+    {
+      "name": "Flagship Idea Builder",
+      "id": "flagship-idea-builder",
+      "version": "1.0.0",
+      "description": "Flagship Idea Builder \u2014 coming soon",
+      "location": "skills/brand-thought-leadership/flagship-idea-builder",
+      "category": "Brand & Thought Leadership"
+    },
+    {
+      "name": "Differentiation Deep Dive",
+      "id": "differentiation-deep-dive",
+      "version": "1.0.0",
+      "description": "Differentiation Deep Dive \u2014 coming soon",
+      "location": "skills/brand-thought-leadership/differentiation-deep-dive",
+      "category": "Brand & Thought Leadership"
+    },
+    {
+      "name": "Referral Moment Generator",
+      "id": "referral-moment-generator",
+      "version": "1.0.0",
+      "description": "Referral Moment Generator \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/referral-moment-generator",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "Post Sale Delight Engineer",
+      "id": "post-sale-delight-engineer",
+      "version": "1.0.0",
+      "description": "Post Sale Delight Engineer \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/post-sale-delight-engineer",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "Ascension Engine",
+      "id": "ascension-engine",
+      "version": "1.0.0",
+      "description": "Ascension Engine \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/ascension-engine",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "Referral Personality Profiler",
+      "id": "referral-personality-profiler",
+      "version": "1.0.0",
+      "description": "Referral Personality Profiler \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/referral-personality-profiler",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "Incentive Reward Designer",
+      "id": "incentive-reward-designer",
+      "version": "1.0.0",
+      "description": "Incentive Reward Designer \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/incentive-reward-designer",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "Onboarding Email Sequence Writer",
+      "id": "onboarding-email-sequence-writer",
+      "version": "1.0.0",
+      "description": "Onboarding Email Sequence Writer \u2014 coming soon",
+      "location": "skills/customer-experience-retention-referrals/onboarding-email-sequence-writer",
+      "category": "Customer Experience, Retention & Referrals"
+    },
+    {
+      "name": "FAQ Builder",
+      "id": "faq-builder",
+      "version": "1.0.0",
+      "description": "FAQ Builder \u2014 coming soon",
+      "location": "skills/customer-service-support/faq-builder",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Customer Complaint Handler",
+      "id": "customer-complaint-handler",
+      "version": "1.0.0",
+      "description": "Customer Complaint Handler \u2014 coming soon",
+      "location": "skills/customer-service-support/customer-complaint-handler",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Review Response Writer",
+      "id": "review-response-writer",
+      "version": "1.0.0",
+      "description": "Review Response Writer \u2014 coming soon",
+      "location": "skills/customer-service-support/review-response-writer",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Churn Risk Detector",
+      "id": "churn-risk-detector",
+      "version": "1.0.0",
+      "description": "Churn Risk Detector \u2014 coming soon",
+      "location": "skills/customer-service-support/churn-risk-detector",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Re-Engagement Campaign Builder",
+      "id": "re-engagement-campaign-builder",
+      "version": "1.0.0",
+      "description": "Re-Engagement Campaign Builder \u2014 coming soon",
+      "location": "skills/customer-service-support/re-engagement-campaign-builder",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Customer Survey Designer",
+      "id": "customer-survey-designer",
+      "version": "1.0.0",
+      "description": "Customer Survey Designer \u2014 coming soon",
+      "location": "skills/customer-service-support/customer-survey-designer",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "NPS Analyser",
+      "id": "nps-analyser",
+      "version": "1.0.0",
+      "description": "NPS Analyser \u2014 coming soon",
+      "location": "skills/customer-service-support/nps-analyser",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "Chatbot Script Writer",
+      "id": "chatbot-script-writer",
+      "version": "1.0.0",
+      "description": "Chatbot Script Writer \u2014 coming soon",
+      "location": "skills/customer-service-support/chatbot-script-writer",
+      "category": "Customer Service & Support"
+    },
+    {
+      "name": "SOP Builder",
+      "id": "sop-builder",
+      "version": "1.0.0",
+      "description": "SOP Builder \u2014 coming soon",
+      "location": "skills/operations-scale/sop-builder",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Meeting Prep Engine",
+      "id": "meeting-prep-engine",
+      "version": "1.0.0",
+      "description": "Meeting Prep Engine \u2014 coming soon",
+      "location": "skills/operations-scale/meeting-prep-engine",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Proposal Writer",
+      "id": "proposal-writer",
+      "version": "1.0.0",
+      "description": "Proposal Writer \u2014 coming soon",
+      "location": "skills/operations-scale/proposal-writer",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Client Onboarding Designer",
+      "id": "client-onboarding-designer",
+      "version": "1.0.0",
+      "description": "Client Onboarding Designer \u2014 coming soon",
+      "location": "skills/operations-scale/client-onboarding-designer",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Training Content Creator",
+      "id": "training-content-creator",
+      "version": "1.0.0",
+      "description": "Training Content Creator \u2014 coming soon",
+      "location": "skills/operations-scale/training-content-creator",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Weekly CEO Briefing",
+      "id": "weekly-ceo-briefing",
+      "version": "1.0.0",
+      "description": "Weekly CEO Briefing \u2014 coming soon",
+      "location": "skills/operations-scale/weekly-ceo-briefing",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Project Brief Generator",
+      "id": "project-brief-generator",
+      "version": "1.0.0",
+      "description": "Project Brief Generator \u2014 coming soon",
+      "location": "skills/operations-scale/project-brief-generator",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Meeting Notes Summariser",
+      "id": "meeting-notes-summariser",
+      "version": "1.0.0",
+      "description": "Meeting Notes Summariser \u2014 coming soon",
+      "location": "skills/operations-scale/meeting-notes-summariser",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Vendor Supplier Evaluator",
+      "id": "vendor-supplier-evaluator",
+      "version": "1.0.0",
+      "description": "Vendor Supplier Evaluator \u2014 coming soon",
+      "location": "skills/operations-scale/vendor-supplier-evaluator",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Process Improvement Analyser",
+      "id": "process-improvement-analyser",
+      "version": "1.0.0",
+      "description": "Process Improvement Analyser \u2014 coming soon",
+      "location": "skills/operations-scale/process-improvement-analyser",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Risk Register Builder",
+      "id": "risk-register-builder",
+      "version": "1.0.0",
+      "description": "Risk Register Builder \u2014 coming soon",
+      "location": "skills/operations-scale/risk-register-builder",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Compliance Checker",
+      "id": "compliance-checker",
+      "version": "1.0.0",
+      "description": "Compliance Checker \u2014 coming soon",
+      "location": "skills/operations-scale/compliance-checker",
+      "category": "Operations & Scale"
+    },
+    {
+      "name": "Cash Flow Modeller",
+      "id": "cash-flow-modeller",
+      "version": "1.0.0",
+      "description": "Cash Flow Modeller \u2014 coming soon",
+      "location": "skills/revenue-financial/cash-flow-modeller",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Upsell Ascension Mapper",
+      "id": "upsell-ascension-mapper",
+      "version": "1.0.0",
+      "description": "Upsell Ascension Mapper \u2014 coming soon",
+      "location": "skills/revenue-financial/upsell-ascension-mapper",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Expense Request",
+      "id": "expense-request",
+      "version": "1.0.0",
+      "description": "Expense Request \u2014 coming soon",
+      "location": "skills/revenue-financial/expense-request",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Invoice Generator",
+      "id": "invoice-generator",
+      "version": "1.0.0",
+      "description": "Invoice Generator \u2014 coming soon",
+      "location": "skills/revenue-financial/invoice-generator",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Cash Collection Chaser",
+      "id": "cash-collection-chaser",
+      "version": "1.0.0",
+      "description": "Cash Collection Chaser \u2014 coming soon",
+      "location": "skills/revenue-financial/cash-collection-chaser",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Budget Planner",
+      "id": "budget-planner",
+      "version": "1.0.0",
+      "description": "Budget Planner \u2014 coming soon",
+      "location": "skills/revenue-financial/budget-planner",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "PL Analyser",
+      "id": "pl-analyser",
+      "version": "1.0.0",
+      "description": "PL Analyser \u2014 coming soon",
+      "location": "skills/revenue-financial/pl-analyser",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Financial Report Writer",
+      "id": "financial-report-writer",
+      "version": "1.0.0",
+      "description": "Financial Report Writer \u2014 coming soon",
+      "location": "skills/revenue-financial/financial-report-writer",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Tax Prep Organiser",
+      "id": "tax-prep-organiser",
+      "version": "1.0.0",
+      "description": "Tax Prep Organiser \u2014 coming soon",
+      "location": "skills/revenue-financial/tax-prep-organiser",
+      "category": "Revenue & Financial"
+    },
+    {
+      "name": "Crisis Comms Responder",
+      "id": "crisis-comms-responder",
+      "version": "1.0.0",
+      "description": "Crisis Comms Responder \u2014 coming soon",
+      "location": "skills/communications-pr/crisis-comms-responder",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Webinar Event Scriptwriter",
+      "id": "webinar-event-scriptwriter",
+      "version": "1.0.0",
+      "description": "Webinar Event Scriptwriter \u2014 coming soon",
+      "location": "skills/communications-pr/webinar-event-scriptwriter",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Press Release Writer",
+      "id": "press-release-writer",
+      "version": "1.0.0",
+      "description": "Press Release Writer \u2014 coming soon",
+      "location": "skills/communications-pr/press-release-writer",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Internal Memo Writer",
+      "id": "internal-memo-writer",
+      "version": "1.0.0",
+      "description": "Internal Memo Writer \u2014 coming soon",
+      "location": "skills/communications-pr/internal-memo-writer",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Company Newsletter Writer",
+      "id": "company-newsletter-writer",
+      "version": "1.0.0",
+      "description": "Company Newsletter Writer \u2014 coming soon",
+      "location": "skills/communications-pr/company-newsletter-writer",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Podcast Show Notes Writer",
+      "id": "podcast-show-notes-writer",
+      "version": "1.0.0",
+      "description": "Podcast Show Notes Writer \u2014 coming soon",
+      "location": "skills/communications-pr/podcast-show-notes-writer",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Video Script Writer",
+      "id": "video-script-writer",
+      "version": "1.0.0",
+      "description": "Video Script Writer \u2014 coming soon",
+      "location": "skills/communications-pr/video-script-writer",
+      "category": "Communications & PR"
+    },
+    {
+      "name": "Job Ad Writer",
+      "id": "job-ad-writer",
+      "version": "1.0.0",
+      "description": "Job Ad Writer \u2014 coming soon",
+      "location": "skills/hr-people/job-ad-writer",
+      "category": "HR & People"
+    },
+    {
+      "name": "Job Spec Writer",
+      "id": "job-spec-writer",
+      "version": "1.0.0",
+      "description": "Job Spec Writer \u2014 coming soon",
+      "location": "skills/hr-people/job-spec-writer",
+      "category": "HR & People"
+    },
+    {
+      "name": "Quarterly Review Generator",
+      "id": "quarterly-review-generator",
+      "version": "1.0.0",
+      "description": "Quarterly Review Generator \u2014 coming soon",
+      "location": "skills/hr-people/quarterly-review-generator",
+      "category": "HR & People"
+    },
+    {
+      "name": "Time Off Request",
+      "id": "time-off-request",
+      "version": "1.0.0",
+      "description": "Time Off Request \u2014 coming soon",
+      "location": "skills/hr-people/time-off-request",
+      "category": "HR & People"
+    },
+    {
+      "name": "Performance Review Writer",
+      "id": "performance-review-writer",
+      "version": "1.0.0",
+      "description": "Performance Review Writer \u2014 coming soon",
+      "location": "skills/hr-people/performance-review-writer",
+      "category": "HR & People"
+    },
+    {
+      "name": "Interview Question Generator",
+      "id": "interview-question-generator",
+      "version": "1.0.0",
+      "description": "Interview Question Generator \u2014 coming soon",
+      "location": "skills/hr-people/interview-question-generator",
+      "category": "HR & People"
+    },
+    {
+      "name": "Candidate Screening Scorer",
+      "id": "candidate-screening-scorer",
+      "version": "1.0.0",
+      "description": "Candidate Screening Scorer \u2014 coming soon",
+      "location": "skills/hr-people/candidate-screening-scorer",
+      "category": "HR & People"
+    },
+    {
+      "name": "Employee Handbook Builder",
+      "id": "employee-handbook-builder",
+      "version": "1.0.0",
+      "description": "Employee Handbook Builder \u2014 coming soon",
+      "location": "skills/hr-people/employee-handbook-builder",
+      "category": "HR & People"
+    },
+    {
+      "name": "Exit Interview Analyser",
+      "id": "exit-interview-analyser",
+      "version": "1.0.0",
+      "description": "Exit Interview Analyser \u2014 coming soon",
+      "location": "skills/hr-people/exit-interview-analyser",
+      "category": "HR & People"
+    },
+    {
+      "name": "Company Culture Doc Builder",
+      "id": "company-culture-doc-builder",
+      "version": "1.0.0",
+      "description": "Company Culture Doc Builder \u2014 coming soon",
+      "location": "skills/hr-people/company-culture-doc-builder",
+      "category": "HR & People"
+    },
+    {
+      "name": "DISC Strengths Interpreter",
+      "id": "disc-strengths-interpreter",
+      "version": "1.0.0",
+      "description": "DISC Strengths Interpreter \u2014 coming soon",
+      "location": "skills/hr-people/disc-strengths-interpreter",
+      "category": "HR & People"
+    },
+    {
+      "name": "Personal Strategic Advisor",
+      "id": "personal-strategic-advisor",
+      "version": "1.0.0",
+      "description": "Personal Strategic Advisor \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/personal-strategic-advisor",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Whats Next Roadmap Navigator",
+      "id": "whats-next-roadmap-navigator",
+      "version": "1.0.0",
+      "description": "Whats Next Roadmap Navigator \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/whats-next-roadmap-navigator",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Pivot or Persist",
+      "id": "pivot-or-persist",
+      "version": "1.0.0",
+      "description": "Pivot or Persist \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/pivot-or-persist",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "5 Year Decision Filter",
+      "id": "5-year-decision-filter",
+      "version": "1.0.0",
+      "description": "5 Year Decision Filter \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/5-year-decision-filter",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Pre Mortem Strategist",
+      "id": "pre-mortem-strategist",
+      "version": "1.0.0",
+      "description": "Pre Mortem Strategist \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/pre-mortem-strategist",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Team Dynamics Advisor",
+      "id": "team-dynamics-advisor",
+      "version": "1.0.0",
+      "description": "Team Dynamics Advisor \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/team-dynamics-advisor",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Partnership Evaluator",
+      "id": "partnership-evaluator",
+      "version": "1.0.0",
+      "description": "Partnership Evaluator \u2014 coming soon",
+      "location": "skills/founder-decision-support-strategy/partnership-evaluator",
+      "category": "Founder Decision Support & Strategy"
+    },
+    {
+      "name": "Testimonial Requester",
+      "id": "testimonial-requester",
+      "version": "1.0.0",
+      "description": "Testimonial Requester \u2014 coming soon",
+      "location": "skills/testimonials-social-proof/testimonial-requester",
+      "category": "Testimonials & Social Proof"
+    },
+    {
+      "name": "Testimonial Manager",
+      "id": "testimonial-manager",
+      "version": "1.0.0",
+      "description": "Testimonial Manager \u2014 coming soon",
+      "location": "skills/testimonials-social-proof/testimonial-manager",
+      "category": "Testimonials & Social Proof"
+    },
+    {
+      "name": "Case Study Builder",
+      "id": "case-study-builder",
+      "version": "1.0.0",
+      "description": "Case Study Builder \u2014 coming soon",
+      "location": "skills/testimonials-social-proof/case-study-builder",
+      "category": "Testimonials & Social Proof"
+    },
+    {
+      "name": "Swipe File Curator",
+      "id": "swipe-file-curator",
+      "version": "1.0.0",
+      "description": "Swipe File Curator \u2014 coming soon",
+      "location": "skills/testimonials-social-proof/swipe-file-curator",
+      "category": "Testimonials & Social Proof"
+    },
+    {
+      "name": "Terms Conditions Drafter",
+      "id": "terms-conditions-drafter",
+      "version": "1.0.0",
+      "description": "Terms Conditions Drafter \u2014 coming soon",
+      "location": "skills/legal-contracts/terms-conditions-drafter",
+      "category": "Legal & Contracts"
+    },
+    {
+      "name": "Privacy Policy Generator",
+      "id": "privacy-policy-generator",
+      "version": "1.0.0",
+      "description": "Privacy Policy Generator \u2014 coming soon",
+      "location": "skills/legal-contracts/privacy-policy-generator",
+      "category": "Legal & Contracts"
+    },
+    {
+      "name": "NDA Generator",
+      "id": "nda-generator",
+      "version": "1.0.0",
+      "description": "NDA Generator \u2014 coming soon",
+      "location": "skills/legal-contracts/nda-generator",
+      "category": "Legal & Contracts"
+    },
+    {
+      "name": "Contract Review Assistant",
+      "id": "contract-review-assistant",
+      "version": "1.0.0",
+      "description": "Contract Review Assistant \u2014 coming soon",
+      "location": "skills/legal-contracts/contract-review-assistant",
+      "category": "Legal & Contracts"
+    },
+    {
+      "name": "Feature Request Prioritiser",
+      "id": "feature-request-prioritiser",
+      "version": "1.0.0",
+      "description": "Feature Request Prioritiser \u2014 coming soon",
+      "location": "skills/product-innovation/feature-request-prioritiser",
+      "category": "Product & Innovation"
+    },
+    {
+      "name": "Product Roadmap Builder",
+      "id": "product-roadmap-builder",
+      "version": "1.0.0",
+      "description": "Product Roadmap Builder \u2014 coming soon",
+      "location": "skills/product-innovation/product-roadmap-builder",
+      "category": "Product & Innovation"
+    },
+    {
+      "name": "Competitive Feature Comparison",
+      "id": "competitive-feature-comparison",
+      "version": "1.0.0",
+      "description": "Competitive Feature Comparison \u2014 coming soon",
+      "location": "skills/product-innovation/competitive-feature-comparison",
+      "category": "Product & Innovation"
+    },
+    {
+      "name": "Beta Testing Plan Creator",
+      "id": "beta-testing-plan-creator",
+      "version": "1.0.0",
+      "description": "Beta Testing Plan Creator \u2014 coming soon",
+      "location": "skills/product-innovation/beta-testing-plan-creator",
+      "category": "Product & Innovation"
+    }
+  ]
+}
