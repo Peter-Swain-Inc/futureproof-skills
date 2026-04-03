@@ -188,6 +188,15 @@
       "author": {
         "name": "FutureProof"
       }
+    },
+    {
+      "name": "futureproof-c-suite-brainstorming",
+      "source": "./plugins/futureproof-c-suite-brainstorming",
+      "description": "FutureProof — c-suite-brainstorming skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "FutureProof"
+      }
     }
   ]
 }
