@@ -1,0 +1,18 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "Create content, plan campaigns, and grow your audience. Covers copywriting, social media, email, advertising, and brand thought leadership — all personalised to your ICA and brand voice.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "marketing",
+    "futureproof",
+    "business"
+  ]
+}

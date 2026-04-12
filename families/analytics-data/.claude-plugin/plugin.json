@@ -1,0 +1,18 @@
+{
+  "name": "analytics-data",
+  "version": "1.0.0",
+  "description": "Turn numbers into decisions. Campaign debriefs, revenue attribution, conversion optimisation, KPI interpretation, and Google Analytics reporting — with FutureProof context built in.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "analytics-data",
+    "futureproof",
+    "business"
+  ]
+}

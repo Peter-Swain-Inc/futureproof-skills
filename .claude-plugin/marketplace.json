@@ -5,15 +5,23 @@
     "email": "hello@futureproof.ai"
   },
   "metadata": {
-    "description": "145+ AI-powered business skills for Claude \u2014 audience research, offer optimisation, sales, analytics, operations, HR, legal, and more.",
+    "description": "145+ AI-powered business skills for Claude — audience research, offer optimisation, sales, analytics, operations, HR, legal, and more.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "futureproof",
-      "source": ".",
-      "description": "FutureProof MCP connector \u2014 registers the persistent memory and context server. Install this first, then add any skill families.",
+      "source": "./",
+      "description": "FutureProof MCP connector — registers the persistent memory and context server. Install this first, then add any skill families.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
       "keywords": [
         "futureproof",
         "mcp",
@@ -24,71 +32,141 @@
     {
       "name": "marketing",
       "source": "./families/marketing",
-      "description": "Create content, plan campaigns, and grow your audience. Covers copywriting, social media, email, advertising, and brand thought leadership \u2014 all personalised to your ICA and brand voice.",
+      "description": "Create content, plan campaigns, and grow your audience. Covers copywriting, social media, email, advertising, and brand thought leadership — all personalised to your ICA and brand voice.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "marketing",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "sales",
       "source": "./families/sales",
-      "description": "Close more deals and build trust at scale. Sales scripts, conversion sequences, objection handling, pipeline forecasting, and social proof \u2014 built around your ICA and offer.",
+      "description": "Close more deals and build trust at scale. Sales scripts, conversion sequences, objection handling, pipeline forecasting, and social proof — built around your ICA and offer.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "sales",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "audience-research",
       "source": "./families/audience-research",
-      "description": "Understand your market at depth. ICA profiling, belief mapping, demand detection, competitor analysis, and trend forecasting \u2014 so every campaign starts with insight.",
+      "description": "Understand your market at depth. ICA profiling, belief mapping, demand detection, competitor analysis, and trend forecasting — so every campaign starts with insight.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "audience-research",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "analytics-data",
       "source": "./families/analytics-data",
-      "description": "Turn numbers into decisions. Campaign debriefs, revenue attribution, conversion optimisation, KPI interpretation, and Google Analytics reporting \u2014 with FutureProof context built in.",
+      "description": "Turn numbers into decisions. Campaign debriefs, revenue attribution, conversion optimisation, KPI interpretation, and Google Analytics reporting — with FutureProof context built in.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "analytics-data",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "operations",
       "source": "./families/operations",
-      "description": "Run a tighter business. SOPs, proposals, client onboarding, meeting prep, project briefs, compliance checks, and process improvement \u2014 all documented and repeatable.",
+      "description": "Run a tighter business. SOPs, proposals, client onboarding, meeting prep, project briefs, compliance checks, and process improvement — all documented and repeatable.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "operations",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "finance",
       "source": "./families/finance",
-      "description": "Stay on top of the numbers. Cash flow modelling, P&L analysis, budget planning, invoice generation, and financial reporting \u2014 built for service business owners.",
+      "description": "Stay on top of the numbers. Cash flow modelling, P&L analysis, budget planning, invoice generation, and financial reporting — built for service business owners.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "finance",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "hr-people",
       "source": "./families/hr-people",
-      "description": "Hire well, develop your team, and build culture. Job ads, interview questions, performance reviews, handbooks, and DISC interpretation \u2014 tailored to your business.",
+      "description": "Hire well, develop your team, and build culture. Job ads, interview questions, performance reviews, handbooks, and DISC interpretation — tailored to your business.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "hr-people",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
@@ -96,49 +174,99 @@
       "source": "./families/customer-success",
       "description": "Keep customers longer and turn them into advocates. Onboarding sequences, churn detection, referral programmes, complaint handling, and NPS analysis.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "customer-success",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "strategy",
       "source": "./families/strategy",
-      "description": "Make better decisions faster. Offer diagnostics, positioning, pricing, launch planning, pivot analysis, pre-mortems, and founder-level strategic advisory \u2014 with your full business context.",
+      "description": "Make better decisions faster. Offer diagnostics, positioning, pricing, launch planning, pivot analysis, pre-mortems, and founder-level strategic advisory — with your full business context.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "strategy",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "communications-pr",
       "source": "./families/communications-pr",
-      "description": "Communicate with clarity and confidence. Press releases, crisis comms, internal memos, newsletters, podcast notes, and event scripts \u2014 on brand, every time.",
+      "description": "Communicate with clarity and confidence. Press releases, crisis comms, internal memos, newsletters, podcast notes, and event scripts — on brand, every time.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "communications-pr",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "legal",
       "source": "./families/legal",
-      "description": "Protect your business. NDAs, terms and conditions, privacy policies, and contract review \u2014 plain-language drafts built for small business owners.",
+      "description": "Protect your business. NDAs, terms and conditions, privacy policies, and contract review — plain-language drafts built for small business owners.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "legal",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     },
     {
       "name": "product",
       "source": "./families/product",
-      "description": "Build and improve products faster. Feature prioritisation, roadmap planning, competitive analysis, and beta testing \u2014 grounded in your user context.",
+      "description": "Build and improve products faster. Feature prioritisation, roadmap planning, competitive analysis, and beta testing — grounded in your user context.",
       "version": "1.0.0",
+      "author": {
+        "name": "Peter Swain",
+        "email": "peter@befutureproof.ai"
+      },
+      "homepage": "https://www.befutureproof.ai",
+      "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+      "license": "Proprietary",
+      "category": "business",
+      "skills": "./",
       "keywords": [
         "product",
-        "futureproof"
+        "futureproof",
+        "business"
       ]
     }
   ]

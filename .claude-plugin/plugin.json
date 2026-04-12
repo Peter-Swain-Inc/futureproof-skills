@@ -1,0 +1,18 @@
+{
+  "name": "futureproof",
+  "version": "1.0.0",
+  "description": "FutureProof MCP connector — registers the persistent memory and context server. Install this first, then add any skill families.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "futureproof",
+    "mcp",
+    "memory",
+    "context"
+  ]
+}

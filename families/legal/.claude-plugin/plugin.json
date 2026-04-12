@@ -1,0 +1,18 @@
+{
+  "name": "legal",
+  "version": "1.0.0",
+  "description": "Protect your business. NDAs, terms and conditions, privacy policies, and contract review — plain-language drafts built for small business owners.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "legal",
+    "futureproof",
+    "business"
+  ]
+}

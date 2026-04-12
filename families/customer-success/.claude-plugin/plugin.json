@@ -2,7 +2,14 @@
   "name": "customer-success",
   "version": "1.0.0",
   "description": "Keep customers longer and turn them into advocates. Onboarding sequences, churn detection, referral programmes, complaint handling, and NPS analysis.",
-  "skills": ".",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
   "keywords": [
     "customer-success",
     "futureproof",

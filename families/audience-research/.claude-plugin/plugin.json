@@ -1,0 +1,18 @@
+{
+  "name": "audience-research",
+  "version": "1.0.0",
+  "description": "Understand your market at depth. ICA profiling, belief mapping, demand detection, competitor analysis, and trend forecasting — so every campaign starts with insight.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "audience-research",
+    "futureproof",
+    "business"
+  ]
+}

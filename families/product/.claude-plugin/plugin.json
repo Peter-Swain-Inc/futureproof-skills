@@ -1,0 +1,18 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "Build and improve products faster. Feature prioritisation, roadmap planning, competitive analysis, and beta testing — grounded in your user context.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "product",
+    "futureproof",
+    "business"
+  ]
+}
