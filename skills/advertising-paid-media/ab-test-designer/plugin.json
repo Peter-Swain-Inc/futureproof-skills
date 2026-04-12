@@ -1,0 +1,10 @@
+{
+  "name": "ab-test-designer",
+  "version": "1.0.0",
+  "description": "Designs statistically rigorous A/B test plans for paid media campaigns using FutureProof context.",
+  "skills": ".",
+  "keywords": [
+    "advertising-paid-media",
+    "futureproof"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "interview-question-generator",
+  "version": "1.0.0",
+  "description": "Generates structured, role-specific interview question sets using FutureProof context to align with company culture, competency frameworks, and hiring objectives.",
+  "skills": ".",
+  "keywords": [
+    "hr-people",
+    "futureproof"
+  ]
+}

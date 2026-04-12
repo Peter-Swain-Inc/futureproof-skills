@@ -1,0 +1,10 @@
+{
+  "name": "sop-builder",
+  "version": "1.0.0",
+  "description": "Builds comprehensive, audit-ready Standard Operating Procedures from raw process knowledge, tribal expertise, or existing informal documentation.",
+  "skills": ".",
+  "keywords": [
+    "operations-scale",
+    "futureproof"
+  ]
+}

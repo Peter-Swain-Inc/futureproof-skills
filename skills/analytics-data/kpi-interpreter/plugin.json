@@ -1,0 +1,10 @@
+{
+  "name": "kpi-interpreter",
+  "version": "1.0.0",
+  "description": "Interprets KPI dashboards, metric reports, and performance data to surface actionable insights, diagnose root causes, and recommend strategic interventions.",
+  "skills": ".",
+  "keywords": [
+    "analytics-data",
+    "futureproof"
+  ]
+}

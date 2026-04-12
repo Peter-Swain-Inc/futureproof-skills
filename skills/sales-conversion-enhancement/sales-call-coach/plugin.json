@@ -1,0 +1,10 @@
+{
+  "name": "sales-call-coach",
+  "version": "1.0.0",
+  "description": "Provides real-time and post-call coaching for sales conversations using FutureProof context, turning call recordings, notes, and live scenarios into actionable performance improvements.",
+  "skills": ".",
+  "keywords": [
+    "sales-conversion-enhancement",
+    "futureproof"
+  ]
+}

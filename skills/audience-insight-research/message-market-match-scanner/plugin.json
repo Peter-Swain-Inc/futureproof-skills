@@ -1,0 +1,10 @@
+{
+  "name": "message-market-match-scanner",
+  "version": "1.0.0",
+  "description": "Scans and scores the alignment between a user's messaging assets and their target market's actual language, beliefs, and buying triggers.",
+  "skills": ".",
+  "keywords": [
+    "audience-insight-research",
+    "futureproof"
+  ]
+}

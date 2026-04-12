@@ -1,0 +1,10 @@
+{
+  "name": "synthetic-focus-group",
+  "version": "1.0.0",
+  "description": "Simulates a multi-persona focus group using AI-generated panellists grounded in the user's ICA profiles, market context, and FutureProof research history.",
+  "skills": ".",
+  "keywords": [
+    "audience-insight-research",
+    "futureproof"
+  ]
+}
