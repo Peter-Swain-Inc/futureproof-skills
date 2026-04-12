@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "futureproof": {
+      "type": "http",
+      "url": "https://mcp.befutureproof.ai"
+    }
+  }
+}

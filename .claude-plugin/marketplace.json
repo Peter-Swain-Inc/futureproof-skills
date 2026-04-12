@@ -5,14 +5,26 @@
     "email": "hello@futureproof.ai"
   },
   "metadata": {
-    "description": "145+ AI-powered business skills for Claude — audience research, offer optimisation, sales, analytics, operations, HR, legal, and more.",
+    "description": "145+ AI-powered business skills for Claude \u2014 audience research, offer optimisation, sales, analytics, operations, HR, legal, and more.",
     "version": "1.0.0"
   },
   "plugins": [
     {
+      "name": "futureproof",
+      "source": ".",
+      "description": "FutureProof MCP connector \u2014 registers the persistent memory and context server. Install this first, then add any skills.",
+      "version": "1.0.0",
+      "keywords": [
+        "futureproof",
+        "mcp",
+        "memory",
+        "context"
+      ]
+    },
+    {
       "name": "ica-mirror",
       "source": "./skills/audience-insight-research/ica-mirror",
-      "description": "Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decisions — enabling every downstream asset (copy, offers,",
+      "description": "Builds a psychographic and linguistic mirror of the user's Ideal Client Avatar (ICA), producing a living reference document that captures how the ICA speaks, thinks, fears, desires, and makes decisions \u2014 enabling every downstream asset (copy, offers,",
       "version": "1.0.0",
       "keywords": [
         "audience-insight-research",
@@ -34,7 +46,7 @@
     {
       "name": "invisible-demand-detector",
       "source": "./skills/audience-insight-research/invisible-demand-detector",
-      "description": "Detects latent, unarticulated, and emerging demand signals that competitors overlook — surfacing invisible market needs before they become visible trends.",
+      "description": "Detects latent, unarticulated, and emerging demand signals that competitors overlook \u2014 surfacing invisible market needs before they become visible trends.",
       "version": "1.0.0",
       "keywords": [
         "audience-insight-research",
@@ -56,7 +68,7 @@
     {
       "name": "audience-emotional-pulse",
       "source": "./skills/audience-insight-research/audience-emotional-pulse",
-      "description": "Maps the real-time emotional landscape of a target audience segment — surfacing dominant fears, aspirations, frustrations, and identity narratives that drive decision-making beneath rational justification.",
+      "description": "Maps the real-time emotional landscape of a target audience segment \u2014 surfacing dominant fears, aspirations, frustrations, and identity narratives that drive decision-making beneath rational justification.",
       "version": "1.0.0",
       "keywords": [
         "audience-insight-research",
@@ -166,7 +178,7 @@
     {
       "name": "incentive-designer",
       "source": "./skills/offer-positioning-optimisation/incentive-designer",
-      "description": "Designs, evaluates, and optimises offer incentives — bonuses, guarantees, urgency mechanisms, and value-stack architecture — to maximise conversion without eroding margin or brand positioning.",
+      "description": "Designs, evaluates, and optimises offer incentives \u2014 bonuses, guarantees, urgency mechanisms, and value-stack architecture \u2014 to maximise conversion without eroding margin or brand positioning.",
       "version": "1.0.0",
       "keywords": [
         "offer-positioning-optimisation",
@@ -177,7 +189,7 @@
     {
       "name": "micro-offer-builder",
       "source": "./skills/offer-positioning-optimisation/micro-offer-builder",
-      "description": "Architects high-conversion micro offers — low-risk, high-specificity entry points that convert cold audiences into paying clients by solving one acute problem with one clear deliverable at one irresistible price point.",
+      "description": "Architects high-conversion micro offers \u2014 low-risk, high-specificity entry points that convert cold audiences into paying clients by solving one acute problem with one clear deliverable at one irresistible price point.",
       "version": "1.0.0",
       "keywords": [
         "offer-positioning-optimisation",
@@ -199,7 +211,7 @@
     {
       "name": "buyer-psychology-reframer",
       "source": "./skills/offer-positioning-optimisation/buyer-psychology-reframer",
-      "description": "Reframes offer positioning by mapping buyer psychological drivers — loss aversion, identity alignment, status dynamics, cognitive load, and decision fatigue — to produce repositioned messaging that converts at the belief level, not the feature level.",
+      "description": "Reframes offer positioning by mapping buyer psychological drivers \u2014 loss aversion, identity alignment, status dynamics, cognitive load, and decision fatigue \u2014 to produce repositioned messaging that converts at the belief level, not the feature level.",
       "version": "1.0.0",
       "keywords": [
         "offer-positioning-optimisation",
@@ -221,7 +233,7 @@
     {
       "name": "thought-reversal-architect",
       "source": "./skills/offer-positioning-optimisation/thought-reversal-architect",
-      "description": "Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.",
+      "description": "Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem \u2014 then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.",
       "version": "1.0.0",
       "keywords": [
         "offer-positioning-optimisation",
@@ -232,7 +244,7 @@
     {
       "name": "lightning-launch",
       "source": "./skills/offer-positioning-optimisation/lightning-launch",
-      "description": "Guides users through a rapid, high-conviction offer launch sequence — from positioning through to launch-day execution — in a single structured session.",
+      "description": "Guides users through a rapid, high-conviction offer launch sequence \u2014 from positioning through to launch-day execution \u2014 in a single structured session.",
       "version": "1.0.0",
       "keywords": [
         "offer-positioning-optimisation",
@@ -243,7 +255,7 @@
     {
       "name": "email-copy",
       "source": "./skills/copy-content-creation/email-copy",
-      "description": "Crafts high-converting email copy across the full lifecycle — cold outreach, nurture sequences, launches, re-engagement, and transactional emails — using FutureProof context to align messaging with the user's ICA, brand voice, and proven performance ",
+      "description": "Crafts high-converting email copy across the full lifecycle \u2014 cold outreach, nurture sequences, launches, re-engagement, and transactional emails \u2014 using FutureProof context to align messaging with the user's ICA, brand voice, and proven performance ",
       "version": "1.0.0",
       "keywords": [
         "copy-content-creation",
@@ -375,7 +387,7 @@
     {
       "name": "twitter-x-writer",
       "source": "./skills/platform-specific-content/twitter-x-writer",
-      "description": "Crafts high-performing Twitter/X content — threads, single posts, reply strategies, and content calendars — using FutureProof context to align with audience psychology, platform algorithm mechanics, and brand voice.",
+      "description": "Crafts high-performing Twitter/X content \u2014 threads, single posts, reply strategies, and content calendars \u2014 using FutureProof context to align with audience psychology, platform algorithm mechanics, and brand voice.",
       "version": "1.0.0",
       "keywords": [
         "platform-specific-content",
@@ -573,7 +585,7 @@
     {
       "name": "event-roi-forecaster",
       "source": "./skills/sales-conversion-enhancement/event-roi-forecaster",
-      "description": "Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attribution, and FutureProof context.",
+      "description": "Forecasts and optimises the return on investment for events \u2014 conferences, trade shows, webinars, executive dinners, field activations, and sponsorships \u2014 using financial modelling, pipeline attribution, and FutureProof context.",
       "version": "1.0.0",
       "keywords": [
         "sales-conversion-enhancement",
@@ -672,7 +684,7 @@
     {
       "name": "revenue-leak-detector",
       "source": "./skills/analytics-data/revenue-leak-detector",
-      "description": "Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.",
+      "description": "Identifies and quantifies revenue leaks across the full customer lifecycle \u2014 from lead capture through renewal \u2014 using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.",
       "version": "1.0.0",
       "keywords": [
         "analytics-data",
@@ -683,7 +695,7 @@
     {
       "name": "strategic-simplicity-slayer",
       "source": "./skills/analytics-data/strategic-simplicity-slayer",
-      "description": "Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.",
+      "description": "Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks \u2014 replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.",
       "version": "1.0.0",
       "keywords": [
         "analytics-data",
@@ -694,7 +706,7 @@
     {
       "name": "revenue-compounding-map",
       "source": "./skills/analytics-data/revenue-compounding-map",
-      "description": "Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.",
+      "description": "Maps and quantifies revenue compounding dynamics across the business \u2014 identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.",
       "version": "1.0.0",
       "keywords": [
         "analytics-data",
@@ -771,7 +783,7 @@
     {
       "name": "celebrity-board-of-advisors",
       "source": "./skills/brand-thought-leadership/celebrity-board-of-advisors",
-      "description": "Constructs a virtual board of celebrity advisors — iconic thinkers, leaders, and cultural figures — whose distinct perspectives are applied to the user's brand strategy, content positioning, and thought leadership decisions.",
+      "description": "Constructs a virtual board of celebrity advisors \u2014 iconic thinkers, leaders, and cultural figures \u2014 whose distinct perspectives are applied to the user's brand strategy, content positioning, and thought leadership decisions.",
       "version": "1.0.0",
       "keywords": [
         "brand-thought-leadership",
@@ -793,7 +805,7 @@
     {
       "name": "flagship-idea-builder",
       "source": "./skills/brand-thought-leadership/flagship-idea-builder",
-      "description": "Develops a defensible flagship idea — the single strategic narrative that positions a brand as the category authority.",
+      "description": "Develops a defensible flagship idea \u2014 the single strategic narrative that positions a brand as the category authority.",
       "version": "1.0.0",
       "keywords": [
         "brand-thought-leadership",
@@ -804,7 +816,7 @@
     {
       "name": "differentiation-deep-dive",
       "source": "./skills/brand-thought-leadership/differentiation-deep-dive",
-      "description": "Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different.",
+      "description": "Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct \u2014 not just different, but defensibly different.",
       "version": "1.0.0",
       "keywords": [
         "brand-thought-leadership",
@@ -837,7 +849,7 @@
     {
       "name": "ascension-engine",
       "source": "./skills/customer-experience-retention-referrals/ascension-engine",
-      "description": "Designs and optimises customer value ascension pathways — systematically moving buyers from initial purchase through upsell, cross-sell, premium tier adoption, and advocacy/referral stages.",
+      "description": "Designs and optimises customer value ascension pathways \u2014 systematically moving buyers from initial purchase through upsell, cross-sell, premium tier adoption, and advocacy/referral stages.",
       "version": "1.0.0",
       "keywords": [
         "customer-experience-retention-referrals",
@@ -1013,7 +1025,7 @@
     {
       "name": "training-content-creator",
       "source": "./skills/operations-scale/training-content-creator",
-      "description": "Creates comprehensive training content — onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes — using FutureProof context to align with organisational voice, ICA needs, and team capability gaps.",
+      "description": "Creates comprehensive training content \u2014 onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes \u2014 using FutureProof context to align with organisational voice, ICA needs, and team capability gaps.",
       "version": "1.0.0",
       "keywords": [
         "operations-scale",
@@ -1178,7 +1190,7 @@
     {
       "name": "financial-report-writer",
       "source": "./skills/revenue-financial/financial-report-writer",
-      "description": "Generates comprehensive financial reports — investor updates, board packages, quarterly reviews, and management accounts — using FutureProof context to maintain consistency in formatting, KPI selection, and narrative tone across reporting periods.",
+      "description": "Generates comprehensive financial reports \u2014 investor updates, board packages, quarterly reviews, and management accounts \u2014 using FutureProof context to maintain consistency in formatting, KPI selection, and narrative tone across reporting periods.",
       "version": "1.0.0",
       "keywords": [
         "revenue-financial",
@@ -1310,7 +1322,7 @@
     {
       "name": "time-off-request",
       "source": "./skills/hr-people/time-off-request",
-      "description": "Guides employees and managers through the complete time-off request lifecycle — drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation.",
+      "description": "Guides employees and managers through the complete time-off request lifecycle \u2014 drafting requests, validating policy compliance, calculating coverage impact, and producing approval-ready documentation.",
       "version": "1.0.0",
       "keywords": [
         "hr-people",
@@ -1398,7 +1410,7 @@
     {
       "name": "personal-strategic-advisor",
       "source": "./skills/founder-decision-support-strategy/personal-strategic-advisor",
-      "description": "Serves as a seasoned strategic advisor for founders navigating high-stakes decisions — investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation trade-offs.",
+      "description": "Serves as a seasoned strategic advisor for founders navigating high-stakes decisions \u2014 investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation trade-offs.",
       "version": "1.0.0",
       "keywords": [
         "founder-decision-support-strategy",
@@ -1409,7 +1421,7 @@
     {
       "name": "whats-next-roadmap-navigator",
       "source": "./skills/founder-decision-support-strategy/whats-next-roadmap-navigator",
-      "description": "Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers — producing a sequenced, defensible action plan grounded in business context, resource constraints, and ICA impact.",
+      "description": "Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers \u2014 producing a sequenced, defensible action plan grounded in business context, resource constraints, and ICA impact.",
       "version": "1.0.0",
       "keywords": [
         "founder-decision-support-strategy",
@@ -1442,7 +1454,7 @@
     {
       "name": "pre-mortem-strategist",
       "source": "./skills/founder-decision-support-strategy/pre-mortem-strategist",
-      "description": "Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches — identifying failure modes, hidden dependencies, and mitigation strategies before commitment.",
+      "description": "Conducts rigorous pre-mortem analyses on strategic decisions, initiatives, and launches \u2014 identifying failure modes, hidden dependencies, and mitigation strategies before commitment.",
       "version": "1.0.0",
       "keywords": [
         "founder-decision-support-strategy",

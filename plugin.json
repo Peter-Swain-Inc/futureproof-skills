@@ -1,0 +1,12 @@
+{
+  "name": "futureproof",
+  "version": "1.0.0",
+  "description": "FutureProof MCP connector \u2014 persistent memory, context and research for all FutureProof skills",
+  "mcpServers": ".mcp.json",
+  "keywords": [
+    "futureproof",
+    "mcp",
+    "memory",
+    "context"
+  ]
+}
