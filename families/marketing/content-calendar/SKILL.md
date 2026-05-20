@@ -1,8 +1,15 @@
 ---
 name: content-calendar
 description: |
-  Builds strategically sequenced content calendars aligned to ICA journey stages, business objectives, and channel-specific best practices using FutureProof context.
-  Trigger: when a user asks to plan, build, or organise a content calendar, editorial schedule, or publishing cadence — or when they need to map content themes across weeks or months for one or more channels.
+  Builds a sequenced multi-channel content calendar mapped to ICA
+  awareness stages, content pillars and business objectives across a
+  defined planning horizon (weeks to quarters). Use when the user says
+  "build me a content calendar", "plan my next 90 days of content",
+  "map out an editorial schedule", or "what should I post each week".
+  For writing the actual posts use the platform-specific writers
+  (blog-post-writer, linkedin-post-writer, etc.); for splitting one
+  asset across channels use content-atomiser; this skill schedules
+  themes and cadence, not the copy itself.
 ---
 
 ## Step 1: Connect to FutureProof

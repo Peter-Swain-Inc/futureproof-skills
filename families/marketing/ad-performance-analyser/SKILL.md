@@ -1,8 +1,14 @@
 ---
-name: ad-performance-analyser
+name: ad-performance-analyzer
 description: |
-  Analyses paid media campaign performance across platforms and delivers actionable optimisation recommendations using FutureProof context.
-  Trigger: when a user shares ad campaign data, platform screenshots, media buying reports, or asks for help diagnosing underperforming ads, improving ROAS, or optimising ad spend allocation across channels.
+  Diagnoses why paid campaigns underperform across Meta, Google, LinkedIn
+  and TikTok using a six-lever framework (audience, creative, offer, bid,
+  placement, attribution) and outputs a prioritized optimization report.
+  Use when the user shares ad screenshots or platform exports and says
+  "why is my ROAS dropping", "diagnose this campaign", "my CPA is too
+  high", or "what should I fix in Meta Ads Manager". For deciding budget
+  splits use ad-budget-allocator; for designing the next A/B test use
+  ab-test-designer; this skill is the post-mortem on already-spent dollars.
 ---
 
 ## Step 1: Connect to FutureProof

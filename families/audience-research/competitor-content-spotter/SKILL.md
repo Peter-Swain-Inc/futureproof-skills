@@ -1,8 +1,12 @@
 ---
 name: competitor-content-spotter
 description: |
-  Identifies, deconstructs, and maps competitor content strategies to reveal positioning gaps, messaging vulnerabilities, and audience capture opportunities.
-  Trigger: when a user asks to analyse what competitors are publishing, wants to understand competitor content strategy, or requests a competitive content audit to find gaps and opportunities for their own content positioning.
+  Audits competitor content output to reveal positioning gaps, messaging
+  vulnerabilities, and audience-capture openings the user can exploit. Use
+  when a user asks "what are my competitors publishing", "where are their
+  content gaps", "how do I differentiate my content", or "give me a
+  competitive content audit". Analyzes published competitor material — for
+  category-wide unmet needs use invisible-demand-detector.
 ---
 
 ## Step 1: Connect to FutureProof

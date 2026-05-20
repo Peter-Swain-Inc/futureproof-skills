@@ -1,8 +1,15 @@
 ---
 name: customer-complaint-handler
 description: |
-  Analyses, triages, and resolves customer complaints using FutureProof context to deliver structured resolution plans, root cause analyses, and service recovery strategies.
-  Trigger: when a user shares a customer complaint, escalation ticket, negative feedback transcript, or support interaction and asks for help crafting a response, resolving the issue, or improving their complaint handling process.
+  Triages and resolves an individual customer complaint — classifying
+  severity, running 5-why root cause analysis, and drafting a HEART-
+  framework response plus internal escalation brief and service recovery
+  scorecard. Use when the user says "an angry customer just emailed me",
+  "help me reply to this complaint", "how do I respond to this escalation
+  ticket", "this customer is threatening to leave", or pastes a negative
+  support transcript. Reactive single-complaint resolution — not public
+  review replies (review-response-writer), nor portfolio-level churn
+  scoring (churn-risk-detector).
 ---
 
 ## Step 1: Connect to FutureProof

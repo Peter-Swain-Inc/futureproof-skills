@@ -1,8 +1,13 @@
 ---
 name: meeting-prep-engine
 description: |
-  Prepares comprehensive, context-rich meeting briefing packs that maximise outcome probability across sales calls, client reviews, board presentations, and strategic negotiations.
-  Trigger: when a user has an upcoming meeting and needs a prep brief, stakeholder dossier, or agenda strategy — or when they paste calendar details, meeting invites, or attendee lists and ask for preparation support.
+  Builds pre-meeting briefing packs with stakeholder dossiers, agenda
+  architecture, objection pre-emption, and contingency playbooks for
+  high-stakes sales calls, board reviews, and negotiations. Use when a
+  user says "prep me for tomorrow's pitch", "build a stakeholder dossier
+  for this board meeting", "I have a discovery call with X — help me
+  prepare", or pastes a calendar invite asking for prep support. For
+  pre-meeting preparation, not post-meeting summarisation.
 ---
 
 ## Step 1: Connect to FutureProof

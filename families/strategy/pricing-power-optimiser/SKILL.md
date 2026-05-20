@@ -1,8 +1,13 @@
 ---
-name: pricing-power-optimiser
+name: pricing-power-optimizer
 description: |
-  Analyses and strengthens pricing architecture, value-to-price alignment, and willingness-to-pay positioning using FutureProof context.
-  Trigger: when a user shares their pricing structure, rate card, or proposal pricing and asks for help increasing prices, reducing discounting, improving margins, or repositioning their offer to command premium fees.
+  Strengthens pricing power by diagnosing value, model, positioning, and
+  confidence gaps — then rebuilding the tier structure, value anchoring
+  copy, scope language, and price-presentation talk track to raise rates
+  and resist discounting. Use when a user says "help me raise my prices",
+  "I keep losing on price", "I always get discounted down", "justify
+  premium fees", or shares a rate card asking for an audit. For pricing
+  architecture, not value-stack design or full offer rewrites.
 ---
 
 ## Step 1: Connect to FutureProof

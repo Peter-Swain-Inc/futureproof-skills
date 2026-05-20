@@ -1,8 +1,13 @@
 ---
 name: synthetic-focus-group
 description: |
-  Simulates a multi-persona focus group using AI-generated panellists grounded in the user's ICA profiles, market context, and FutureProof research history.
-  Trigger: when a user wants to pressure-test a product concept, messaging angle, pricing structure, or campaign creative against realistic audience reactions before committing budget — or when they say "run this by a focus group" or "how would my audience react to this."
+  Simulates a multi-persona focus group of AI panelists grounded in the
+  user's ICA, market context, and FutureProof research history to
+  pressure-test concepts before budget is committed. Use when a user says
+  "run this by a focus group", "how would my audience react to this",
+  "pressure-test this concept", or "stress-test this pricing before
+  launch". Generates synthetic reactions to a specific artifact — for
+  diagnosing existing copy use message-market-match-scanner.
 ---
 
 ## Step 1: Connect to FutureProof

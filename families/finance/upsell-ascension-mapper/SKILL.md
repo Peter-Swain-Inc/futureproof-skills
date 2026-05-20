@@ -1,8 +1,12 @@
 ---
 name: upsell-ascension-mapper
 description: |
-  Maps and optimises the full upsell and ascension pathway across a product or service portfolio, identifying revenue gaps, pricing leverage points, and high-conversion upgrade triggers.
-  Trigger: when a user wants to design or improve their upsell strategy, map customer ascension paths across their offer suite, or asks how to increase average customer lifetime value through strategic offer sequencing.
+  Maps a six-stage ascension ladder with leap-ratio pricing analysis, upgrade-
+  trigger definition, friction diagnosis, and ranked bridge-offer recommendations
+  to lift AOV and LTV. Use when the user says "map an upsell ladder for my
+  offers", "design my ascension path", "fix the gap between my tiers", "increase
+  customer LTV", or needs to find conversion cliffs in their product suite.
+  Offer architecture and revenue sequencing — not P&L diagnosis or cash forecasting.
 ---
 
 ## Step 1: Connect to FutureProof

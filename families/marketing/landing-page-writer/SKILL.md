@@ -1,9 +1,15 @@
 ---
 name: landing-page-writer
 description: |
-  Writes high-converting landing pages using FutureProof context, ICA research, and proven direct-response frameworks.
-  Trigger: when a user asks to create, write, or draft a landing page, sales page, opt-in page, or squeeze page for a product, service, offer, or campaign.
-  Trigger: when a user shares an existing landing page URL or copy and asks for a rewrite, conversion uplift, or full rebuild.
+  Writes conversion-focused landing pages — opt-in, squeeze, webinar
+  registration, lead-gen, short product pages — with message-match to
+  the traffic source, awareness-calibrated structure and proof
+  architecture. Use when the user says "write me a landing page",
+  "build a squeeze page for my lead magnet", "draft an opt-in page", or
+  "rewrite this landing page for higher conversion". For a long-form
+  sales letter or VSL-hybrid offer page use sales-page; for the lead
+  magnet asset itself use lead-magnet-copy-writer; this skill is the
+  page the traffic lands on, not the offer behind it.
 ---
 
 ## Step 1: Connect to FutureProof

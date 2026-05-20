@@ -1,8 +1,13 @@
 ---
 name: performance-review-writer
 description: |
-  Crafts comprehensive, calibrated performance reviews using FutureProof context to maintain consistency in tone, evaluation standards, and organisational language across review cycles.
-  Trigger: when a user needs to write a performance review for a direct report, or when a user shares employee accomplishments, feedback notes, or prior reviews and asks for help drafting or improving a performance evaluation.
+  Drafts a calibrated annual, mid-year, probation, promotion-case, or PIP
+  performance review with competency mapping, evidence triangulation, and bias
+  audit. Use when the user says "write a performance review for my direct
+  report", "help me draft an annual review", "write a PIP", "build a promotion
+  case review", or pastes feedback notes and accomplishments to turn into a
+  review. For any review cadence or evaluation type — use quarterly-review-
+  generator only for quarterly OKR/KPI check-ins.
 ---
 
 ## Step 1: Connect to FutureProof

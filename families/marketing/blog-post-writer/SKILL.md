@@ -1,8 +1,14 @@
 ---
 name: blog-post-writer
 description: |
-  Crafts high-performing blog posts using FutureProof context, ICA research, and proven content frameworks.
-  Trigger: when a user asks to write, draft, or outline a blog post, article, or long-form content piece for their website or content marketing strategy.
+  Drafts a full long-form blog post or article with ICA-aligned hook,
+  structural framework (PAS, AIDA, Inverted Pyramid, Hub-and-Spoke,
+  StoryBridge), proof and CTA. Use when the user says "write me a blog
+  post about X", "draft an article on Y", "outline a long-form piece",
+  or "write a thought leadership article for my website". For optimizing
+  an existing post for search rankings use blog-seo-optimizer; for
+  splitting a finished post into social derivatives use content-atomiser;
+  for planning the editorial schedule use content-calendar.
 ---
 
 ## Step 1: Connect to FutureProof

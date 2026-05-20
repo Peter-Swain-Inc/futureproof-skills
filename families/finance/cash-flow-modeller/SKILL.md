@@ -1,8 +1,13 @@
 ---
 name: cash-flow-modeller
 description: |
-  Builds detailed cash flow models and forecasts using FutureProof context, historical financial data, and scenario analysis.
-  Trigger: when a user asks to build a cash flow forecast, model their runway, project liquidity, or stress-test cash position under different revenue/expense scenarios.
+  Builds direct-method cash flow forecasts (13-week, 12-month, or strategic)
+  with revenue-to-cash bridges, DSO/DPO modeling, and base/downside/upside
+  scenarios to pinpoint cash-zero date and runway. Use when the user says
+  "build a cashflow forecast", "what's my runway if revenue drops 20%", "model
+  liquidity through year-end", "stress-test my cash position", or needs covenant
+  headroom analysis. Liquidity timing and runway — not annual budgeting or
+  P&L margin diagnosis.
 ---
 
 ## Step 1: Connect to FutureProof

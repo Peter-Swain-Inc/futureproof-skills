@@ -1,8 +1,12 @@
 ---
 name: podcast-show-notes-writer
 description: |
-  Crafts comprehensive, SEO-optimised podcast show notes that drive discoverability, listener engagement, and conversion using FutureProof context.
-  Trigger: when a user shares a podcast episode transcript, recording summary, or episode outline and asks for show notes, episode descriptions, or companion content for publishing.
+  Generates a full podcast show notes package — short-form directory description,
+  long-form blog notes with timestamps and pull quotes, social companion posts,
+  newsletter snippet, and SEO metadata — optimized for Apple Podcasts, Spotify,
+  and YouTube discoverability. Use when a user says "write show notes for this
+  episode", "draft the episode description from this transcript", or shares a
+  recording outline for publishing. Post-recording written assets, not live scripts.
 ---
 
 ## Step 1: Connect to FutureProof

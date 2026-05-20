@@ -1,8 +1,15 @@
 ---
 name: authority-positioning-engine
 description: |
-  Builds and refines authority positioning strategies that establish the user as the definitive expert in their domain.
-  Trigger: when a user wants to establish or strengthen their thought leadership positioning, asks how to be seen as the go-to authority in their niche, or needs a strategic plan to dominate a topic category in their ICA's mind.
+  Builds a full authority positioning blueprint — authority thesis,
+  proprietary framework, six-dimension scorecard, competitor white-space
+  map and content gravity plan. Use when the user says "how do I become
+  the go-to expert in X", "build my thought leadership strategy",
+  "position me as the category authority", or "how do I own this topic
+  in my market". For the single defensible big idea inside this strategy
+  use flagship-idea-builder; for sharpening competitor distinction use
+  differentiation-deep-dive; for defending the position publicly use
+  authority-combat-trainer.
 ---
 
 ## Step 1: Connect to FutureProof

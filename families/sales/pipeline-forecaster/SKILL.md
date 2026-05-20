@@ -1,8 +1,13 @@
 ---
 name: pipeline-forecaster
 description: |
-  Analyses sales pipeline data to produce probability-weighted revenue forecasts, identifies at-risk deals, and recommends stage-specific acceleration plays using FutureProof context.
-  Trigger: when a user shares pipeline data, asks for a revenue forecast, requests deal-level risk analysis, or wants to predict quarterly/monthly close rates from their current pipeline.
+  Produces probability-weighted Commit, Best Case, and Upside revenue forecasts
+  from a CRM pipeline export, classifies every deal by risk tier, surfaces
+  stale or single-threaded deals, and prescribes acceleration plays for the
+  top movable opportunities. Use when a user says "forecast my quarter",
+  "what's my pipeline going to close", "which deals are at risk", or shares a
+  deal list and asks for a coverage and gap-to-target read. For forward-looking
+  forecasting, not retrospective win-loss analysis.
 ---
 
 ## Step 1: Connect to FutureProof

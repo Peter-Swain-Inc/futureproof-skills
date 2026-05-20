@@ -1,8 +1,15 @@
 ---
 name: ascension-engine
 description: |
-  Designs and optimises customer value ascension pathways — systematically moving buyers from initial purchase through upsell, cross-sell, premium tier adoption, and advocacy/referral stages.
-  Trigger: when a user wants to map out their customer ascension ladder, design post-purchase upsell sequences, reduce churn at tier transitions, or build a referral program tied to customer lifetime value milestones.
+  Designs end-to-end customer value ascension ladders that move buyers from
+  first purchase through upsell, cross-sell, premium tier adoption, and
+  advocacy, with quantified CLV modeling and stage-transition triggers. Use
+  when the user says "map my ascension ladder", "design a post-purchase
+  upsell sequence", "increase customer lifetime value", "fix tier transition
+  drop-off", or wants a referral program tied to CLV milestones. Covers the
+  full multi-stage ladder and economics — narrower siblings handle single
+  moments (referral-moment-generator) or single touchpoint sequences
+  (onboarding-email-sequence-writer).
 ---
 
 ## Step 1: Connect to FutureProof

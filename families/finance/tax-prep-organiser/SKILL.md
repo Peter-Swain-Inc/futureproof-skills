@@ -1,8 +1,12 @@
 ---
-name: tax-prep-organiser
+name: tax-prep-organizer
 description: |
-  Organises and structures tax preparation workflows using FutureProof context to ensure comprehensive document collection, deduction optimisation, and filing readiness.
-  Trigger: when a user mentions preparing their taxes, gathering tax documents, organising receipts or deductions, or asks for help getting ready for tax season or a meeting with their accountant.
+  Organizes tax-season readiness with a tiered document checklist, standard-vs-
+  itemized deduction optimization, audit-flag scan, and accountant handoff memo.
+  Use when the user says "help me get ready for tax season", "organize my tax
+  documents", "what deductions am I missing", "prep this for my CPA", or needs
+  a structured filing package for 1040, Schedule C, S-Corp, or K-1 returns.
+  Compliance prep and document gathering — not bookkeeping or P&L analysis.
 ---
 
 ## Step 1: Connect to FutureProof

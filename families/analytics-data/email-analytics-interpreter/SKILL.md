@@ -1,8 +1,14 @@
 ---
 name: email-analytics-interpreter
 description: |
-  Interprets email marketing analytics data and translates raw metrics into actionable strategic recommendations using FutureProof context.
-  Trigger: when a user shares email campaign performance data, ESP export reports, or asks for help understanding email metrics such as open rates, click-through rates, deliverability scores, or cohort engagement trends.
+  Translates raw ESP analytics (Klaviyo, Mailchimp, HubSpot, ActiveCampaign,
+  Sendgrid) into a diagnostic report covering deliverability, engagement,
+  conversion efficiency, list quality, and ICA resonance with priority actions.
+  Use when a user shares email campaign metrics or ESP exports and says things
+  like "what do these email numbers mean", "interpret this Klaviyo report",
+  "why did my open rate drop", or "diagnose my CTOR". Metric interpretation
+  of a single send or report — not full program gap analysis across the
+  lifecycle.
 ---
 
 ## Step 1: Connect to FutureProof

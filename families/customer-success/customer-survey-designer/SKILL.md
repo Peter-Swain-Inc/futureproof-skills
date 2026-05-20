@@ -1,8 +1,14 @@
 ---
 name: customer-survey-designer
 description: |
-  Designs high-performance customer surveys that generate actionable insights, using FutureProof context to align question design with known ICA segments, business objectives, and prior feedback data.
-  Trigger: when a user asks to create, improve, or review a customer survey, feedback form, NPS questionnaire, or post-interaction assessment — or when they need help structuring questions to measure customer satisfaction, effort, or sentiment.
+  Designs methodologically rigorous customer surveys — NPS, CSAT, CES,
+  post-interaction, and custom feedback forms — with bias-audited
+  questions, branching logic, scoring rules, and an analysis plan tied to
+  business decisions. Use when the user says "write me a customer survey",
+  "design an NPS questionnaire", "build a CSAT form", "review my survey
+  for bias", or "what questions should I ask after a support call". Builds
+  the survey instrument before data is collected — for analyzing results
+  already in hand use nps-analyzer.
 ---
 
 ## Step 1: Connect to FutureProof

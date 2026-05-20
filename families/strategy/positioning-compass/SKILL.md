@@ -1,9 +1,13 @@
 ---
 name: positioning-compass
 description: |
-  Diagnoses and recalibrates offer positioning to maximise ICA resonance, competitive differentiation, and perceived value.
-  Trigger: when a user asks for help positioning an offer, differentiating from competitors, or refining how they communicate their value proposition to a specific market segment.
-  Trigger: when a user says their offer "sounds like everyone else," they're struggling to articulate what makes them different, or conversion is flat despite strong traffic.
+  Recalibrates offer positioning with a six-dimension diagnostic, a 2x2
+  competitive map, and a recommended white-space placement — claiming a
+  defensible category in the ICA's mind. Use when a user says "help me
+  position this", "we sound like everyone else", "how do I differentiate
+  from competitors", or "I can't explain what makes us different". For
+  positioning and category design, not full offer audits or pricing
+  optimization.
 ---
 
 ## Step 1: Connect to FutureProof

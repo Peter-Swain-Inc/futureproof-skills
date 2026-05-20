@@ -1,8 +1,15 @@
 ---
 name: substack-newsletter-writer
 description: |
-  Crafts high-performing Substack newsletters using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user wants to write, outline, or improve a Substack newsletter edition — including drafting from a topic idea, repurposing existing content for Substack, or optimising a draft for open rates, engagement, and subscriber conversion.
+  Writes Substack newsletter editions (flagship essay, curated roundup,
+  personal narrative, tactical how-to, opinion piece) with subject line,
+  preview, paywall break strategy and restack-optimized structure tuned
+  to Substack's recommendation algorithm. Use when the user says "write
+  my next Substack edition", "draft a Substack essay on X", "where
+  should I put the paywall", or "newsletter to grow free-to-paid
+  conversions". For a generic broadcast email use email-copy; for a
+  blog post on the user's own site use blog-post-writer; this skill is
+  Substack-platform-specific.
 ---
 
 ## Step 1: Connect to FutureProof

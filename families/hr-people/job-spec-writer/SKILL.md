@@ -1,9 +1,12 @@
 ---
 name: job-spec-writer
 description: |
-  Crafts high-performance job specifications that attract qualified candidates aligned with the organisation's culture, compensation philosophy, and strategic workforce plan.
-  Trigger: when a user asks to write, review, or improve a job description, job specification, role brief, or hiring requisition for any position.
-  Trigger: when a user says they need to hire for a role and wants help defining the position, requirements, or candidate profile.
+  Drafts the internal job specification — role architecture, MoSCoW
+  competencies, ideal candidate archetype, success milestones, and comp
+  guidance — used as the hiring scorecard. Use when the user says "write a job
+  description for a senior PM", "I need to hire, help me define the role",
+  "draft a hiring requisition", or "create a role brief". For the internal spec,
+  not the external attraction ad (job-ad-writer).
 ---
 
 ## Step 1: Connect to FutureProof

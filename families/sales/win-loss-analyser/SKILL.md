@@ -1,8 +1,13 @@
 ---
-name: win-loss-analyser
+name: win-loss-analyzer
 description: |
-  Analyses closed deals (won and lost) to extract actionable patterns that improve future conversion rates using FutureProof context.
-  Trigger: when a user shares deal outcomes, CRM export data, or post-mortem notes and asks for win/loss analysis, deal pattern review, or pipeline forensics.
+  Analyzes closed-won and closed-lost deals to find the "kill zone" stage,
+  rank loss reasons, extract the signature of winning deals, map competitive
+  head-to-head win rates, and prescribe five prioritized fixes. Use when a
+  user says "why are we losing deals", "analyze our wins versus our losses",
+  "run a post-mortem on Q3 pipeline", or shares a CRM export of closed deals
+  asking for patterns. For retrospective forensics on completed deals, not
+  forecasting open pipeline.
 ---
 
 ## Step 1: Connect to FutureProof

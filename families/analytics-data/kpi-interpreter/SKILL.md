@@ -1,8 +1,15 @@
 ---
 name: kpi-interpreter
 description: |
-  Interprets KPI dashboards, metric reports, and performance data to surface actionable insights, diagnose root causes, and recommend strategic interventions.
-  Trigger: when a user shares a KPI dashboard, metric report, or performance dataset and asks for interpretation, diagnosis, or recommendations on what the numbers mean and what to do next.
+  Interprets any cross-functional KPI dashboard by classifying metrics into
+  North Star, leading, lagging, and diagnostic tiers, running trend, variance,
+  cohort, and signal-to-noise analysis, and producing a board-ready brief with
+  recommended actions. Use when a user shares a dashboard or metric report and
+  says things like "what does this dashboard mean", "interpret these numbers
+  for me", "help me figure out why these KPIs are off", or "explain this
+  metric report to leadership". Cross-functional KPI interpretation — not
+  channel-specific (GA4, email, social) and not focused solely on revenue
+  leakage.
 ---
 
 ## Step 1: Connect to FutureProof

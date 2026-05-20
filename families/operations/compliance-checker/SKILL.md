@@ -1,8 +1,13 @@
 ---
 name: compliance-checker
 description: |
-  Audits business operations, processes, and documentation against applicable regulatory frameworks, internal policies, and industry standards using FutureProof context to maintain institutional knowledge of the user's compliance posture over time.
-  Trigger: when a user shares a policy document, process workflow, vendor agreement, or operational description and asks for a compliance review, regulatory gap analysis, or audit readiness assessment.
+  Audits policies, workflows, and vendor agreements against regulatory
+  frameworks (GDPR, SOC 2, HIPAA, PCI DSS, ISO 27001, SOX, CCPA), producing
+  a risk-rated findings register and remediation roadmap. Use when a user
+  says "review this policy for GDPR compliance", "are we SOC 2 ready",
+  "audit our data handling against HIPAA", or "what are the compliance gaps
+  in this vendor contract". For regulatory gap analysis, not project-level
+  risk registers or vendor evaluation.
 ---
 
 ## Step 1: Connect to FutureProof

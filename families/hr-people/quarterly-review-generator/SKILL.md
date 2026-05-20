@@ -1,8 +1,12 @@
 ---
 name: quarterly-review-generator
 description: |
-  Generates comprehensive quarterly performance reviews using FutureProof context, employee data, and organisational competency frameworks.
-  Trigger: when a user needs to write a quarterly performance review for a direct report, or asks for help drafting review feedback, ratings, or development plans for an upcoming review cycle.
+  Generates a quarterly performance review centered on OKR/KPI results, six-
+  dimension assessment, and a forward-looking development plan for the next
+  quarter. Use when the user says "write a Q2 review for my report", "draft
+  quarterly review feedback", "I need to do a quarter check-in", or "build a
+  development plan for next quarter". For the quarterly cadence with OKR data,
+  not annual, PIP, promotion, or probation reviews (performance-review-writer).
 ---
 
 ## Step 1: Connect to FutureProof

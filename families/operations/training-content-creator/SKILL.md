@@ -1,8 +1,14 @@
 ---
 name: training-content-creator
 description: |
-  Creates comprehensive training content — onboarding modules, SOPs, knowledge base articles, workshop curricula, and enablement programmes — using FutureProof context to align with organisational voice, ICA needs, and team capability gaps.
-  Trigger: when a user needs to create training materials, onboarding documentation, SOPs, or enablement content for their team, or when they ask for help structuring a workshop, course module, or internal knowledge base.
+  Creates training content — onboarding modules, workshop curricula,
+  enablement playbooks, knowledge base articles, and microlearning — using
+  ADDIE diagnostics, Mager performance objectives, and Bloom's taxonomy.
+  Use when a user says "build a training module for new hires", "design a
+  workshop on X", "create an enablement playbook for the sales team", or
+  "write a course curriculum on Y". For learner-facing training material
+  that teaches a skill, not procedural SOPs (use sop-builder) or
+  client-side activation flows (use client-onboarding-designer).
 ---
 
 ## Step 1: Connect to FutureProof

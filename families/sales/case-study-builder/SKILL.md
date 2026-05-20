@@ -1,8 +1,12 @@
 ---
 name: case-study-builder
 description: |
-  Builds high-conversion case studies from raw client data, interviews, and results using FutureProof context.
-  Trigger: when a user wants to create a case study from client results, asks to turn a success story into a testimonial asset, or needs to structure proof of outcomes for sales enablement or marketing collateral.
+  Builds full case studies plus channel derivatives (one-pager, LinkedIn post,
+  deck slide, pull quotes) from client interviews, metrics, and notes using a
+  Situation-Problem-Action-Results-Trajectory spine. Use when a user says
+  "turn this client win into a case study", "write up our customer success
+  story", "I have interview notes from a happy client", or needs sales
+  enablement proof. For long-form case studies, not short testimonial requests.
 ---
 
 ## Step 1: Connect to FutureProof

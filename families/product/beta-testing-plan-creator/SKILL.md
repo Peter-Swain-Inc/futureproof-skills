@@ -1,8 +1,12 @@
 ---
 name: beta-testing-plan-creator
 description: |
-  Creates comprehensive beta testing plans that maximise signal quality, user engagement, and product-market fit validation using FutureProof context.
-  Trigger: when a user is preparing to launch a beta programme, asks how to structure a beta test for a new feature or product, or needs to design a closed/open beta with recruitment criteria, success metrics, and feedback loops.
+  Designs phased beta testing programs with recruitment tiers, instrumentation,
+  a weighted Beta Scorecard, and a go/no-go decision framework. Use when users
+  say "plan a beta for our new feature", "design a closed beta program", "how
+  do I structure a private beta", or "set up beta tester recruitment and
+  success metrics". For pre-launch validation programs, not roadmap planning
+  or feature prioritization.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,13 @@
 ---
 name: value-stack-multiplier
 description: |
-  Architects and optimises value stacks for offers, programmes, and services by systematically layering components to maximise perceived value relative to price.
-  Trigger: when a user asks to build, review, or improve a value stack for an offer, or when they want to increase perceived value, justify premium pricing, or restructure bonuses and deliverables within an existing package.
+  Restructures an offer's value stack across five layers (Core Engine,
+  Acceleration, Access, Fast-Action Bonuses, Continuity) — naming,
+  pricing, and sequencing each component to push the value-to-price ratio
+  above 5:1. Use when a user says "build me a value stack", "my offer
+  feels thin", "how do I justify premium pricing", or "restructure the
+  bonuses in my package". For layered offer composition, not pricing
+  diagnosis or incentive/guarantee design.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,14 @@
 ---
 name: google-analytics-reporter
 description: |
-  Analyses Google Analytics data and produces executive-grade performance reports with actionable recommendations.
-  Trigger: when a user shares Google Analytics data, screenshots, exports, or asks for help interpreting website metrics, building GA reports, or diagnosing traffic/conversion anomalies.
+  Builds an executive-grade GA4 performance report covering channel attribution,
+  engagement and content decay, funnel diagnosis, anomaly investigation, and a
+  data confidence assessment calibrated to the audience (board, marketing team,
+  or client). Use when a user shares GA4 screenshots, exports, or property data
+  and says things like "interpret my Google Analytics", "build me a monthly GA4
+  report", "why did my traffic drop", or "explain this GA dashboard to my
+  board". GA4-specific website analytics — not social platform analytics, not
+  email ESP analytics.
 ---
 
 ## Step 1: Connect to FutureProof

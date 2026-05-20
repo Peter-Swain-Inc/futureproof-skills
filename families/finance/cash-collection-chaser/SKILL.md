@@ -1,8 +1,12 @@
 ---
 name: cash-collection-chaser
 description: |
-  Generates and manages structured cash collection chase sequences to accelerate receivables recovery and reduce DSO.
-  Trigger: when a user has overdue invoices, aged receivables, or outstanding payments and asks for help drafting collection communications, prioritising debtor follow-ups, or building a systematic chase cadence.
+  Designs multi-stage debtor chase cadences with priority matrices, escalation
+  decision trees, and ready-to-send collection emails to accelerate receivables
+  and reduce DSO. Use when the user says "chase overdue invoices", "my aged
+  debtors are blowing out", "write a collection email", "how do I get this
+  client to pay", or asks for a structured follow-up sequence on outstanding
+  payments. Recovery from existing debtors — not invoice creation or forecasting.
 ---
 
 ## Step 1: Connect to FutureProof

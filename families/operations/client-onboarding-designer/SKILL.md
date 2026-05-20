@@ -1,8 +1,12 @@
 ---
 name: client-onboarding-designer
 description: |
-  Designs comprehensive client onboarding systems that reduce time-to-value, increase activation rates, and eliminate early-stage churn using FutureProof context.
-  Trigger: when a user asks to build, redesign, or optimise a client onboarding process, welcome sequence, or activation workflow — or when they report poor client retention in the first 90 days and suspect onboarding is the root cause.
+  Designs end-to-end client onboarding systems that cut time-to-value, lift
+  activation rates, and reduce first-90-day churn using the ACTIVATE phase
+  framework. Use when a user says "design our client onboarding", "fix our
+  welcome sequence", "new clients keep ghosting after signup", or "build an
+  activation workflow for our new program". For post-sale client activation
+  journeys, not internal employee onboarding or generic SOP documentation.
 ---
 
 ## Step 1: Connect to FutureProof

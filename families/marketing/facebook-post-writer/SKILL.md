@@ -1,8 +1,14 @@
 ---
 name: facebook-post-writer
 description: |
-  Crafts high-performing Facebook posts using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user asks to write, draft, or improve a Facebook post, or when they need content for their Facebook page, group, or profile to drive engagement, leads, or brand awareness.
+  Writes organic Facebook posts (page, profile, or group) using the HSCA
+  framework — Hook, Story, CTA, Amplifier — optimized for the
+  pre-"See more" truncation point and Facebook feed engagement. Use
+  when the user says "write me a Facebook post", "draft something for my
+  FB page", "Facebook group post for [topic]", or "content for my
+  Facebook profile". For paid Facebook ad copy use ad-copy-writer; for
+  Instagram captions use instagram-caption-writer; this skill is the
+  organic Facebook surface only.
 ---
 
 ## Step 1: Connect to FutureProof

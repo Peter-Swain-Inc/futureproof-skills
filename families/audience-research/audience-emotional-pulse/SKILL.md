@@ -1,8 +1,13 @@
 ---
 name: audience-emotional-pulse
 description: |
-  Maps the real-time emotional landscape of a target audience segment — surfacing dominant fears, aspirations, frustrations, and identity narratives that drive decision-making beneath rational justification.
-  Trigger: when a user wants to understand the emotional drivers behind their audience's behaviour, asks "what does my audience actually feel about [topic/problem]", or needs to craft messaging that resonates at an emotional level before a campaign, launch, or repositioning effort.
+  Maps the live emotional terrain of an audience segment — layered fears,
+  aspirations, frustrations, and identity narratives that drive decisions
+  beneath rational justification. Use when a user asks "what does my
+  audience actually feel about X", "what are their real fears", or "why
+  isn't my messaging landing emotionally" before a campaign or launch.
+  Focuses on emotional drivers of an existing segment — for foundational
+  ICA definition use ica-mirror.
 ---
 
 ## Step 1: Connect to FutureProof

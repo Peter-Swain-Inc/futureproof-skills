@@ -1,8 +1,14 @@
 ---
 name: youtube-script-description-writer
 description: |
-  Crafts high-performing YouTube video scripts and optimised descriptions using FutureProof context, audience intelligence, and platform-specific best practices.
-  Trigger: when a user wants to write a YouTube video script, needs a YouTube description optimised for search and conversions, or asks for help structuring a video outline with hooks, retention beats, and CTAs.
+  Writes long-form YouTube video scripts with five-act retention
+  architecture, hook, retention beats and CTAs, plus the SEO-optimized
+  YouTube description, chapters and tags. Use when the user says "write
+  me a YouTube script", "draft a YouTube description for SEO",
+  "10-minute talking-head video script", or "script and description for
+  this tutorial". For short-form TikTok use tiktok-script-writer; for
+  Instagram Reel captions use instagram-caption-writer; this skill
+  covers long-form YouTube video and its description metadata.
 ---
 
 ## Step 1: Connect to FutureProof

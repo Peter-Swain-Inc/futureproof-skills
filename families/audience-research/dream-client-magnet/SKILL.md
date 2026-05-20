@@ -1,8 +1,13 @@
 ---
 name: dream-client-magnet
 description: |
-  Identifies, profiles, and builds attraction strategies for a user's highest-value dream clients using deep psychographic research, watering hole analysis, and magnetic positioning.
-  Trigger: when a user wants to identify who their dream clients are, asks how to attract higher-quality leads, or needs a detailed ideal client profile with acquisition strategy.
+  Profiles a user's highest-value dream clients and builds a magnetic
+  attraction strategy using psychographic depth, watering-hole mapping, and
+  positioning hooks. Use when a user asks "who are my dream clients", "how
+  do I attract higher-quality leads", "where do my best-fit buyers hang
+  out", or "build me a premium client profile". Targets the top tier of an
+  existing audience — for broad ICA definition use ica-mirror, for finding
+  entirely new segments use audience-expansion.
 ---
 
 ## Step 1: Connect to FutureProof

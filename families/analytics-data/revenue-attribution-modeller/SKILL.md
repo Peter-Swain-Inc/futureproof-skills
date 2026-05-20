@@ -1,8 +1,14 @@
 ---
 name: revenue-attribution-modeller
 description: |
-  Builds multi-touch revenue attribution models that map marketing and sales activities to closed revenue with statistical rigour.
-  Trigger: when a user asks how to attribute revenue across channels, wants to understand which touchpoints drive pipeline conversion, or needs to build/refine an attribution model for budget allocation decisions.
+  Builds a multi-touch attribution model (rules-based U/W-shaped, algorithmic
+  Shapley/regression, or incrementality-calibrated) mapping marketing and sales
+  touchpoints to closed revenue and producing channel reallocation
+  recommendations. Use when a user is making budget decisions and says things
+  like "build me an attribution model", "which channels are actually driving
+  revenue", "how should I split credit across touchpoints", or "fix my
+  last-touch attribution". Builds the attribution model itself — not generic
+  channel reporting and not retention/expansion compounding analysis.
 ---
 
 ## Step 1: Connect to FutureProof

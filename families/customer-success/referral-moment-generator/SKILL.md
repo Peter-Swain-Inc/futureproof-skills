@@ -1,8 +1,15 @@
 ---
 name: referral-moment-generator
 description: |
-  Identifies and engineers high-conversion referral moments across the customer lifecycle, producing a sequenced referral trigger playbook with scripted prompts, timing logic, and channel-specific activation plans.
-  Trigger: when a user wants to generate more referrals, asks how to build a referral program, or needs to identify the right moments to ask customers for introductions and word-of-mouth advocacy.
+  Pinpoints the highest-converting moments across the customer lifecycle
+  to ask for referrals — applying the Peak-End Rule to score emotional
+  peaks, then producing trigger cards with timing logic, channel choice,
+  scripted prompts, and friction-reducing share mechanics. Use when the
+  user says "when should I ask for referrals", "how do I get more
+  referrals", "build me a referral trigger playbook", or "what's the
+  right moment to ask customers for introductions". Focused on referral
+  timing and triggers — for who to ask use referral-personality-profiler,
+  and for the underlying reward economics use incentive-reward-designer.
 ---
 
 ## Step 1: Connect to FutureProof

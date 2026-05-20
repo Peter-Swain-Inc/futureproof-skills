@@ -1,8 +1,13 @@
 ---
 name: vendor-supplier-evaluator
 description: |
-  Evaluates and scores vendors and suppliers using a weighted multi-criteria framework informed by FutureProof context.
-  Trigger: when a user needs to assess, compare, or shortlist vendors/suppliers for a procurement decision, or when they share RFP responses, supplier proposals, or vendor scorecards and ask for evaluation, risk analysis, or selection recommendations.
+  Evaluates and scores vendors or suppliers using an 8-dimension weighted
+  multi-criteria decision analysis (MCDA) covering TCO, technical fit,
+  reliability, risk, and viability. Use when a user says "help me evaluate
+  these RFP responses", "compare these three SaaS vendors", "score this
+  supplier proposal", or "shortlist vendors for our procurement". For
+  vendor selection and procurement decisions, not ongoing vendor SLA
+  monitoring or regulatory compliance audits (use compliance-checker).
 ---
 
 ## Step 1: Connect to FutureProof

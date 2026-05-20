@@ -1,8 +1,12 @@
 ---
 name: conversion-narrative-engineer
 description: |
-  Engineers high-converting narrative arcs for sales pages, landing pages, email sequences, and funnel copy by mapping psychological triggers to ICA decision journeys.
-  Trigger: when a user wants to build or restructure conversion copy for a landing page, sales page, or email sequence, or when they ask for help crafting a narrative arc that moves their ICA from awareness to purchase.
+  Writes long-form conversion copy — sales pages, landing pages, VSL scripts,
+  email sequences — using a Tension-Mechanism-Resolution arc with sequenced
+  objection handling and tiered proof placement. Use when a user says "write
+  me a sales page for...", "rewrite my landing page copy", "draft a VSL
+  script", or shares an underperforming sales asset and asks for a narrative
+  rebuild. For written conversion copy, not call scripts or funnel diagnostics.
 ---
 
 ## Step 1: Connect to FutureProof

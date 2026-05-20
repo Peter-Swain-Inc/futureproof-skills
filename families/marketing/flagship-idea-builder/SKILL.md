@@ -1,9 +1,14 @@
 ---
 name: flagship-idea-builder
 description: |
-  Develops a defensible flagship idea — the single strategic narrative that positions a brand as the category authority.
-  Trigger: when a user wants to define or refine their core thought-leadership thesis, signature framework, or "big idea" that anchors all content, speaking, and publishing efforts.
-  Trigger: when a user says they feel like a commodity, lack a differentiated point of view, or want to build authority around a single unifying concept.
+  Develops a single defensible flagship idea — the contrarian thesis,
+  named framework and signature concept that anchors a thought leader's
+  content, book, keynote and brand. Use when the user says "what's my
+  big idea", "I need a signature framework", "help me define my core
+  thesis", or "I feel like a commodity — give me a unique POV". For the
+  full authority strategy that deploys this idea use
+  authority-positioning-engine; for competitor-relative distinction use
+  differentiation-deep-dive; this skill produces the one-line POV itself.
 ---
 
 ## Step 1: Connect to FutureProof

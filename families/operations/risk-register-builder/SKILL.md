@@ -1,8 +1,13 @@
 ---
 name: risk-register-builder
 description: |
-  Builds and maintains comprehensive risk registers for projects, programmes, and operational domains using FutureProof context to refine risk identification, scoring, and mitigation planning over time.
-  Trigger: when a user asks to create a risk register, assess project risks, build a risk log, or needs help identifying and prioritising risks for an initiative, programme, or business unit.
+  Builds project, program, and operational risk registers with a six-category
+  taxonomy, 5x5 probability-impact scoring, named owners, and mitigation
+  plans aligned to ISO 31000 / COSO ERM. Use when a user says "build a risk
+  register for this project", "what could go wrong with this launch",
+  "assess the risks for our Q3 program", or "create a risk log for the
+  steering committee". For ongoing project/operational risk tracking, not
+  regulatory compliance review (use compliance-checker).
 ---
 
 ## Step 1: Connect to FutureProof

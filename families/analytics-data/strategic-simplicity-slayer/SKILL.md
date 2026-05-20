@@ -1,8 +1,14 @@
 ---
 name: strategic-simplicity-slayer
 description: |
-  Identifies and eliminates unnecessary complexity in business strategies, operating models, product portfolios, and decision frameworks — replacing convoluted approaches with high-leverage, streamlined alternatives backed by data.
-  Trigger: when a user shares a strategy document, business model, product roadmap, or decision framework and asks to simplify it, reduce complexity, find what to cut, or identify where over-engineering is destroying value.
+  Audits a strategy doc, operating model, product roadmap, or decision framework
+  across six complexity dimensions (Pareto value, interdependency risk, ICA
+  clarity, decision velocity, duplication tax, strategic coherence) and
+  delivers a kill list plus a one-page simplified strategy. Use when a user
+  shares a strategy artefact and says things like "simplify this strategy",
+  "what should I cut", "this roadmap has too many priorities", or "find the
+  over-engineering in this operating model". Complexity reduction on a
+  strategic artefact — not quantitative analytics or metric interpretation.
 ---
 
 ## Step 1: Connect to FutureProof

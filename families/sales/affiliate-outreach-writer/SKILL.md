@@ -1,8 +1,12 @@
 ---
 name: affiliate-outreach-writer
 description: |
-  Crafts high-converting affiliate recruitment and activation outreach sequences using FutureProof context.
-  Trigger: when a user needs to write outreach emails, DMs, or messages to recruit affiliates, JV partners, or referral partners — or when a user shares existing affiliate outreach that is underperforming and asks for improvement.
+  Writes affiliate, JV, and referral partner recruitment outreach sequences
+  calibrated to channel, relationship temperature, and partner motivation.
+  Use when a user says "recruit affiliates for my product", "write me a JV
+  outreach email", "DM script to pitch a creator partnership", or shares
+  underperforming partner outreach and asks for a rewrite. For recruiting new
+  promotional partners, not following up with existing prospects or customers.
 ---
 
 ## Step 1: Connect to FutureProof

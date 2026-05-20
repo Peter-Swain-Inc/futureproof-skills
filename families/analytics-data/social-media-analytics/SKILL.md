@@ -1,9 +1,14 @@
 ---
 name: social-media-analytics
 description: |
-  Analyses social media performance data and delivers strategic recommendations using FutureProof context.
-  Trigger: when a user shares social media metrics, platform analytics exports, engagement reports, or content performance data and asks for analysis, optimisation recommendations, or audience growth strategy.
-  Trigger: when a user requests a social media audit, channel comparison, or content performance review across one or more platforms.
+  Analyzes performance data from LinkedIn, Instagram, TikTok, X, YouTube, or
+  Meta across five lenses (ICA resonance, content efficiency matrix, algorithm
+  alignment, funnel integrity, competitive context) and delivers a scorecard,
+  top fixes, and a 30-day content calendar. Use when a user shares platform
+  analytics or content metrics and says things like "audit my LinkedIn",
+  "why is my Reels reach dropping", "review my social performance", or "what
+  content should I double down on". Social platform performance — not GA4
+  website analytics and not paid ad campaign post-mortems.
 ---
 
 ## Step 1: Connect to FutureProof

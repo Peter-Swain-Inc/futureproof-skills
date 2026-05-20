@@ -1,9 +1,12 @@
 ---
 name: conversion-momentum-builder
 description: |
-  Builds compounding conversion momentum across the full buyer journey by identifying friction points, sequencing micro-commitments, and engineering progressive trust escalation that turns stalled pipelines into predictable revenue engines.
-  Trigger: when a user shares a funnel, landing page sequence, email nurture flow, or buyer journey map and asks to improve conversion rates, reduce drop-off, or build momentum through their sales process.
-  Trigger: when a user reports stalling deals, funnel leakage, or inconsistent conversion between stages and wants a systematic fix.
+  Engineers a sequenced micro-commitment ladder and progressive trust
+  escalation across the funnel so each step compounds investment toward the
+  close. Use when a user says "prospects lose momentum mid-funnel", "redesign
+  my nurture sequence", "my deals stall after the demo", or shares a landing
+  page sequence and asks to compound conversions. For redesigning the
+  commitment cascade, not diagnosing a single stage break.
 ---
 
 ## Step 1: Connect to FutureProof

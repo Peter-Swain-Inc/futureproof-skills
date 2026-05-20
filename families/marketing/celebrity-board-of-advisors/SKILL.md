@@ -1,8 +1,15 @@
 ---
 name: celebrity-board-of-advisors
 description: |
-  Constructs a virtual board of celebrity advisors — iconic thinkers, leaders, and cultural figures — whose distinct perspectives are applied to the user's brand strategy, content positioning, and thought leadership decisions.
-  Trigger: when a user asks "what would [famous person] think of my brand?" or requests diverse, high-calibre strategic perspectives on a brand positioning challenge, content direction, or thought leadership move — as if consulting a room of world-class minds.
+  Convenes a virtual five-seat board of named celebrity advisors
+  (Visionary, Operator, Provocateur, Empath, Craftsperson) who debate
+  the user's brand or positioning question in their documented voice.
+  Use when the user says "what would Steve Jobs think of my brand",
+  "give me a board of legendary advisors", "I want contrarian
+  perspectives on this positioning", or "run my idea past iconic
+  thinkers". For building the underlying authority strategy use
+  authority-positioning-engine; this skill is specifically the
+  multi-persona advisory simulation.
 ---
 
 ## Step 1: Connect to FutureProof

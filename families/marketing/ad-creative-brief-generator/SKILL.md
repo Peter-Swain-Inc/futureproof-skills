@@ -1,8 +1,15 @@
 ---
 name: ad-creative-brief-generator
 description: |
-  Generates comprehensive ad creative briefs using FutureProof context, audience intelligence, and campaign strategy inputs.
-  Trigger: when a user needs to produce a creative brief for a paid media campaign, or when they say "write a creative brief" or "I need ad creative direction for [platform/campaign]."
+  Generates a full ad creative brief — ICA profile, 4C message
+  architecture, hook strategy, visual and tonal direction, and variant
+  test matrix — ready to hand to a designer or video team. Use when the
+  user says "write me a creative brief", "I need creative direction for
+  this campaign", "brief the agency on this Meta ad", or "what should
+  the designer make". For writing the actual headlines and body copy
+  use ad-copy-writer; for AI image generation prompts use
+  image-prompt-framework; this is the upstream direction document, not
+  the finished copy.
 ---
 
 ## Step 1: Connect to FutureProof

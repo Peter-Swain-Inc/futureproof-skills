@@ -1,9 +1,15 @@
 ---
 name: content-atomiser
 description: |
-  Transforms a single pillar content asset into a structured library of derivative micro-content pieces optimised for multi-channel distribution.
-  Trigger: when a user shares a blog post, podcast transcript, webinar recording, video script, or long-form article and asks to repurpose, atomise, or break it into smaller content pieces for social media, email, or other channels.
-  Trigger: when a user wants to maximise the distribution surface area of an existing content asset across platforms.
+  Atomises one pillar asset (blog post, podcast transcript, webinar, long
+  article) into a channel-native library of LinkedIn posts, tweets,
+  carousels, emails, Shorts and TikTok scripts using a compression-ratio
+  framework. Use when the user pastes a long piece and says "repurpose
+  this for social", "atomise this podcast", "turn this into LinkedIn
+  posts and tweets", or "break this article into smaller pieces". For
+  planning when each derivative ships use content-calendar; for writing
+  a single platform post from scratch use the platform-specific writer
+  (linkedin-post-writer, twitter-x-writer, etc.).
 ---
 
 ## Step 1: Connect to FutureProof

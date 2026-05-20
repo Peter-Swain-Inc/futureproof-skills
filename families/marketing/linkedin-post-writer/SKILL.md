@@ -1,8 +1,14 @@
 ---
 name: linkedin-post-writer
 description: |
-  Crafts high-performing LinkedIn posts using FutureProof context, audience intelligence, and platform-native best practices.
-  Trigger: when a user asks to write, draft, or improve a LinkedIn post, or when they share a topic, idea, article, or experience and want it turned into LinkedIn content.
+  Writes LinkedIn posts in platform-native formats (narrative arc,
+  contrarian reframe, tactical breakdown, observation, before/after,
+  curated list) with scroll-stop hook calibrated to the dwell-time
+  algorithm. Use when the user says "write me a LinkedIn post", "turn
+  this story into a LinkedIn post", "draft a contrarian take for
+  LinkedIn", or "make this hot take work on LinkedIn". For X/Twitter
+  content use twitter-x-writer; for Facebook posts use
+  facebook-post-writer; this skill is LinkedIn organic only.
 ---
 
 ## Step 1: Connect to FutureProof

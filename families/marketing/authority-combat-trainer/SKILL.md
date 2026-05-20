@@ -1,8 +1,15 @@
 ---
 name: authority-combat-trainer
 description: |
-  Trains subject-matter experts and authority figures to defend their positions, handle hostile questioning, and dominate adversarial conversations through structured combat drills and pressure-tested response frameworks.
-  Trigger: when a user wants to prepare for a hostile interview, panel debate, boardroom challenge, or adversarial Q&A — or when they share a position paper, thesis, or controversial stance and ask for stress-testing, objection drilling, or debate preparation.
+  Stress-tests a user's position with a threat matrix, combat response
+  cards, pre-emptive strikes and live adversarial drills for hostile
+  interviews, panels and boardroom challenges. Use when the user says
+  "prep me for a hostile podcast", "I'm being challenged on this
+  thesis", "drill me on objections", or "help me handle adversarial
+  Q&A". For building the underlying authority strategy from scratch use
+  authority-positioning-engine; for sharpening the core thesis itself
+  use flagship-idea-builder; this skill defends an existing position
+  under fire.
 ---
 
 ## Step 1: Connect to FutureProof

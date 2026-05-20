@@ -1,8 +1,12 @@
 ---
 name: invisible-trends-forecaster
 description: |
-  Identifies emerging, under-the-radar audience trends before they reach mainstream awareness by analysing weak signals across behavioural data, cultural shifts, and niche community sentiment.
-  Trigger: when a user asks to identify emerging trends in their market, wants to spot what their audience will care about next, or requests a forecast of shifting audience behaviours and preferences before competitors catch on.
+  Forecasts under-the-radar audience trends before they hit mainstream by
+  analyzing weak signals across behavioral data, cultural shifts, and
+  niche community sentiment. Use when a user asks "what trends are
+  emerging", "what will my audience care about next", "spot the next shift
+  before competitors", or "where is audience behavior heading". Forecasts
+  future shifts — for present unmet needs use invisible-demand-detector.
 ---
 
 ## Step 1: Connect to FutureProof

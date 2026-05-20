@@ -1,8 +1,14 @@
 ---
 name: lead-magnet-copy-writer
 description: |
-  Writes high-converting lead magnet copy using FutureProof context, ICA research, and proven direct-response frameworks.
-  Trigger: when a user asks to create, write, or improve copy for a lead magnet — such as a PDF guide, checklist, cheat sheet, email course, quiz, or gated resource — or when a user wants to increase opt-in conversion rates on an existing lead magnet.
+  Writes the lead magnet itself — title, hook, body and structure for
+  PDF guides, checklists, cheat sheets, swipe files, email courses,
+  quizzes, templates and toolkits — plus the pain-desire matrix that
+  shapes it. Use when the user says "write me a lead magnet", "draft a
+  PDF guide on X", "create a checklist for my opt-in", or "make a cheat
+  sheet to capture emails". For the opt-in landing page that delivers it
+  use landing-page-writer; for the nurture sequence after opt-in use
+  email-sequencer; this skill produces the gated asset content.
 ---
 
 ## Step 1: Connect to FutureProof

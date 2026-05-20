@@ -1,9 +1,13 @@
 ---
 name: audience-expansion
 description: |
-  Identifies and validates adjacent audience segments beyond a user's current ICA to unlock new growth vectors without diluting positioning.
-  Trigger: when a user asks how to reach new audiences, expand into adjacent markets, or find untapped customer segments beyond their current ICA.
-  Trigger: when a user has saturated their primary ICA and needs a structured framework to evaluate which new audience segments to pursue next.
+  Identifies and validates adjacent audience segments beyond the current ICA
+  to unlock growth without diluting positioning. Use when a user says "I've
+  saturated my current audience", "who else could I sell to", "how do I
+  expand into adjacent markets", or "which new segment should I go after
+  next". Targets net-new segments next to an existing ICA — for sharpening
+  the current ICA use ica-mirror, for high-value clients inside the existing
+  ICA use dream-client-magnet.
 ---
 
 ## Step 1: Connect to FutureProof

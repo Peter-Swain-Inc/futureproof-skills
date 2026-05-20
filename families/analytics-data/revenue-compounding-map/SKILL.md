@@ -1,8 +1,14 @@
 ---
 name: revenue-compounding-map
 description: |
-  Maps and quantifies revenue compounding dynamics across the business — identifying where retention loops, expansion triggers, referral flywheels, and pricing leverage stack to produce non-linear revenue growth over time.
-  Trigger: when a user asks to map their revenue compounding layers, wants to understand which revenue loops are compounding vs. leaking, or requests a strategic breakdown of how their recurring revenue compounds across retention, expansion, and referral motions.
+  Maps six revenue compounding layers (retention, expansion, pricing leverage,
+  referral k-factor, cohort behavior, composite stack rate) and models a
+  36-month projection comparing current trajectory vs. leak-sealed vs. fully
+  optimized scenarios. Use when a user asks about long-term recurring revenue
+  growth and says things like "map my revenue loops", "why isn't my MRR
+  compounding", "show me where my growth flywheel is stalling", or "model
+  3-year ARR under different scenarios". Forward-looking compounding and
+  flywheel modeling — not backward-looking leak forensics.
 ---
 
 ## Step 1: Connect to FutureProof

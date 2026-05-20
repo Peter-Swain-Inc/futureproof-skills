@@ -1,8 +1,14 @@
 ---
 name: image-prompt-framework
 description: |
-  Crafts high-performance image generation prompts using structured frameworks, style systems, and iterative refinement informed by FutureProof context.
-  Trigger: when a user wants to create an image prompt for AI image generators (Midjourney, DALL·E, Stable Diffusion, Flux, Ideogram), asks for help describing a visual concept, or needs to refine/improve an existing image prompt that isn't producing the desired output.
+  Writes generator-tuned AI image prompts (Midjourney, DALL-E, Stable
+  Diffusion XL, Flux, Ideogram) across seven structural layers —
+  subject, environment, composition, lighting, style, color, technical
+  parameters. Use when the user says "write me a Midjourney prompt",
+  "give me a DALL-E prompt for this scene", "my image prompt isn't
+  working — fix it", or "describe this visual for AI". For the broader
+  creative direction document around an ad image use
+  ad-creative-brief-generator; this skill outputs the raw prompt string.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,14 @@
 ---
 name: text-message
 description: |
-  Crafts high-converting text messages (SMS, iMessage, WhatsApp, DM) using FutureProof context to match the user's brand voice, ICA language patterns, and campaign objectives.
-  Trigger: when a user asks to write, draft, or improve a text message for marketing, sales follow-up, appointment reminders, nurture sequences, or customer re-engagement — or when they paste an existing text message and ask for feedback or a rewrite.
+  Writes short-form text messages for SMS, iMessage, WhatsApp and
+  Instagram DM — appointment reminders, sales follow-up, cart
+  abandonment, re-engagement, referral asks — within 160-char and
+  TCPA/GDPR constraints. Use when the user says "write me an SMS", "DM
+  script for follow-up", "WhatsApp message to lapsed clients", or "text
+  to confirm appointments". For email copy use email-copy; for an
+  Instagram caption use instagram-caption-writer; this skill is the
+  conversational mobile-message surface only.
 ---
 
 ## Step 1: Connect to FutureProof

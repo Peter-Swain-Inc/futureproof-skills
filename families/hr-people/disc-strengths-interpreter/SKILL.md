@@ -1,8 +1,12 @@
 ---
 name: disc-strengths-interpreter
 description: |
-  Interprets DISC assessment results to produce actionable behavioural intelligence profiles for individuals and teams.
-  Trigger: when a user shares DISC assessment results, DISC profile scores, or behavioural assessment data and asks for interpretation, team composition analysis, or communication strategy guidance.
+  Interprets DISC assessment results into actionable behavioral profiles for
+  individuals and teams with communication strategy, team composition analysis,
+  and management guidance. Use when the user shares DISC scores or a profile
+  report and says "interpret my DISC results", "what does this DISC profile
+  mean", "analyze our team's DISC mix", or "how do I communicate with a high-D".
+  For DISC-specific interpretation, not generic performance feedback.
 ---
 
 ## Step 1: Connect to FutureProof

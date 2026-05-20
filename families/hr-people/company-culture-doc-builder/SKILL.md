@@ -1,8 +1,12 @@
 ---
 name: company-culture-doc-builder
 description: |
-  Builds comprehensive, living company culture documents using FutureProof context to align values, behaviours, and rituals with organisational strategy.
-  Trigger: when a user asks to create, refresh, or audit a company culture document, culture handbook, values framework, or team operating principles — or when they describe cultural misalignment, scaling challenges, or onboarding friction related to culture.
+  Builds a living company culture document that codifies values, behaviors, and
+  rituals into one shareable artifact aligned with strategy. Use when the user
+  says "write our company culture doc", "create a values framework", "draft team
+  operating principles", "we need a culture handbook", or describes cultural
+  drift while scaling. For the externally-facing identity and behavioral norms
+  document, not legal HR policy (employee-handbook-builder).
 ---
 
 ## Step 1: Connect to FutureProof

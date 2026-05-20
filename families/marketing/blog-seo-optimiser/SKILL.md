@@ -1,8 +1,14 @@
 ---
-name: blog-seo-optimiser
+name: blog-seo-optimizer
 description: |
-  Analyses and optimises blog content for search engine performance using FutureProof context, accumulated keyword research, and iterative ranking experiments.
-  Trigger: when a user shares a blog post draft, published URL, or content brief and asks for SEO improvements, keyword optimisation, or help increasing organic search visibility.
+  Audits and rewrites a blog post for SEO across ten weighted ranking
+  dimensions — title tag, meta, headings, keyword placement, semantic
+  depth, internal linking, E-E-A-T and content depth. Use when the user
+  pastes a draft or URL and says "optimize this for SEO", "improve my
+  Google rankings", "rewrite this to rank for [keyword]", or "why isn't
+  this post ranking". For writing the post from scratch use
+  blog-post-writer; for repurposing it into social posts use
+  content-atomiser; this skill operates on an existing draft or URL.
 ---
 
 ## Step 1: Connect to FutureProof

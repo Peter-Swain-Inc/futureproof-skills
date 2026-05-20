@@ -1,8 +1,15 @@
 ---
 name: onboarding-email-sequence-writer
 description: |
-  Crafts high-conversion onboarding email sequences that activate new users, reduce time-to-value, and prevent early-stage churn using FutureProof context.
-  Trigger: when a user asks to create, review, or improve an onboarding email sequence, welcome email series, or new-customer nurture campaign for a product or service.
+  Writes complete onboarding email sequences mapped to the activation
+  milestone — welcome, quick-win catalyst, setup shepherd, social proof,
+  activation nudge — with behavioral triggers, segmentation logic, and
+  copy ready to drop into Customer.io, Klaviyo, HubSpot, or ActiveCampaign.
+  Use when the user says "write me an onboarding email sequence", "build
+  a welcome series", "create a new-customer nurture for [product]",
+  "reduce trial drop-off", or "improve activation". Email-channel
+  onboarding specifically — for full multi-channel post-purchase
+  experience design use post-sale-delight-engineer.
 ---
 
 ## Step 1: Connect to FutureProof

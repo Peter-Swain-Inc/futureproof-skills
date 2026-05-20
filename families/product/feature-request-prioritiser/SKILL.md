@@ -1,8 +1,12 @@
 ---
-name: feature-request-prioritiser
+name: feature-request-prioritizer
 description: |
-  Prioritises and scores inbound feature requests against strategic product goals, ICA value drivers, and resource constraints using a weighted multi-criteria framework.
-  Trigger: when a user shares a backlog of feature requests, customer feedback themes, or a product roadmap and asks for help prioritising, ranking, or deciding what to build next.
+  Scores and ranks inbound feature requests using the PRISM model (Revenue,
+  ICA-fit, Simplicity, Moat, Velocity), then buckets them into P0/P1/P2/P3
+  tiers with decline scripts and risk flags. Use when users say "prioritize
+  my backlog", "what should we build next", "rank these feature requests",
+  or "help me decide what to ship". For ranking an existing request pool,
+  not building a time-phased roadmap or comparing competitors.
 ---
 
 ## Step 1: Connect to FutureProof

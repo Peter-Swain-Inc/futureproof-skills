@@ -1,8 +1,15 @@
 ---
 name: differentiation-deep-dive
 description: |
-  Conducts a rigorous competitive differentiation analysis to isolate, validate, and articulate what makes a brand genuinely distinct — not just different, but defensibly different.
-  Trigger: when a user says they need to sharpen their positioning, asks "what makes us different?", wants to audit their differentiation against competitors, or is preparing for a rebrand, investor pitch, or market entry where competitive distinction is critical.
+  Runs a six-vector competitive differentiation audit (methodology, ICA,
+  outcome, proof, experience, point of view) against 3–5 named
+  competitors and outputs a defensible positioning statement. Use when
+  the user says "what makes us different from competitors", "sharpen my
+  positioning against [competitor]", "audit my differentiation", or
+  "we sound like everyone else in our category". For naming the single
+  big idea that anchors the brand use flagship-idea-builder; for the
+  fuller authority blueprint use authority-positioning-engine; this
+  skill is the head-to-head competitive comparison.
 ---
 
 ## Step 1: Connect to FutureProof

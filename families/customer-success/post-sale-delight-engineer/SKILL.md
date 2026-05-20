@@ -1,9 +1,16 @@
 ---
 name: post-sale-delight-engineer
 description: |
-  Designs and optimises post-purchase customer delight systems that transform buyers into loyal advocates and active referral sources.
-  Trigger: when a user wants to improve their post-sale experience, reduce churn, increase customer lifetime value, or build a referral engine from existing customers.
-  Trigger: when a user says they're losing customers after purchase, getting poor reviews, lacking referrals, or wants to create an onboarding/wow sequence for new buyers.
+  Designs the full post-purchase delight system across the five emotional
+  phases (purchase validation through advocacy activation, day 0–90+) —
+  auditing every touchpoint, closing experience gaps, and engineering
+  surprise-and-delight interventions across CRM, email, community, and
+  support. Use when the user says "fix my post-sale experience", "we're
+  losing customers right after they buy", "build a wow sequence", "turn
+  buyers into advocates", or "design our customer journey post-purchase".
+  Multi-channel full-arc experience design — not single-channel email
+  (onboarding-email-sequence-writer) or quantitative ladder modeling
+  (ascension-engine).
 ---
 
 ## Step 1: Connect to FutureProof

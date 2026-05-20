@@ -1,8 +1,15 @@
 ---
 name: terms-conditions-drafter
 description: |
-  Drafts, reviews, and refines Terms & Conditions documents using FutureProof context to align with the user's business model, jurisdiction, risk profile, and ICA expectations.
-  Trigger: when a user asks to create, review, or update terms and conditions, terms of service, or website/app legal terms for their product, platform, or service offering.
+  Drafts publication-ready Terms & Conditions and Terms of Service across
+  a 16-clause architecture covering acceptance mechanism, fees and auto-
+  renewal, AUP, liability caps, arbitration, and class-action waivers,
+  with an enforceability and risk scorecard. Use when a user says "draft
+  terms of service for my SaaS", "write T&Cs for my marketplace", "help
+  me write terms of service for my mobile app", or "update our website
+  terms". For ToS/T&Cs of the user's own product, not privacy disclosures
+  (see privacy-policy-generator) or review of inbound contracts (see
+  contract-review-assistant). Informational guidance, not legal advice.
 ---
 
 ## Step 1: Connect to FutureProof

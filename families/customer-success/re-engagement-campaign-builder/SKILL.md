@@ -1,8 +1,15 @@
 ---
 name: re-engagement-campaign-builder
 description: |
-  Builds structured, multi-channel re-engagement campaigns to win back lapsed customers, dormant subscribers, and churned accounts using FutureProof context.
-  Trigger: when a user asks to create a win-back campaign, re-engage inactive customers, or reduce churn by targeting lapsed segments with tailored outreach sequences.
+  Builds multi-channel win-back campaigns for lapsed, dormant, and churned
+  customers — segmenting by recency-value-recoverability, mapping churn
+  drivers to messaging architecture, and scripting a 5-phase cadence
+  across email, SMS, push, and retargeting. Use when the user says "win
+  back churned customers", "build a re-engagement campaign", "create a
+  dormant subscriber sequence", "we have 10k inactive users — what do we
+  send", or "draft a comeback offer". Targets customers who already left
+  or went silent — for preventing churn before it happens use
+  churn-risk-detector.
 ---
 
 ## Step 1: Connect to FutureProof

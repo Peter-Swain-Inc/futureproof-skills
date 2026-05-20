@@ -1,8 +1,13 @@
 ---
 name: candidate-screening-scorer
 description: |
-  Screens and scores job candidates against role-specific criteria using structured evaluation methodology and FutureProof context.
-  Trigger: when a user shares a resume, CV, candidate profile, or application materials and asks for screening, scoring, evaluation, or fit assessment against a role; or when a user wants to build or refine a candidate scoring rubric for an open position.
+  Screens and scores job candidates against a role with a calibrated six-dimension
+  rubric, weighted composite score, and advance/hold/decline recommendation. Use
+  when the user says "screen this resume", "score this candidate", "evaluate this
+  CV against the role", "rank this shortlist", or "build me a scoring rubric for
+  this position". For evaluating existing candidates against a role, not writing
+  the role itself (job-spec-writer) or generating interview questions
+  (interview-question-generator).
 ---
 
 ## Step 1: Connect to FutureProof

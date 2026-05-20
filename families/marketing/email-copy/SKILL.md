@@ -1,8 +1,15 @@
 ---
 name: email-copy
 description: |
-  Crafts high-converting email copy across the full lifecycle — cold outreach, nurture sequences, launches, re-engagement, and transactional emails — using FutureProof context to align messaging with the user's ICA, brand voice, and proven performance data.
-  Trigger: when a user asks to write, review, or optimise an email (or email sequence), or when they share existing email copy and request improvements to open rates, click-through rates, or conversions.
+  Writes a single high-converting email with subject-line battery,
+  preview text, body and CTA across types (cold outreach, launch,
+  nurture, re-engagement, cart abandonment, transactional). Use when
+  the user says "write me a cold outreach email", "draft a launch
+  email", "rewrite this email to lift open rates", or "fix the CTA on
+  this email". For a multi-step drip or nurture series use
+  email-sequencer; for SMS or DM messages use text-message; for a
+  Substack-format newsletter use substack-newsletter-writer. This skill
+  is one email at a time.
 ---
 
 ## Step 1: Connect to FutureProof

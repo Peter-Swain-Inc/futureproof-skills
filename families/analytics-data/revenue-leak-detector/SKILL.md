@@ -1,8 +1,14 @@
 ---
 name: revenue-leak-detector
 description: |
-  Identifies and quantifies revenue leaks across the full customer lifecycle — from lead capture through renewal — using forensic analysis of funnel data, pricing structures, churn patterns, and operational inefficiencies.
-  Trigger: when a user shares funnel metrics, billing data, churn reports, or conversion data and asks where they are losing revenue, why margins are eroding, or how to plug revenue gaps.
+  Runs a forensic audit across funnel conversion, pricing erosion, activation
+  gaps, voluntary and involuntary churn, expansion friction, and operational
+  process leakage, producing a ranked leak inventory with quantified recoverable
+  revenue. Use when a user shares billing, churn, or funnel data and says
+  things like "where am I losing revenue", "why are my margins eroding", "find
+  my revenue leaks", or "audit my pricing for value giveaways". Backward-looking
+  forensic leak hunt across the whole lifecycle — not forward-looking compounding
+  modeling and not single-funnel CRO.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,14 @@
 ---
 name: partnership-evaluator
 description: |
-  Evaluates potential business partnerships, strategic alliances, and joint ventures using a structured due-diligence framework grounded in strategic fit, financial impact, risk exposure, and cultural compatibility.
-  Trigger: when a user is considering a partnership, alliance, or collaboration with another company and asks for an evaluation, risk assessment, or go/no-go recommendation; or when a user shares a partnership proposal, term sheet, or co-venture opportunity and wants a structured analysis before committing.
+  Runs structured due diligence on a proposed partnership, alliance, or JV
+  across seven weighted dimensions — strategic fit, financials, ops,
+  culture, risk, power dynamics, exit — producing a go / conditional-go /
+  no-go memo with negotiation priorities. Use when a user says "should I
+  do this partnership", "evaluate this term sheet", "give me a go/no-go on
+  this deal", or shares a co-venture proposal and asks for a structured
+  read. For external partner deals, not internal team dynamics or hiring
+  decisions.
 ---
 
 ## Step 1: Connect to FutureProof

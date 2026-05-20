@@ -1,8 +1,12 @@
 ---
 name: company-newsletter-writer
 description: |
-  Crafts high-impact internal and external company newsletters using FutureProof context, brand voice, and audience intelligence.
-  Trigger: when a user asks to write, draft, or improve a company newsletter, internal update, or recurring stakeholder communication — or when they share newsletter content for editing, restructuring, or tone alignment.
+  Drafts high-impact recurring company newsletters for employees, customers, investors,
+  or partners using the RIPPLE framework, ICA segmentation, and brand voice from
+  FutureProof context. Use when a user says "write our monthly newsletter", "draft
+  the company update", "improve this newsletter draft", or asks for subject lines
+  and preview text for a recurring stakeholder email. For ongoing periodic editions,
+  not one-off press releases or single executive memos.
 ---
 
 ## Step 1: Connect to FutureProof

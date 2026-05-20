@@ -1,8 +1,12 @@
 ---
-name: pl-analyser
+name: pl-analyzer
 description: |
-  Analyses profit and loss statements to surface margin risks, revenue concentration issues, and operational cost inefficiencies using FutureProof context.
-  Trigger: when a user shares a P&L statement, income statement, or management accounts and asks for analysis, margin review, variance explanation, or profitability diagnosis.
+  Diagnoses P&L statements across revenue quality, gross margin, opex
+  efficiency, EBITDA bridge, cash profit integrity, and variance anomalies,
+  delivering a scorecard and ranked critical findings. Use when the user says
+  "review my P&L", "why did margin drop", "analyze these management accounts",
+  "explain this variance", or "what's wrong with my profitability". Backward-
+  looking diagnostic on actuals — not budget creation or forward forecasting.
 ---
 
 ## Step 1: Connect to FutureProof

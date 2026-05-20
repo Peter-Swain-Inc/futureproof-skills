@@ -1,8 +1,14 @@
 ---
 name: thought-reversal-architect
 description: |
-  Deconstructs a prospect's existing beliefs, assumptions, and mental models about their problem — then engineers a strategic belief-reversal sequence that repositions the user's offer as the only logical conclusion.
-  Trigger: when a user wants to reframe how their ICA thinks about a problem, challenge conventional wisdom in their market, or build a "what you've been told is wrong" narrative arc for a sales page, webinar, or content campaign.
+  Engineers a five-phase belief-reversal sequence (Validate / Anomaly /
+  Expose Assumption / Install New Belief / Bridge to Offer) that makes the
+  user's offer the inevitable conclusion of the prospect's new worldview.
+  Use when a user says "build me a 'what you've been told is wrong'
+  narrative", "reframe how my ICA thinks about this", "challenge the
+  conventional wisdom in my market", or needs a webinar/VSL belief arc.
+  For sales-conversion belief reversal, not authority thought leadership
+  content.
 ---
 
 ## Step 1: Connect to FutureProof

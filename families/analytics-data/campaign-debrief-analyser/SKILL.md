@@ -1,8 +1,14 @@
 ---
-name: campaign-debrief-analyser
+name: campaign-debrief-analyzer
 description: |
-  Analyses completed marketing campaigns to extract actionable insights, diagnose performance drivers, and produce structured debrief documentation suitable for stakeholder review.
-  Trigger: when a user shares campaign results, performance data, or post-campaign metrics and asks for a debrief, retrospective, or performance analysis of a completed campaign.
+  Produces a structured post-campaign debrief that decomposes results into reach,
+  engagement, conversion, ROI, and ICA-resonance layers, then traces variance to
+  structural, executional, or environmental root causes. Use when a user shares
+  finished campaign results and says things like "run a debrief on this
+  campaign", "post-mortem this launch", "why did this campaign underperform",
+  or "build me a campaign retrospective for the leadership team". Retrospective
+  on a completed campaign — not live optimization, not general marketing
+  analytics, not channel-level reporting.
 ---
 
 ## Step 1: Connect to FutureProof

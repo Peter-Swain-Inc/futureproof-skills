@@ -1,8 +1,13 @@
 ---
 name: reluctant-buyer-decoder
 description: |
-  Decodes the psychological barriers, hidden objections, and decision-avoidance patterns of reluctant buyers to produce actionable conversion strategies.
-  Trigger: when a user describes prospects who go silent, stall at proposal stage, or consistently fail to convert despite expressing interest — or when a user asks why qualified leads aren't buying, how to overcome buyer hesitation, or how to re-engage prospects stuck in pipeline limbo.
+  Decodes the psychological barriers, hidden objections, and avoidance
+  patterns of reluctant buyers and produces specific conversion plays to
+  unstick them. Use when a user says "qualified leads keep going silent",
+  "prospects stall at proposal stage", "why aren't interested leads
+  buying", or "re-engage prospects stuck in pipeline limbo". Targets
+  late-stage stalled buyers — for upstream copy issues use
+  message-market-match-scanner.
 ---
 
 ## Step 1: Connect to FutureProof

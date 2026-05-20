@@ -1,8 +1,15 @@
 ---
 name: churn-risk-detector
 description: |
-  Analyses customer data, behavioural signals, and account health indicators to identify at-risk accounts and produce actionable retention interventions.
-  Trigger: when a user shares customer usage data, support ticket histories, account health metrics, or NPS/CSAT scores and asks for churn risk assessment, retention strategy, or early-warning analysis.
+  Diagnoses at-risk accounts from usage logs, support tickets, NPS/CSAT,
+  and renewal data using a six-pillar risk framework, then produces ranked
+  account risk registers, signal detail cards, and sequenced retention
+  interventions. Use when the user says "which customers are about to
+  churn", "score my book of business for churn risk", "my renewal numbers
+  look bad", "flag at-risk accounts", or shares usage data and asks for
+  early-warning analysis. Proactive predictive scoring of a portfolio —
+  not single-customer save-the-sale work (customer-complaint-handler) or
+  lapsed-customer outreach (re-engagement-campaign-builder).
 ---
 
 ## Step 1: Connect to FutureProof

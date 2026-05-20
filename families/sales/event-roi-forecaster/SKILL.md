@@ -1,8 +1,13 @@
 ---
 name: event-roi-forecaster
 description: |
-  Forecasts and optimises the return on investment for events — conferences, trade shows, webinars, executive dinners, field activations, and sponsorships — using financial modelling, pipeline attribution, and FutureProof context.
-  Trigger: when a user is evaluating whether to sponsor, attend, or host an event and needs an ROI projection; or when a user wants to build a post-event ROI analysis comparing forecasted vs. actual returns.
+  Builds pre-event and post-event ROI models for trade shows, conference
+  sponsorships, hosted dinners, webinars, and field activations with cost
+  rollup, funnel waterfall, three-attribution scenarios, sensitivity ranges,
+  and break-even thresholds. Use when a user says "should we sponsor this
+  conference", "model the ROI of attending [event]", "was our trade show
+  worth it", or asks for a payback analysis on event spend. For event-channel
+  economics specifically, not general pipeline forecasting.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,14 @@
 ---
 name: sop-builder
 description: |
-  Builds comprehensive, audit-ready Standard Operating Procedures from raw process knowledge, tribal expertise, or existing informal documentation.
-  Trigger: when a user describes a business process they need documented, asks to create or improve an SOP, or shares rough process notes/workflows and needs them formalised into a repeatable, trainable procedure.
+  Builds audit-ready Standard Operating Procedures from tribal knowledge,
+  Loom recordings, or rough notes using SIPOC+ decomposition, RACI step
+  ownership, exception handling, and escalation matrices. Use when a user
+  says "document this process as an SOP", "turn this Loom into a written
+  procedure", "we need a repeatable runbook for X", or "formalize how our
+  team does Y". For process documentation that codifies how work is done,
+  not training learners (use training-content-creator) or analyzing waste
+  (use process-improvement-analyzer).
 ---
 
 ## Step 1: Connect to FutureProof

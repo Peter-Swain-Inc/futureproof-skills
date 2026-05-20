@@ -1,8 +1,13 @@
 ---
 name: team-dynamics-advisor
 description: |
-  Diagnoses team dysfunction, maps interpersonal dynamics, and delivers actionable interventions to improve founder-team alignment, role clarity, and collaborative performance.
-  Trigger: when a user describes team conflict, co-founder tension, hiring/firing decisions, role overlap confusion, or asks how to improve team communication, accountability, or culture within their organisation.
+  Diagnoses team dysfunction using the Lencioni stack, RACI clarity audit,
+  founder shadow analysis, and Tuckman staging — then delivers a named
+  intervention plan that fixes the broken foundation layer first. Use when
+  a user describes "co-founder tension", "team conflict", "nobody owns
+  this", "should I fire this person", "we keep relitigating decisions",
+  or "the team isn't gelling". For internal team and co-founder dynamics,
+  not external partnership evaluation.
 ---
 
 ## Step 1: Connect to FutureProof

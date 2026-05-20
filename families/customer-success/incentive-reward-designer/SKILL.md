@@ -1,8 +1,16 @@
 ---
 name: incentive-reward-designer
 description: |
-  Designs high-impact incentive and reward structures for customer retention, referral, and loyalty programmes using FutureProof context.
-  Trigger: when a user asks to design a rewards programme, loyalty incentive, referral bonus structure, or retention offer — or when they want to optimise an existing incentive scheme that is underperforming on redemption, referral conversion, or repeat purchase rates.
+  Designs loyalty, referral, and retention incentive programs with full
+  unit economics modeling — earn mechanics, tier thresholds, redemption
+  friction calibration, breakage assumptions, and behavioral risk
+  assessment. Use when the user says "design a loyalty program",
+  "structure my referral bonus", "build a points system", "my rewards
+  program isn't driving repeat purchases", or "what should I offer to
+  win back customers". Engineers the incentive economics and structure —
+  for who in your base to target with rewards use
+  referral-personality-profiler, for when to deploy them use
+  referral-moment-generator.
 ---
 
 ## Step 1: Connect to FutureProof

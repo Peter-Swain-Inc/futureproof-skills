@@ -1,8 +1,14 @@
 ---
-name: nps-analyser
+name: nps-analyzer
 description: |
-  Analyses Net Promoter Score data, verbatim responses, and trend patterns to surface actionable drivers of loyalty and churn risk using FutureProof context.
-  Trigger: when a user shares NPS survey results, verbatim feedback exports, or score distributions and asks for analysis, driver identification, or improvement recommendations.
+  Analyzes existing Net Promoter Score data — scores, verbatim comments,
+  segment cuts, and trends — to compute statistical confidence, code
+  themes, build a driver impact matrix, and surface actionable loyalty
+  and churn-risk insights. Use when the user pastes NPS results and says
+  "what does my NPS data tell me", "code the verbatims", "why is my NPS
+  dropping", "build a board-ready NPS report", or "find drivers behind
+  our detractors". Analyzes survey results already collected — for
+  designing the survey instrument itself use customer-survey-designer.
 ---
 
 ## Step 1: Connect to FutureProof

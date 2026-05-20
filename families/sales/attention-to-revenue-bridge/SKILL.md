@@ -1,8 +1,12 @@
 ---
 name: attention-to-revenue-bridge
 description: |
-  Maps the complete journey from initial audience attention capture through to closed revenue, identifying leakage points, conversion friction, and monetisation gaps across every stage of the engagement-to-purchase pipeline.
-  Trigger: when a user says "I'm getting attention but not converting it to sales," shares traffic/engagement metrics alongside underwhelming revenue figures, or asks why their content/audience growth isn't translating into purchases, pipeline, or booked calls.
+  Diagnoses why audience attention is not converting to revenue by mapping the
+  six-stage bridge from impressions to collected payment, ranking broken stages
+  by revenue impact. Use when a user says "I have traffic but no sales", "my
+  followers aren't buying", "why isn't my audience converting", or shares high
+  engagement metrics alongside flat revenue. For top-of-funnel-to-revenue
+  diagnosis across the full journey, not single-stage funnel optimization.
 ---
 
 ## Step 1: Connect to FutureProof

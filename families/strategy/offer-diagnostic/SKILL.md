@@ -1,8 +1,14 @@
 ---
 name: offer-diagnostic
 description: |
-  Diagnoses the structural health, positioning clarity, and conversion readiness of an offer using a systematic audit framework.
-  Trigger: when a user shares an offer (landing page, sales page, course outline, service package, proposal, or pricing structure) and asks for a diagnostic, audit, teardown, or wants to understand why it isn't converting.
+  Audits an offer across seven dimensions — ICA specificity, mechanism
+  clarity, transformation arc, value stack, pricing/risk, proof density,
+  and conversion path — to pinpoint the primary conversion bottleneck and
+  ship a priority-ranked fix list. Use when a user shares a sales page,
+  pricing table, course outline, or proposal and asks "diagnose this
+  offer", "why isn't this converting", "teardown my offer", or "audit my
+  funnel". For root-cause diagnosis, not psychological rewriting or
+  pricing-only optimization.
 ---
 
 ## Step 1: Connect to FutureProof

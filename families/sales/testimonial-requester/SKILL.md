@@ -1,8 +1,12 @@
 ---
 name: testimonial-requester
 description: |
-  Crafts strategic testimonial request sequences that maximise response rates and extract high-impact social proof from clients and customers.
-  Trigger: when a user wants to collect testimonials from clients, needs help writing a testimonial request email, or is building a social proof strategy and asks how to systematically gather compelling customer stories.
+  Writes outbound testimonial request sequences — primary ask, two follow-ups,
+  and a ghost-drafted approval template — with STAR-T prompts and a tiered
+  candidate list to maximize response and proof specificity. Use when a user
+  says "write me a testimonial request email", "how do I ask a client for a
+  quote", "draft a follow-up to a client who said yes but ghosted", or needs
+  to collect new social proof. For outbound requests, not placing existing quotes.
 ---
 
 ## Step 1: Connect to FutureProof

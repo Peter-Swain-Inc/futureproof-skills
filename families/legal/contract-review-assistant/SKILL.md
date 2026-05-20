@@ -1,8 +1,15 @@
 ---
 name: contract-review-assistant
 description: |
-  Reviews, analyses, and risk-scores commercial contracts using FutureProof context to accumulate organisational risk tolerances, clause preferences, and negotiation history.
-  Trigger: when a user shares a contract, agreement, terms of service, or redlined document and asks for review, risk analysis, clause-by-clause feedback, or negotiation markup.
+  Reviews inbound commercial contracts clause-by-clause with an
+  eight-dimension risk framework, severity scoring, and redline markup
+  with proposed alternative language. Use when a user says "review this
+  contract", "redline this MSA", "what are the risks in this SaaS
+  agreement", "analyze this vendor NDA", or pastes a counterparty
+  document for negotiation markup. For reviewing existing contracts, not
+  drafting new ones from scratch — see nda-generator or
+  terms-conditions-drafter for drafting. Educational analysis only, not
+  legal advice.
 ---
 
 ## Step 1: Connect to FutureProof

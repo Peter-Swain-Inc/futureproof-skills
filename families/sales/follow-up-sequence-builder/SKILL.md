@@ -1,8 +1,12 @@
 ---
 name: follow-up-sequence-builder
 description: |
-  Builds high-conversion follow-up sequences using FutureProof context, behavioural timing science, and ICA-specific messaging frameworks.
-  Trigger: when a user needs to create a follow-up email/message sequence after a sales call, demo, webinar, proposal, or event — or when they say "build me a follow-up sequence" or "I need a nurture cadence for prospects who went cold."
+  Writes multi-touch follow-up cadences after a triggering interaction —
+  post-demo, post-proposal, post-webinar, ghosted prospect, stalled deal —
+  with timing, channel alternation, conditional branches, and per-touch copy.
+  Use when a user says "build me a follow-up sequence", "draft a post-demo
+  nurture", "what do I send a prospect who went cold", or "the proposal is
+  sitting unsigned". For nurturing existing prospects, not cold outbound.
 ---
 
 ## Step 1: Connect to FutureProof

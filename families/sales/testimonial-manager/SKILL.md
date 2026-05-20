@@ -1,8 +1,12 @@
 ---
 name: testimonial-manager
 description: |
-  Collects, structures, optimises, and strategically deploys customer testimonials and social proof assets using FutureProof context.
-  Trigger: when a user wants to gather testimonials from customers, organise existing social proof, improve weak testimonials, or decide where and how to place testimonials for maximum conversion impact.
+  Runs the full testimonial lifecycle — collect, audit, optimize, deploy —
+  scoring each quote on the S.T.O.R.Y. framework, rewriting weak ones, and
+  mapping each testimonial to its highest-impact touchpoint. Use when a user
+  says "improve this weak testimonial", "where should I place customer quotes
+  on my sales page", "audit my testimonial portfolio", or wants an end-to-end
+  social proof program. For lifecycle management, not just a request email.
 ---
 
 ## Step 1: Connect to FutureProof

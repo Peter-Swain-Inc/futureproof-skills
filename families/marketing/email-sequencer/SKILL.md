@@ -1,8 +1,14 @@
 ---
 name: email-sequencer
 description: |
-  Designs, writes, and optimises multi-step email sequences using FutureProof context, ICA intelligence, and proven persuasion architecture.
-  Trigger: when a user asks to create an email sequence, drip campaign, nurture series, or follow-up cadence — or shares an existing sequence for review, optimisation, or rewrite.
+  Designs and writes a full multi-step email sequence with per-email
+  awareness-stage mapping, persuasion lever, objection handled, cadence
+  and narrative thread for nurture, onboarding, launch or re-engagement
+  flows. Use when the user says "build me a nurture sequence", "write a
+  5-email drip campaign", "design a welcome series", or "follow-up
+  cadence after opt-in". For one standalone email use email-copy; for
+  the landing page that feeds the sequence use landing-page-writer;
+  this skill is specifically about the multi-email arc.
 ---
 
 ## Step 1: Connect to FutureProof

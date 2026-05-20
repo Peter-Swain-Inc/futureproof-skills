@@ -1,8 +1,14 @@
 ---
 name: ad-copy-variation
 description: |
-  Generates high-performing ad copy variations across platforms, audiences, and angles using FutureProof context to refine messaging over time.
-  Trigger: when a user needs multiple ad copy versions for a campaign, asks for fresh angles on existing ad creative, or wants to A/B test ad messaging across segments or platforms.
+  Generates structured ad copy variation packs across multiple angles,
+  hooks, ICA segments and platforms from existing source ad copy or a
+  brief. Use when the user says "give me 10 versions of this ad", "I
+  need fresh angles on this creative", "rewrite this ad for a different
+  audience", or "I want variations to A/B test". For writing a single
+  primary ad set from scratch use ad-copy-writer; for the test plan that
+  decides how variants compete use ab-test-designer; this skill is
+  specifically about producing the variation matrix.
 ---
 
 ## Step 1: Connect to FutureProof

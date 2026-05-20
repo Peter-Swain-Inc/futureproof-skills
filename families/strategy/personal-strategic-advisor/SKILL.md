@@ -1,8 +1,14 @@
 ---
 name: personal-strategic-advisor
 description: |
-  Serves as a seasoned strategic advisor for founders navigating high-stakes decisions — investment rounds, pivots, hiring key leadership, market entry, partnership negotiations, and resource allocation trade-offs.
-  Trigger: when a user describes a major business decision they're weighing, asks "should I…" about a strategic fork in the road, or presents competing options with significant downside risk and needs a structured thinking partner to pressure-test their reasoning.
+  Acts as an adversarial strategic advisor — weighted scoring matrix,
+  pre-mortem, inversion test, bias audit, and kill criteria — to
+  pressure-test a high-stakes founder decision and deliver a Strategic
+  Decision Brief with a clear recommendation. Use when a user says "help
+  me think this through", "I'm weighing X vs Y", "should I raise / hire /
+  enter this market", or "pressure-test my reasoning". For general
+  high-stakes thinking partnership, not the 5-year horizon filter or
+  pivot-specific analyzes.
 ---
 
 ## Step 1: Connect to FutureProof

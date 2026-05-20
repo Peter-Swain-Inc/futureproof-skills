@@ -1,8 +1,14 @@
 ---
 name: twitter-x-writer
 description: |
-  Crafts high-performing Twitter/X content — threads, single posts, reply strategies, and content calendars — using FutureProof context to align with audience psychology, platform algorithm mechanics, and brand voice.
-  Trigger: when a user asks to write a tweet, draft a Twitter/X thread, build an X content calendar, or improve their Twitter/X engagement and reach.
+  Writes Twitter/X content — single tweets, threads, quote-tweet replies
+  and post calendars — scored against six dimensions (hook, ICA
+  resonance, value density, engagement architecture, algorithm
+  alignment, strategic coherence). Use when the user says "write me a
+  tweet", "draft an X thread on [topic]", "rewrite this tweet for more
+  engagement", or "build a Twitter content plan". For LinkedIn use
+  linkedin-post-writer; for a multi-platform schedule use
+  content-calendar; this skill is X-platform-specific.
 ---
 
 ## Step 1: Connect to FutureProof

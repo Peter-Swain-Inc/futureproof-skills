@@ -1,8 +1,14 @@
 ---
 name: email-gap-hunter
 description: |
-  Analyses email marketing sequences and campaign data to identify performance gaps, dead zones, and missed revenue opportunities across the subscriber lifecycle.
-  Trigger: when a user shares email campaign metrics, sequence performance data, or subscriber engagement reports and asks to find gaps, diagnose drop-offs, or identify where revenue is leaking from their email programme.
+  Maps the subscriber lifecycle from opt-in to churn, finds missing sequences
+  (lifecycle dead zones), engagement decay inflection points, and segmentation
+  gaps, then quantifies revenue leakage and ranks fixes. Use when a user shares
+  ESP data or describes their email program and says things like "find the
+  gaps in my email flows", "where is my email program leaking revenue",
+  "audit my Klaviyo sequences", or "what email automations am I missing".
+  Program-wide gap and lifecycle audit — not single-campaign metric
+  interpretation.
 ---
 
 ## Step 1: Connect to FutureProof

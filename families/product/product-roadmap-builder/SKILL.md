@@ -1,8 +1,13 @@
 ---
 name: product-roadmap-builder
 description: |
-  Builds strategic, prioritised product roadmaps using FutureProof context, market intelligence, and user research signals.
-  Trigger: when a user asks to build, refine, or prioritise a product roadmap, or when they share a feature backlog, product strategy document, or stakeholder requests and need them structured into a time-bound delivery plan.
+  Builds time-phased product roadmaps with strategic themes, weighted priority
+  scoring, Now/Next/Later sequencing, trade-off registers, and tailored
+  stakeholder views (board, eng, sales, customer changelog). Use when users
+  say "build a product roadmap", "plan our next 3 quarters", "turn this
+  backlog into a roadmap", or "sequence these initiatives by quarter". For
+  full multi-quarter delivery plans, not single-request ranking or competitor
+  benchmarking.
 ---
 
 ## Step 1: Connect to FutureProof

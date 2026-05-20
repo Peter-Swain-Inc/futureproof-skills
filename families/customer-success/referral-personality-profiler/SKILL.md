@@ -1,8 +1,16 @@
 ---
 name: referral-personality-profiler
 description: |
-  Profiles existing customers and advocates by referral personality type to optimise ask timing, channel, incentive structure, and messaging for maximum referral yield.
-  Trigger: when a user wants to understand which customers are most likely to refer, asks how to segment their advocate base for referral campaigns, or needs to personalise referral outreach based on customer behavioural and psychographic traits.
+  Profiles a customer base into six referral personality archetypes —
+  Evangelist, Connector, Transactor, Helper, Status Seeker, Passive
+  Promoter — using behavioral and psychographic signals, then builds
+  archetype-specific activation playbooks for ask, channel, incentive,
+  and message. Use when the user says "which customers should I ask for
+  referrals", "segment my advocate base", "who are my top referrers",
+  "personalize my referral outreach", or shares a CRM/NPS export and
+  wants advocates classified. Identifies who to target — for when to ask
+  use referral-moment-generator, for the reward design use
+  incentive-reward-designer.
 ---
 
 ## Step 1: Connect to FutureProof

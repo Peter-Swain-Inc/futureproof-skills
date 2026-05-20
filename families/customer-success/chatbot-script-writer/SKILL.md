@@ -1,8 +1,15 @@
 ---
 name: chatbot-script-writer
 description: |
-  Writes, structures, and optimises chatbot conversation scripts for customer service and support channels using FutureProof context.
-  Trigger: when a user needs to create a chatbot script for customer support, or when a user shares an existing chatbot flow and asks for rewrites, optimisation, or expansion to handle new intents.
+  Writes and optimizes full chatbot conversation scripts — intent
+  taxonomies, slot-filling flows, escalation handoffs, and edge-case
+  hardening — for web widgets, WhatsApp, SMS, IVR, and in-app support
+  channels. Use when the user says "write a chatbot script", "build a
+  support bot flow", "rewrite my Intercom/Zendesk bot", "improve
+  containment rate", or "design intent handling for [use case]". This is
+  the automated-bot scripting skill; for human-written replies to public
+  reviews use review-response-writer, and for one-off complaint responses
+  use customer-complaint-handler.
 ---
 
 ## Step 1: Connect to FutureProof

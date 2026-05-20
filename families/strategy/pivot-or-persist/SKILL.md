@@ -1,8 +1,14 @@
 ---
 name: pivot-or-persist
 description: |
-  Guides founders through high-stakes strategic inflection points using structured decision frameworks, evidence synthesis, and scenario modelling.
-  Trigger: when a user is debating whether to pivot their product, market, or business model — or when they share declining metrics, market signals, or investor feedback and ask whether to stay the course or change direction.
+  Resolves a pivot-or-persist inflection point with a status-quo viability
+  scorecard, pivot-type taxonomy, evidence threshold test, and asset
+  transfer audit — outputting a persist / pivot / validate-then-decide
+  recommendation with a 4-week validation sprint. Use when a user says
+  "should I pivot", "is it time to change direction", "metrics are
+  declining — stay or shift", or "I'm thinking about a pivot but not
+  sure". For pivot-vs-persist specifically, not generic strategic
+  advising.
 ---
 
 ## Step 1: Connect to FutureProof

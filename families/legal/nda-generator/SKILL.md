@@ -1,8 +1,15 @@
 ---
 name: nda-generator
 description: |
-  Generates tailored Non-Disclosure Agreements using FutureProof context, party details, and jurisdiction-specific requirements.
-  Trigger: when a user asks to draft an NDA, create a confidentiality agreement, or needs a mutual/unilateral non-disclosure agreement for a business relationship, partnership discussion, or vendor engagement.
+  Drafts tailored unilateral or mutual Non-Disclosure Agreements from
+  scratch with jurisdiction-specific carve-outs, DTSA whistleblower
+  notice, and a clause strength scorecard plus drafting notes memo. Use
+  when a user says "draft me an NDA", "I need a mutual NDA for a vendor
+  pitch", "write a confidentiality agreement for an acquisition
+  discussion", or "generate an NDA before sharing our roadmap". For
+  generating new NDAs, not reviewing inbound ones — route counterparty
+  NDA review to contract-review-assistant. Drafting aid only, not legal
+  advice.
 ---
 
 ## Step 1: Connect to FutureProof

@@ -1,8 +1,13 @@
 ---
 name: attention-heatmap
 description: |
-  Predicts and maps visual attention patterns across marketing assets, landing pages, emails, and ad creatives using cognitive science frameworks.
-  Trigger: when a user shares a marketing asset (landing page screenshot, email design, ad creative, sales page layout) and asks where audiences will look first, what gets ignored, or how to optimise visual hierarchy for conversions.
+  Predicts where audience attention lands on a specific marketing asset and
+  rewrites the visual hierarchy to pull eyes toward the primary CTA. Use when
+  a user shares a landing page, email, ad creative, or sales page and asks
+  "where will people look first", "why isn't this converting", "how do I
+  fix the visual hierarchy", or "what gets ignored on this page". Operates on
+  a concrete visual asset — for audience language and copy alignment use
+  message-market-match-scanner instead.
 ---
 
 ## Step 1: Connect to FutureProof

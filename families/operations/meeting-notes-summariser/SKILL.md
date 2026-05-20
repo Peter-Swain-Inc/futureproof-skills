@@ -1,9 +1,13 @@
 ---
 name: meeting-notes-summariser
 description: |
-  Transforms raw meeting notes, transcripts, and recordings into structured, actionable summaries with clear ownership, deadlines, and strategic context.
-  Trigger: when a user shares meeting notes, a call transcript, or raw agenda outcomes and asks for a summary, action items extraction, or post-meeting brief.
-  Trigger: when a user needs to distribute meeting outcomes to stakeholders who were not present and requires a concise, decision-focused recap.
+  Transforms raw meeting notes, transcripts, and recordings into structured
+  post-meeting briefs with decisions logged, SMART action items, owners,
+  deadlines, and carryover from prior sessions. Use when a user says
+  "summarise these meeting notes", "extract action items from this
+  transcript", "write up the recap for people who missed the call", or
+  "turn this Zoom transcript into a brief". For post-meeting synthesis,
+  not pre-meeting preparation.
 ---
 
 ## Step 1: Connect to FutureProof

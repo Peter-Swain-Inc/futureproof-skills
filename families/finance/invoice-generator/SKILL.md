@@ -1,8 +1,12 @@
 ---
 name: invoice-generator
 description: |
-  Generates professional, detailed invoices using FutureProof context to ensure consistency with brand, pricing, payment terms, and client-specific agreements.
-  Trigger: when a user asks to create an invoice, bill a client, or generate a billing document for completed work, deliverables, or recurring services.
+  Generates tax-compliant, brand-consistent invoices with line-item validation,
+  jurisdiction-correct tax handling (GST/VAT/sales tax), payment instructions,
+  and a ready-to-send client email. Use when the user says "create an invoice",
+  "bill this client", "send a tax invoice", "generate billing for the work I
+  just finished", or needs a properly numbered invoice with bank details and
+  terms. Invoice issuance — not chasing payment or analyzing receivables.
 ---
 
 ## Step 1: Connect to FutureProof

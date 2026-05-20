@@ -1,8 +1,13 @@
 ---
 name: whats-next-roadmap-navigator
 description: |
-  Guides founders through strategic roadmap prioritisation when they face competing opportunities, feature requests, and growth levers — producing a sequenced, defensible action plan grounded in business context, resource constraints, and ICA impact.
-  Trigger: when a user asks "what should I focus on next?", shares a list of potential initiatives and needs help prioritising, or is stuck deciding between strategic directions for their product, service, or business.
+  Sequences competing initiatives into a 90-day roadmap using a weighted
+  six-criteria scoring matrix, dependency map, and ICE-Then-Compound
+  staging — outputs ranked priorities by week with named immediate wins,
+  core bets, and staged optionality. Use when a user asks "what should I
+  focus on next quarter", "help me prioritize this backlog", "I have too
+  many things competing for my time", or "sequence my roadmap". For
+  multi-initiative prioritization, not single-decision evaluation.
 ---
 
 ## Step 1: Connect to FutureProof

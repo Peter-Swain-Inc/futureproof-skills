@@ -1,8 +1,12 @@
 ---
 name: crisis-comms-responder
 description: |
-  Guides organisations through crisis communications with structured rapid-response frameworks, stakeholder messaging, and reputation management protocols using FutureProof context.
-  Trigger: when a user reports a reputational threat, PR crisis, data breach, executive misconduct allegation, product recall, or negative media coverage and needs immediate communications guidance; or when a user asks for help drafting holding statements, stakeholder notifications, or crisis escalation plans.
+  Generates rapid-response crisis comms packages — holding statement, stakeholder
+  messaging matrix, reactive Q&A, spokesperson briefing card, 72-hour action
+  timeline — using the SCOPE diagnostic and Benoit Image Repair taxonomy. Use when
+  a user says "we have a PR crisis", "draft a holding statement for a data breach",
+  "respond to negative press about", or reports a recall, executive misconduct, or
+  regulatory exposure. Reactive emergency response, not proactive announcements.
 ---
 
 ## Step 1: Connect to FutureProof

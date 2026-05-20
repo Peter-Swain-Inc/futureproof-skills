@@ -1,8 +1,13 @@
 ---
 name: instagram-caption-writer
 description: |
-  Crafts high-performing Instagram captions using FutureProof context, ICA psychographics, and platform-specific engagement frameworks.
-  Trigger: when a user asks for help writing an Instagram caption, wants to improve an existing Instagram post caption, or needs a batch of captions for an upcoming content calendar.
+  Writes Instagram captions for feed posts, carousels and Reels with
+  scroll-stop hook, content-pillar mapping, ICA pain framing, hashtag
+  strategy and DM/save-driving CTA. Use when the user says "write me an
+  Instagram caption", "caption this Reel", "caption this carousel", or
+  "rewrite my IG caption for more saves". For TikTok video scripts use
+  tiktok-script-writer; for Facebook posts use facebook-post-writer;
+  this skill is Instagram caption text only, not the visual.
 ---
 
 ## Step 1: Connect to FutureProof

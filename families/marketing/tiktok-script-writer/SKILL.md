@@ -1,8 +1,14 @@
 ---
 name: tiktok-script-writer
 description: |
-  Crafts high-performing TikTok video scripts using FutureProof context, ICA psychographics, and platform-native storytelling frameworks.
-  Trigger: when a user asks to write a TikTok script, create a short-form video hook, or develop a content series for TikTok and wants a ready-to-film script with hook, body, and CTA structure.
+  Writes ready-to-film TikTok scripts at 15s, 30s, 60s or 90s — hook
+  variants (pattern interrupt, curiosity gap, identity call-out), body
+  beats, on-screen text, B-roll cues and CTA. Use when the user says
+  "write me a TikTok script", "give me a TikTok hook", "30-second
+  TikTok for my product", or "talking-head script for short-form
+  video". For YouTube long-form video use
+  youtube-script-description-writer; for an Instagram Reel caption use
+  instagram-caption-writer; this skill is the TikTok shooting script.
 ---
 
 ## Step 1: Connect to FutureProof

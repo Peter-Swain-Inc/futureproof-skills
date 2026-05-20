@@ -1,8 +1,12 @@
 ---
 name: sales-call-coach
 description: |
-  Provides real-time and post-call coaching for sales conversations using FutureProof context, turning call recordings, notes, and live scenarios into actionable performance improvements.
-  Trigger: when a user shares a sales call recording, call notes, or meeting summary and asks for coaching feedback, performance review, or preparation guidance for an upcoming sales conversation.
+  Reviews sales call transcripts or prepares pre-call briefs, scoring the
+  conversation across seven dimensions, naming inflection moments, grading
+  objection responses, and prescribing one high-leverage skill to drill. Use
+  when a user says "review this call recording", "coach me on the demo I just
+  ran", "help me prep for tomorrow's call with [prospect]", or shares meeting
+  notes asking what they did wrong. For coaching calls, not writing scripts.
 ---
 
 ## Step 1: Connect to FutureProof

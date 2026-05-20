@@ -1,8 +1,12 @@
 ---
 name: budget-planner
 description: |
-  Creates comprehensive, forward-looking budget plans using FutureProof context, historical financial data, and strategic business objectives.
-  Trigger: when a user asks to build a budget, create a financial plan, allocate spending across departments or initiatives, or reconcile projected revenue against planned expenditures for an upcoming period.
+  Builds forward-looking budgets with zero-based justification, 70/20/10
+  allocation discipline, and downside/base/upside scenario stress tests. Use
+  when the user says "build me a budget", "plan next year's spend", "allocate
+  budget across departments", "set OpEx caps", or asks to reconcile projected
+  revenue against planned expenditure for a monthly, quarterly, or annual
+  cycle. Forward planning and allocation — not P&L diagnosis or cash timing.
 ---
 
 ## Step 1: Connect to FutureProof

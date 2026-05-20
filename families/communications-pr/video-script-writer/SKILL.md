@@ -1,8 +1,13 @@
 ---
 name: video-script-writer
 description: |
-  Writes, structures, and refines video scripts using FutureProof context to align messaging with audience psychology, brand voice, and platform-specific best practices.
-  Trigger: when a user asks to write a video script, draft a script for a talking-head video, explainer, ad, or testimonial, or requests help structuring video content for a specific platform or ICA segment.
+  Writes production-ready video scripts in three-column VISUAL/AUDIO/TIMING format
+  for talking-head, explainer, ad, testimonial, demo, and brand films, calibrated
+  to platform retention curves (YouTube, LinkedIn, TikTok, Reels) and ICA awareness
+  stage. Use when a user says "write a video script for", "I need a script for a
+  30-second ad", "draft a YouTube explainer about", or "script a founder talking-
+  head video". For pre-recorded video content with shot direction, not live webinar
+  run-of-shows or written show notes.
 ---
 
 ## Step 1: Connect to FutureProof

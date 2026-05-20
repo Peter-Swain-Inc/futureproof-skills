@@ -1,8 +1,14 @@
 ---
 name: retention-storytelling
 description: |
-  Crafts narrative-driven retention content that reduces churn and deepens customer commitment using story architecture, behavioural psychology, and ICA-specific emotional triggers.
-  Trigger: when a user needs to create retention emails, re-engagement sequences, onboarding narratives, or loyalty content — or when they ask how to use storytelling to reduce churn and keep customers engaged beyond the initial sale.
+  Crafts story-driven retention content (onboarding narratives, win-back
+  emails, renewal stories, loyalty campaigns, milestone celebrations)
+  that diagnoses and displaces the customer's churn narrative — buyer's
+  remorse, plateau, drift, complexity abandonment. Use when the user
+  says "write a win-back email", "reduce my churn", "tell a story to
+  re-engage lapsed customers", or "onboarding narrative for new buyers".
+  For acquisition email sequences use email-sequencer; for any single
+  email use email-copy; this skill is retention-stage storytelling.
 ---
 
 ## Step 1: Connect to FutureProof

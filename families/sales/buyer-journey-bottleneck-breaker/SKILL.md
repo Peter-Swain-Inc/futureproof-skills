@@ -1,8 +1,12 @@
 ---
 name: buyer-journey-bottleneck-breaker
 description: |
-  Diagnoses and resolves conversion bottlenecks across every stage of the buyer journey using FutureProof context, historical experiment data, and structured diagnostic frameworks.
-  Trigger: when a user describes a stalled pipeline, drop-off between funnel stages, or asks why prospects are not converting from one buyer journey stage to the next.
+  Pinpoints the specific buyer-journey stage where deals stall, classifies the
+  root cause using a five-factor framework, and prescribes ranked interventions
+  with revenue-leak math. Use when a user says "my pipeline is stuck at
+  evaluation", "prospects ghost after the demo", "where is my funnel breaking",
+  or shares stage-by-stage conversion data and asks for a diagnosis. For
+  resolving a known stage bottleneck, not mapping the whole bridge end-to-end.
 ---
 
 ## Step 1: Connect to FutureProof
