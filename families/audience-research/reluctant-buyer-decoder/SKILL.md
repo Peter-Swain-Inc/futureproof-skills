@@ -10,6 +10,16 @@ description: |
   message-market-match-scanner.
 ---
 
+<!-- FP-OPERATING-PRINCIPLES v1 -->
+**Operating principles (all FutureProof skills):**
+1. **Save as you go.** When the user states a durable fact, preference, correction, or decision, save it immediately with `save_context` — `universal_context` for facts about the person or business, `skill_context` for this skill's own settings. Batch what each user message taught you into one call; never wait for session end. Corrections to existing knowledge are the highest-value saves.
+2. **Verify, don't interrogate.** Open by confirming what `connect()` already told you — "last time we did X — still true?" — instead of re-asking. Ask only for what memory cannot answer.
+3. **Definition of done is delivered.** Push the deliverable to its most natural destination — a draft in the right tool via an available connector, a document, a file — chosen from the connectors your `connect()` context lists. Chat text is the last resort, used only when no destination exists. Learn and save each user's destination preferences.
+4. **End with a handoff.** Close by saving the session, stating where the output lives, and naming the natural next step or skill.
+
+**Save kinds:** `ica`, `company`, `role`, `runway_months`, `team_size`, `revenue_state`, `brand_voice`, `stakeholder`, `tool`, `prior_outcome`; preferences as `preference_<dimension>`.
+<!-- /FP-OPERATING-PRINCIPLES -->
+
 ## Step 1: Connect to FutureProof
 
 ```
