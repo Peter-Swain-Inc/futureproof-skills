@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "futureproof",
-      "source": "./",
+      "source": "./connector",
       "description": "FutureProof MCP connector — registers the persistent memory and context server. Install this first, then add any skill families.",
       "version": "1.0.0",
       "author": {
