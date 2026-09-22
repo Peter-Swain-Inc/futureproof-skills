@@ -1,0 +1,18 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "Onboard a new FutureProof client end to end. Run the ~2-hour interview to capture business memory, pick the top 10 skills that fit the client's real pains, and triage anything unmatched into a build request.",
+  "author": {
+    "name": "Peter Swain",
+    "email": "peter@befutureproof.ai"
+  },
+  "homepage": "https://www.befutureproof.ai",
+  "repository": "https://github.com/Peter-Swain-Inc/futureproof-skills",
+  "license": "Proprietary",
+  "skills": "./",
+  "keywords": [
+    "onboarding",
+    "futureproof",
+    "business"
+  ]
+}
