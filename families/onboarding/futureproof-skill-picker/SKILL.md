@@ -13,7 +13,7 @@ description: |
 
 ## Words used here
 
-- **HyperTuned memory** — the 10-section write-up the onboarding interview produced about one client. Call it "the memory". It arrives in `context` when you connect.
+- **HyperTuned memory**: the 10-section write-up the onboarding interview produced about one client. Call it "the memory". After you connect, look for it in the "User Knowledge" section of the connect result.
 - **The catalog** — the 145 FutureProof skills that already exist, listed in full in the **Catalog index** at the end of this skill.
 - **A pain** — a problem, a bottleneck, or a task the client repeats. Anything a skill could fix or speed up.
 - **Match text** — a catalog entry's one-line summary: a capability gist plus a "Use when…" trigger. You rank a skill by its match text.
@@ -25,14 +25,14 @@ description: |
 FutureProof:connect(skill="futureproof-skill-picker")
 ```
 
-The client's memory lives in the returned `context` (the onboarding interview saves it there as `universal_context.business_memory`).
+After you connect, look in the "User Knowledge" section of the result. The client's business memory is there as JSON text with a `business_memory` field. The onboarding interview saved it with `save_context`. The result has no `universal_context` field, so do not look for one.
 
 > **Returning user check:** If `recent_sessions` shows the picker already ran for
 > this client, open with what was recommended last time and ask whether to
 > re-rank against updated pains or continue an earlier plan. Otherwise run the
 > full ranking below.
 
-**Load the memory before you rank anything.** Confirm you are working one client at a time. If no memory exists in `context`, stop — run the **futureproof-onboarding-interview** skill first, then come back. Read all 10 sections before ranking.
+**Load the memory before you rank anything.** Confirm you are working one client at a time. If the memory document is already in this chat, use it. The user may paste it, or the onboarding interview may have written it earlier in this chat. A memory saved in the last minute may not show in "User Knowledge" yet. If the interview just saved it, wait one minute and connect again. If you still find no memory, stop. Run the **futureproof-onboarding-interview** skill first. Then come back and run this skill. Read all 10 sections before ranking.
 
 ## Step 2: Pull the client's pains
 
