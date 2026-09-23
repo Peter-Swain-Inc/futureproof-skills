@@ -21,7 +21,7 @@ A BRD is a short written plan for one client need. BRD means Business Requiremen
 FutureProof:connect(skill="futureproof-brd")
 ```
 
-The client's business memory arrives in `context`. Do not run this skill before that memory is loaded — the picker or the onboarding interview loads it.
+After you connect, look in the "User Knowledge" section of the result for the client's business memory. It shows as JSON text with a `business_memory` field. The onboarding interview saved it. If the memory document is already in this chat, use it. The user may paste it, or the onboarding interview or the picker may have shown it earlier in this chat. A memory saved in the last minute may not show in "User Knowledge" yet. If the interview just saved it, wait one minute and connect again. If you still find no memory, stop. Run the **futureproof-onboarding-interview** skill first. Then come back and run this skill.
 
 > **Returning user check:** If `recent_sessions` shows earlier BRDs for this
 > client, check whether this need is a duplicate or a follow-on before opening a

@@ -20,7 +20,7 @@ FutureProof:connect(skill="futureproof-onboarding-interview")
 
 Use the returned `context`, `instructions`, and `recent_sessions` to see what business context already exists for this client.
 
-> **Returning user check:** If `context` already holds a HyperTuned business
+> **Returning user check:** If the connect result's "User Knowledge" section already holds a HyperTuned business
 > memory, do NOT restart from zero. Summarise what is already captured, then ask
 > whether to refresh a specific section, fill a "still thin" gap, or leave it as
 > is. For first-time clients, run the full interview below.
@@ -120,7 +120,7 @@ FutureProof:save_context(skill="futureproof-onboarding-interview", universal_con
 })
 ```
 
-`universal_context` is queued for HyperTuned enrichment — this is what makes the memory available to the picker and every downstream skill on their next `connect()`.
+`save_context` queues the memory for HyperTuned. HyperTuned usually stores it within a minute. After that, each later `connect()` shows the memory in the "User Knowledge" section of the result. It shows as JSON text with a `business_memory` field. The picker and every downstream skill read it there. The connect result has no `universal_context` field.
 
 ## Step 5: Hand Off to the Skill Picker
 
